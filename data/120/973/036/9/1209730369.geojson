@@ -1,0 +1,67 @@
+{
+  "id": 1209730369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.68333,11.6,-14.68333,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-14.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Changael Singala",
+    "gn:country_code":"GW",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2373449,
+    "gn:latitude":11.6,
+    "gn:longitude":-14.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Changael Sing\u00e1l\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373449
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"12efd4fef612cd7b9538527d2094518e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1209730369,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1209730369,
+    "wof:lastmodified":1536379284,
+    "wof:name":"Changael Singala",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.68333,
+    11.6,
+    -14.68333,
+    11.6
+],
+  "geometry": {"coordinates":[-14.68333,11.6],"type":"Point"}
+}

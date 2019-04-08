@@ -1,0 +1,66 @@
+{
+  "id": 1209315017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.35417,12.03833,-15.35417,12.03833",
+    "geom:latitude":12.03833,
+    "geom:longitude":-15.35417,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sogume",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369203,
+    "gn:latitude":12.03833,
+    "gn:longitude":-15.35417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sogume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u00fame",
+        "Sogume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369203
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"19ba67718df10b51b34110d72b8c775c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209315017
+        }
+    ],
+    "wof:id":1209315017,
+    "wof:lastmodified":1537625398,
+    "wof:name":"Sogume",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.35417,
+    12.03833,
+    -15.35417,
+    12.03833
+],
+  "geometry": {"coordinates":[-15.35417,12.03833],"type":"Point"}
+}

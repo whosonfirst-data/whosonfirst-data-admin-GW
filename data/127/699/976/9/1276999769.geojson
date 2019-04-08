@@ -1,0 +1,67 @@
+{
+  "id": 1276999769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.86667,12.05,-14.86667,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-14.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Santa Helena",
+    "gn:country_code":"GW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370066,
+    "gn:latitude":12.05,
+    "gn:longitude":-14.86667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa Helena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370066
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"714b53160fbfb8e71400f5292b8212d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758187,
+            "locality_id":1276999769,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1276999769,
+    "wof:lastmodified":1536879671,
+    "wof:name":"Santa Helena",
+    "wof:parent_id":1108758187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.86667,
+    12.05,
+    -14.86667,
+    12.05
+],
+  "geometry": {"coordinates":[-14.86667,12.05],"type":"Point"}
+}

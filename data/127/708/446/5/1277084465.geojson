@@ -1,0 +1,67 @@
+{
+  "id": 1277084465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.1,11.51667,-15.1,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":-15.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gambine",
+    "gn:country_code":"GW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372443,
+    "gn:latitude":11.51667,
+    "gn:longitude":-15.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gambine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372443
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"91b2d27c5a3f76469fe79b63b3f06689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758253,
+            "locality_id":1277084465,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1277084465,
+    "wof:lastmodified":1536765428,
+    "wof:name":"Gambine",
+    "wof:parent_id":1108758253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.1,
+    11.51667,
+    -15.1,
+    11.51667
+],
+  "geometry": {"coordinates":[-15.1,11.51667],"type":"Point"}
+}

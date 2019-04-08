@@ -1,0 +1,71 @@
+{
+  "id": 1309721867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.1,12.33333,-14.1,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":-14.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Carantaba",
+    "gn:country_code":"GW",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373639,
+    "gn:latitude":12.33333,
+    "gn:longitude":-14.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Carantab\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carantab\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373639,
+        "wk:page":"Carantaba"
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"0d3e74e230a089520a56f0d747591249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758237,
+            "locality_id":1309721867,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1309721867,
+    "wof:lastmodified":1537625452,
+    "wof:name":"Carantaba",
+    "wof:parent_id":1108758237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.1,
+    12.33333,
+    -14.1,
+    12.33333
+],
+  "geometry": {"coordinates":[-14.1,12.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327351901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.73333,11.25,-15.73333,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":-15.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Umpucute",
+    "gn:country_code":"GW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368767,
+    "gn:latitude":11.25,
+    "gn:longitude":-15.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Umpucute",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671543,
+        1108758209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368767
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"925436b8960fc78c217728558f092d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758209,
+            "locality_id":1327351901,
+            "region_id":85671543
+        }
+    ],
+    "wof:id":1327351901,
+    "wof:lastmodified":1536797264,
+    "wof:name":"Umpucute",
+    "wof:parent_id":1108758209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.73333,
+    11.25,
+    -15.73333,
+    11.25
+],
+  "geometry": {"coordinates":[-15.73333,11.25],"type":"Point"}
+}

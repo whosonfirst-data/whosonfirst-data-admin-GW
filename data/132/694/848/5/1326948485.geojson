@@ -1,0 +1,67 @@
+{
+  "id": 1326948485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.1,12.3,-14.1,12.3",
+    "geom:latitude":12.3,
+    "geom:longitude":-14.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paiaicunda",
+    "gn:country_code":"GW",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2370984,
+    "gn:latitude":12.3,
+    "gn:longitude":-14.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Paiaicunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370984
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5bbcbecd6c275196131b516f8ee0b145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758237,
+            "locality_id":1326948485,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1326948485,
+    "wof:lastmodified":1536880697,
+    "wof:name":"Paiaicunda",
+    "wof:parent_id":1108758237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.1,
+    12.3,
+    -14.1,
+    12.3
+],
+  "geometry": {"coordinates":[-14.1,12.3],"type":"Point"}
+}

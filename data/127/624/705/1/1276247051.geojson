@@ -1,0 +1,67 @@
+{
+  "id": 1276247051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.11667,11.7,-14.11667,11.7",
+    "geom:latitude":11.7,
+    "geom:longitude":-14.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bundocuro",
+    "gn:country_code":"GW",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374493,
+    "gn:latitude":11.7,
+    "gn:longitude":-14.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bundocuro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374493
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b434068db45b257c819a0c1fba0a95a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758229,
+            "locality_id":1276247051,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1276247051,
+    "wof:lastmodified":1536893997,
+    "wof:name":"Bundocuro",
+    "wof:parent_id":1108758229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.11667,
+    11.7,
+    -14.11667,
+    11.7
+],
+  "geometry": {"coordinates":[-14.11667,11.7],"type":"Point"}
+}

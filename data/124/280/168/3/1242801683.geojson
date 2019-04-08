@@ -1,0 +1,72 @@
+{
+  "id": 1242801683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.0225,12.52333,-15.0225,12.52333",
+    "geom:latitude":12.52333,
+    "geom:longitude":-15.0225,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Camalem",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374144,
+    "gn:latitude":12.52333,
+    "gn:longitude":-15.0225,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Camalem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camelem",
+        "Camalem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374144
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7802a6f8496f6a4afc5dccb238e807ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1242801683,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1242801683,
+    "wof:lastmodified":1537625458,
+    "wof:name":"Camalem",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.0225,
+    12.52333,
+    -15.0225,
+    12.52333
+],
+  "geometry": {"coordinates":[-15.0225,12.52333],"type":"Point"}
+}

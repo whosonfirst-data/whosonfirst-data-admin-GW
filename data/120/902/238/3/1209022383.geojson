@@ -1,0 +1,61 @@
+{
+  "id": 1209022383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.53333,12.3,-14.53333,12.3",
+    "geom:latitude":12.3,
+    "geom:longitude":-14.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Timbinto",
+    "gn:country_code":"GW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368976,
+    "gn:latitude":12.3,
+    "gn:longitude":-14.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Timbint\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368976
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"dd57f61611de4e655e297aa1ce86b6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209022383
+        }
+    ],
+    "wof:id":1209022383,
+    "wof:lastmodified":1536300107,
+    "wof:name":"Timbinto",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.53333,
+    12.3,
+    -14.53333,
+    12.3
+],
+  "geometry": {"coordinates":[-14.53333,12.3],"type":"Point"}
+}

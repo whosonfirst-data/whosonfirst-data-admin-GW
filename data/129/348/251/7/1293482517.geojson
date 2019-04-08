@@ -1,0 +1,67 @@
+{
+  "id": 1293482517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.03833,12.0125,-16.03833,12.0125",
+    "geom:latitude":12.0125,
+    "geom:longitude":-16.03833,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pendinglo",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370822,
+    "gn:latitude":12.0125,
+    "gn:longitude":-16.03833,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Pendinglo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370822
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"620d92e56703e65b4823475501ca2062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758225,
+            "locality_id":1293482517,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1293482517,
+    "wof:lastmodified":1536794513,
+    "wof:name":"Pendinglo",
+    "wof:parent_id":1108758225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.03833,
+    12.0125,
+    -16.03833,
+    12.0125
+],
+  "geometry": {"coordinates":[-16.03833,12.0125],"type":"Point"}
+}

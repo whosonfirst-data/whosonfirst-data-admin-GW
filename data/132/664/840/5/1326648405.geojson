@@ -1,0 +1,67 @@
+{
+  "id": 1326648405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.45,12.41667,-14.45,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":-14.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Meta Seidi",
+    "gn:country_code":"GW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369410,
+    "gn:latitude":12.41667,
+    "gn:longitude":-14.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Meta Seidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369410
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"eea9be0bc7d44f0a29b0e138d9df8e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1326648405,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1326648405,
+    "wof:lastmodified":1536815782,
+    "wof:name":"Sincha Meta Seidi",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.45,
+    12.41667,
+    -14.45,
+    12.41667
+],
+  "geometry": {"coordinates":[-14.45,12.41667],"type":"Point"}
+}

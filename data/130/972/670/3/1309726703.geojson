@@ -1,0 +1,72 @@
+{
+  "id": 1309726703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65,12.45,-14.65,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-14.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Candombe Mane",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373896,
+    "gn:latitude":12.45,
+    "gn:longitude":-14.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Candombe Man\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camdombe Man\u00e9",
+        "Candombe Man\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373896
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"61c09735fc16b9ec7c6e42147e4cd278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1309726703,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1309726703,
+    "wof:lastmodified":1537625455,
+    "wof:name":"Candombe Mane",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65,
+    12.45,
+    -14.65,
+    12.45
+],
+  "geometry": {"coordinates":[-14.65,12.45],"type":"Point"}
+}

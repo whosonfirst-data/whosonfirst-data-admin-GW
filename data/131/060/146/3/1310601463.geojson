@@ -1,0 +1,73 @@
+{
+  "id": 1310601463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.41361,12.13639,-15.41361,12.13639",
+    "geom:latitude":12.13639,
+    "geom:longitude":-15.41361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uanquelim",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368862,
+    "gn:latitude":12.13639,
+    "gn:longitude":-15.41361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uanquelim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uaquelim",
+        "Uanquilin",
+        "Uanquelim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368862
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f319ac9796714b29840c3494916a7d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758247,
+            "locality_id":1310601463,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1310601463,
+    "wof:lastmodified":1537625394,
+    "wof:name":"Uanquelim",
+    "wof:parent_id":1108758247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.41361,
+    12.13639,
+    -15.41361,
+    12.13639
+],
+  "geometry": {"coordinates":[-15.41361,12.13639],"type":"Point"}
+}

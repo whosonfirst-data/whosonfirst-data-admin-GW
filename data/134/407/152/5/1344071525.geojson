@@ -1,0 +1,67 @@
+{
+  "id": 1344071525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.98333,11.46667,-14.98333,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":-14.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Salaqueual",
+    "gn:country_code":"GW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370232,
+    "gn:latitude":11.46667,
+    "gn:longitude":-14.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Salaqu\u00eaual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370232
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9678afe8920e308d8bdab0082e8ab7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758253,
+            "locality_id":1344071525,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1344071525,
+    "wof:lastmodified":1536858222,
+    "wof:name":"Salaqueual",
+    "wof:parent_id":1108758253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.98333,
+    11.46667,
+    -14.98333,
+    11.46667
+],
+  "geometry": {"coordinates":[-14.98333,11.46667],"type":"Point"}
+}

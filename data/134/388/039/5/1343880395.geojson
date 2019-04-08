@@ -1,0 +1,67 @@
+{
+  "id": 1343880395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.18667,12.09222,-16.18667,12.09222",
+    "geom:latitude":12.09222,
+    "geom:longitude":-16.18667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Benau",
+    "gn:country_code":"GW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374959,
+    "gn:latitude":12.09222,
+    "gn:longitude":-16.18667,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Benau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374959
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"4b549d058b0d8f5cd7502df3db95b83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758221,
+            "locality_id":1343880395,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1343880395,
+    "wof:lastmodified":1536636719,
+    "wof:name":"Benau",
+    "wof:parent_id":1108758221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.18667,
+    12.09222,
+    -16.18667,
+    12.09222
+],
+  "geometry": {"coordinates":[-16.18667,12.09222],"type":"Point"}
+}

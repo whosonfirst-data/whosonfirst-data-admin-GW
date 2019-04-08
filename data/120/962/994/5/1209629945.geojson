@@ -1,0 +1,61 @@
+{
+  "id": 1209629945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.96667,12.25,-15.96667,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":-15.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pejanguto",
+    "gn:country_code":"GW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370834,
+    "gn:latitude":12.25,
+    "gn:longitude":-15.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pejanguto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370834
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f5435ef6692a9506196d9256fe077623",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209629945
+        }
+    ],
+    "wof:id":1209629945,
+    "wof:lastmodified":1536281223,
+    "wof:name":"Pejanguto",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.96667,
+    12.25,
+    -15.96667,
+    12.25
+],
+  "geometry": {"coordinates":[-15.96667,12.25],"type":"Point"}
+}

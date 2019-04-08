@@ -1,0 +1,67 @@
+{
+  "id": 1310412035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.40139,12.05111,-15.40139,12.05111",
+    "geom:latitude":12.05111,
+    "geom:longitude":-15.40139,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Binibaque",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374828,
+    "gn:latitude":12.05111,
+    "gn:longitude":-15.40139,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Binibaque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374828
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5bcebb98d18656261566843121a8803b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758247,
+            "locality_id":1310412035,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1310412035,
+    "wof:lastmodified":1537049714,
+    "wof:name":"Binibaque",
+    "wof:parent_id":1108758247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.40139,
+    12.05111,
+    -15.40139,
+    12.05111
+],
+  "geometry": {"coordinates":[-15.40139,12.05111],"type":"Point"}
+}

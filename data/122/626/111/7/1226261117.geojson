@@ -1,0 +1,72 @@
+{
+  "id": 1226261117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.13333,12.25,-14.13333,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":-14.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paiama",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370980,
+    "gn:latitude":12.25,
+    "gn:longitude":-14.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paiama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paiana",
+        "Paiama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370980
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"bf525458a6ff0e0d36bb5136d64c27ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758233,
+            "locality_id":1226261117,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1226261117,
+    "wof:lastmodified":1537625424,
+    "wof:name":"Paiama",
+    "wof:parent_id":1108758233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.13333,
+    12.25,
+    -14.13333,
+    12.25
+],
+  "geometry": {"coordinates":[-14.13333,12.25],"type":"Point"}
+}

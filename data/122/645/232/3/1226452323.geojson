@@ -1,0 +1,67 @@
+{
+  "id": 1226452323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.16667,12.48333,-14.16667,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":-14.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cundara",
+    "gn:country_code":"GW",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373087,
+    "gn:latitude":12.48333,
+    "gn:longitude":-14.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"C\u00fandara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373087
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"2fbe7feb2d6b7a58f345611e25976e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1226452323,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1226452323,
+    "wof:lastmodified":1536634610,
+    "wof:name":"Cundara",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.16667,
+    12.48333,
+    -14.16667,
+    12.48333
+],
+  "geometry": {"coordinates":[-14.16667,12.48333],"type":"Point"}
+}

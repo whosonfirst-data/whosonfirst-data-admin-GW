@@ -1,0 +1,67 @@
+{
+  "id": 1343968313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.8,11.45,-14.8,11.45",
+    "geom:latitude":11.45,
+    "geom:longitude":-14.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Iero Bere",
+    "gn:country_code":"GW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372172,
+    "gn:latitude":11.45,
+    "gn:longitude":-14.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Iero B\u00e9r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372172
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"756b75ea512e32134ead834a0886e087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1343968313,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1343968313,
+    "wof:lastmodified":1537007840,
+    "wof:name":"Iero Bere",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.8,
+    11.45,
+    -14.8,
+    11.45
+],
+  "geometry": {"coordinates":[-14.8,11.45],"type":"Point"}
+}

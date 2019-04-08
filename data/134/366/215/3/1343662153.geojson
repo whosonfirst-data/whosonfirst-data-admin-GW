@@ -1,0 +1,67 @@
+{
+  "id": 1343662153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.20111,12.24694,-15.20111,12.24694",
+    "geom:latitude":12.24694,
+    "geom:longitude":-15.20111,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mambonco",
+    "gn:country_code":"GW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371572,
+    "gn:latitude":12.24694,
+    "gn:longitude":-15.20111,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Mambonc\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371572
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"ac9e523738cb31486d301263fe402128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758245,
+            "locality_id":1343662153,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1343662153,
+    "wof:lastmodified":1536952759,
+    "wof:name":"Mambonco",
+    "wof:parent_id":1108758245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.20111,
+    12.24694,
+    -15.20111,
+    12.24694
+],
+  "geometry": {"coordinates":[-15.20111,12.24694],"type":"Point"}
+}

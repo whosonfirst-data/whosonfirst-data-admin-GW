@@ -1,0 +1,72 @@
+{
+  "id": 1276672933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.28333,11.95,-14.28333,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-14.28333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Samba Gana",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370182,
+    "gn:latitude":11.95,
+    "gn:longitude":-14.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samba Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cam Samba Gano",
+        "Samba Gana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370182
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"0a56c48091401ae5f7c744797b5a598b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758233,
+            "locality_id":1276672933,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1276672933,
+    "wof:lastmodified":1537625412,
+    "wof:name":"Samba Gana",
+    "wof:parent_id":1108758233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.28333,
+    11.95,
+    -14.28333,
+    11.95
+],
+  "geometry": {"coordinates":[-14.28333,11.95],"type":"Point"}
+}

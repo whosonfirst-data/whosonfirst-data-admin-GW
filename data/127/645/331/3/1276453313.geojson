@@ -1,0 +1,72 @@
+{
+  "id": 1276453313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.5,12.38333,-14.5,12.38333",
+    "geom:latitude":12.38333,
+    "geom:longitude":-14.5,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Quecuta",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369368,
+    "gn:latitude":12.38333,
+    "gn:longitude":-14.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinch\u00e3 Quecuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jan\u00e0",
+        "Sinch\u00e3 Quecuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369368
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f57f34875eb886d3e7eef1d8847d2aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1276453313,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1276453313,
+    "wof:lastmodified":1537625401,
+    "wof:name":"Sincha Quecuta",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.5,
+    12.38333,
+    -14.5,
+    12.38333
+],
+  "geometry": {"coordinates":[-14.5,12.38333],"type":"Point"}
+}

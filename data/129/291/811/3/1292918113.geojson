@@ -1,0 +1,73 @@
+{
+  "id": 1292918113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.73333,11.83333,-13.73333,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":-13.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tarije",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369029,
+    "gn:latitude":11.83333,
+    "gn:longitude":-13.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tarije",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarige",
+        "Tarija",
+        "Tarije"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369029
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"333c0481a8f29cc308b920be13f06d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758229,
+            "locality_id":1292918113,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1292918113,
+    "wof:lastmodified":1537625395,
+    "wof:name":"Tarije",
+    "wof:parent_id":1108758229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.73333,
+    11.83333,
+    -13.73333,
+    11.83333
+],
+  "geometry": {"coordinates":[-13.73333,11.83333],"type":"Point"}
+}

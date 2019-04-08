@@ -1,0 +1,74 @@
+{
+  "id": 1276995853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.93333,11.76667,-14.93333,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":-14.93333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cancodea Beafada",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373941,
+    "gn:latitude":11.76667,
+    "gn:longitude":-14.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cancode\u00e0 Beafada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cancode\u00e1",
+        "Conc\u00e1dia",
+        "Conc\u00e1nia",
+        "Cancode\u00e0 Beafada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373941
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"001be1e326377603790b4353b4f28984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758253,
+            "locality_id":1276995853,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1276995853,
+    "wof:lastmodified":1537625456,
+    "wof:name":"Cancodea Beafada",
+    "wof:parent_id":1108758253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.93333,
+    11.76667,
+    -14.93333,
+    11.76667
+],
+  "geometry": {"coordinates":[-14.93333,11.76667],"type":"Point"}
+}

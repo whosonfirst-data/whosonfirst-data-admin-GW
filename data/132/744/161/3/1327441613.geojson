@@ -1,0 +1,67 @@
+{
+  "id": 1327441613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.06667,11.26667,-15.06667,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":-15.06667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cabessul",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2374385,
+    "gn:latitude":11.26667,
+    "gn:longitude":-15.06667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cabessul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374385
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"0796d5f66aafa775d745004ee5925bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758261,
+            "locality_id":1327441613,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1327441613,
+    "wof:lastmodified":1536667446,
+    "wof:name":"Cabessul",
+    "wof:parent_id":1108758261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.06667,
+    11.26667,
+    -15.06667,
+    11.26667
+],
+  "geometry": {"coordinates":[-15.06667,11.26667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225939297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.39361,12.30472,-16.39361,12.30472",
+    "geom:latitude":12.30472,
+    "geom:longitude":-16.39361,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Elia",
+    "gn:country_code":"GW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372781,
+    "gn:latitude":12.30472,
+    "gn:longitude":-16.39361,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Elia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372781
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5cff4f62f37898c24bf7df89f635fca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758227,
+            "locality_id":1225939297,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1225939297,
+    "wof:lastmodified":1536877902,
+    "wof:name":"Elia",
+    "wof:parent_id":1108758227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.39361,
+    12.30472,
+    -16.39361,
+    12.30472
+],
+  "geometry": {"coordinates":[-16.39361,12.30472],"type":"Point"}
+}

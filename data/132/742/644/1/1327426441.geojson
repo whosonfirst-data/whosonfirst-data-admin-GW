@@ -1,0 +1,72 @@
+{
+  "id": 1327426441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.76444,12.22167,-15.76444,12.22167",
+    "geom:latitude":12.22167,
+    "geom:longitude":-15.76444,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Boeme",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374704,
+    "gn:latitude":12.22167,
+    "gn:longitude":-15.76444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00f4eme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e3beme",
+        "B\u00f4eme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374704
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"009813dea5102d05d2e6d5d4dbaf4754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758219,
+            "locality_id":1327426441,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1327426441,
+    "wof:lastmodified":1537625464,
+    "wof:name":"Boeme",
+    "wof:parent_id":1108758219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.76444,
+    12.22167,
+    -15.76444,
+    12.22167
+],
+  "geometry": {"coordinates":[-15.76444,12.22167],"type":"Point"}
+}

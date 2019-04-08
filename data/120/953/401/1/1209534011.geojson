@@ -1,0 +1,61 @@
+{
+  "id": 1209534011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.78333,11.56667,-14.78333,11.56667",
+    "geom:latitude":11.56667,
+    "geom:longitude":-14.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Umaru Hela",
+    "gn:country_code":"GW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2368782,
+    "gn:latitude":11.56667,
+    "gn:longitude":-14.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Umaru Hel\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368782
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"74cd88f438e75175820da925e3f1532d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209534011
+        }
+    ],
+    "wof:id":1209534011,
+    "wof:lastmodified":1536284196,
+    "wof:name":"Umaru Hela",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.78333,
+    11.56667,
+    -14.78333,
+    11.56667
+],
+  "geometry": {"coordinates":[-14.78333,11.56667],"type":"Point"}
+}

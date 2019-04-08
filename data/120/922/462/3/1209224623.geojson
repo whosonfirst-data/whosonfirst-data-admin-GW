@@ -1,0 +1,66 @@
+{
+  "id": 1209224623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.63333,12.35,-14.63333,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":-14.63333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sao Jose",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370031,
+    "gn:latitude":12.35,
+    "gn:longitude":-14.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e3o Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponta Jassom",
+        "S\u00e3o Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370031
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b26c904537fba022262c0ce37a3c197f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209224623
+        }
+    ],
+    "wof:id":1209224623,
+    "wof:lastmodified":1537625410,
+    "wof:name":"Sao Jose",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.63333,
+    12.35,
+    -14.63333,
+    12.35
+],
+  "geometry": {"coordinates":[-14.63333,12.35],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344171607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.48333,12.68333,-14.48333,12.68333",
+    "geom:latitude":12.68333,
+    "geom:longitude":-14.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sare Pati",
+    "gn:country_code":"GW",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369847,
+    "gn:latitude":12.68333,
+    "gn:longitude":-14.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Pati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369847
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"a355d7d76e1a68fc51f16531922459a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1344171607,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1344171607,
+    "wof:lastmodified":1536715462,
+    "wof:name":"Sare Pati",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.48333,
+    12.68333,
+    -14.48333,
+    12.68333
+],
+  "geometry": {"coordinates":[-14.48333,12.68333],"type":"Point"}
+}

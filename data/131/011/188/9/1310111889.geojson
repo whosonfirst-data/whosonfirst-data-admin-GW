@@ -1,0 +1,72 @@
+{
+  "id": 1310111889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.3175,12.44528,-15.3175,12.44528",
+    "geom:latitude":12.44528,
+    "geom:longitude":-15.3175,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Caurba",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373493,
+    "gn:latitude":12.44528,
+    "gn:longitude":-15.3175,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caurb\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cauro",
+        "Caurb\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373493
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"a8ff3b4dc576bae5e246d04ef5406f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1310111889,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1310111889,
+    "wof:lastmodified":1537625450,
+    "wof:name":"Caurba",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.3175,
+    12.44528,
+    -15.3175,
+    12.44528
+],
+  "geometry": {"coordinates":[-15.3175,12.44528],"type":"Point"}
+}

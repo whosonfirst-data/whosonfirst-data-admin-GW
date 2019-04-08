@@ -1,0 +1,61 @@
+{
+  "id": 1209207235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.11556,12.42917,-16.11556,12.42917",
+    "geom:latitude":12.42917,
+    "geom:longitude":-16.11556,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gondo Grande",
+    "gn:country_code":"GW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372306,
+    "gn:latitude":12.42917,
+    "gn:longitude":-16.11556,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Gondo Grande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372306
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9188766b4339f449cf803f78e0f52c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209207235
+        }
+    ],
+    "wof:id":1209207235,
+    "wof:lastmodified":1536294413,
+    "wof:name":"Gondo Grande",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.115560000000002,
+    12.42917,
+    -16.115560000000002,
+    12.42917
+],
+  "geometry": {"coordinates":[-16.11556,12.42917],"type":"Point"}
+}

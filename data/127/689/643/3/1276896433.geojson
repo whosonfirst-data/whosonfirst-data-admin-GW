@@ -1,0 +1,67 @@
+{
+  "id": 1276896433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.74667,12.13194,-15.74667,12.13194",
+    "geom:latitude":12.13194,
+    "geom:longitude":-15.74667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Caluque",
+    "gn:country_code":"GW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374159,
+    "gn:latitude":12.13194,
+    "gn:longitude":-15.74667,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Caluque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374159
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"4863f2932238c061e562b124c42d7968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758219,
+            "locality_id":1276896433,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1276896433,
+    "wof:lastmodified":1537018244,
+    "wof:name":"Caluque",
+    "wof:parent_id":1108758219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.74667,
+    12.13194,
+    -15.74667,
+    12.13194
+],
+  "geometry": {"coordinates":[-15.74667,12.13194],"type":"Point"}
+}

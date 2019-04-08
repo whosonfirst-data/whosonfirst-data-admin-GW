@@ -1,0 +1,72 @@
+{
+  "id": 1259597705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.8,11.98333,-14.8,11.98333",
+    "geom:latitude":11.98333,
+    "geom:longitude":-14.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Faja",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369536,
+    "gn:latitude":11.98333,
+    "gn:longitude":-14.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinch\u00e3 Faja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madina",
+        "Sinch\u00e3 Faja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369536
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"6eb331c01c6c9e5c9dfad6e4225c74b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758187,
+            "locality_id":1259597705,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1259597705,
+    "wof:lastmodified":1537625403,
+    "wof:name":"Sincha Faja",
+    "wof:parent_id":1108758187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.8,
+    11.98333,
+    -14.8,
+    11.98333
+],
+  "geometry": {"coordinates":[-14.8,11.98333],"type":"Point"}
+}

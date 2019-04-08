@@ -1,0 +1,61 @@
+{
+  "id": 1209115965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.76667,11.68333,-13.76667,11.68333",
+    "geom:latitude":11.68333,
+    "geom:longitude":-13.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cumore",
+    "gn:country_code":"GW",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373113,
+    "gn:latitude":11.68333,
+    "gn:longitude":-13.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cumore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373113
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"e4d6bd62e3acbf7e8aa23ac144719d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209115965
+        }
+    ],
+    "wof:id":1209115965,
+    "wof:lastmodified":1536297253,
+    "wof:name":"Cumore",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.76667,
+    11.68333,
+    -13.76667,
+    11.68333
+],
+  "geometry": {"coordinates":[-13.76667,11.68333],"type":"Point"}
+}

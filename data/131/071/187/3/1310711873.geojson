@@ -1,0 +1,67 @@
+{
+  "id": 1310711873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.91667,12.68333,-14.91667,12.68333",
+    "geom:latitude":12.68333,
+    "geom:longitude":-14.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Faquina Fula",
+    "gn:country_code":"GW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372667,
+    "gn:latitude":12.68333,
+    "gn:longitude":-14.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Faquina Fula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677027,
+        1108691461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372667
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f2af7dfa7cf2b9d91189daca57017a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691461,
+            "locality_id":1310711873,
+            "region_id":85677027
+        }
+    ],
+    "wof:id":1310711873,
+    "wof:lastmodified":1536616844,
+    "wof:name":"Faquina Fula",
+    "wof:parent_id":1108691461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.91667,
+    12.68333,
+    -14.91667,
+    12.68333
+],
+  "geometry": {"coordinates":[-14.91667,12.68333],"type":"Point"}
+}

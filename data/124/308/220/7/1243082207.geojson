@@ -1,0 +1,72 @@
+{
+  "id": 1243082207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.73333,12.51667,-14.73333,12.51667",
+    "geom:latitude":12.51667,
+    "geom:longitude":-14.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sare Coli Embalo",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369965,
+    "gn:latitude":12.51667,
+    "gn:longitude":-14.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sare Coli Embalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sare Cole Embalo",
+        "Sare Coli Embalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369965
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"3d7a55e6c339100f09e3c77475ee9e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1243082207,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1243082207,
+    "wof:lastmodified":1537625409,
+    "wof:name":"Sare Coli Embalo",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.73333,
+    12.51667,
+    -14.73333,
+    12.51667
+],
+  "geometry": {"coordinates":[-14.73333,12.51667],"type":"Point"}
+}

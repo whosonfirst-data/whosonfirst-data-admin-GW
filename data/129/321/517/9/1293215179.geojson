@@ -1,0 +1,67 @@
+{
+  "id": 1293215179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.95,12.65,-13.95,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-13.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cuntim",
+    "gn:country_code":"GW",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373066,
+    "gn:latitude":12.65,
+    "gn:longitude":-13.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cuntim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373066
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"122ed97d0c55d81b8cbd4427978801d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1293215179,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1293215179,
+    "wof:lastmodified":1536682463,
+    "wof:name":"Cuntim",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.95,
+    12.65,
+    -13.95,
+    12.65
+],
+  "geometry": {"coordinates":[-13.95,12.65],"type":"Point"}
+}

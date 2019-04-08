@@ -1,0 +1,72 @@
+{
+  "id": 1193034219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.45,12.31667,-14.45,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":-14.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bacar Jau",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375277,
+    "gn:latitude":12.31667,
+    "gn:longitude":-14.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e1car Jau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bacar Djau",
+        "B\u00e1car Jau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375277
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"ce0f5483f5854d3f1ae90dd5d4cb1968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1193034219,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1193034219,
+    "wof:lastmodified":1537625470,
+    "wof:name":"Bacar Jau",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.45,
+    12.31667,
+    -14.45,
+    12.31667
+],
+  "geometry": {"coordinates":[-14.45,12.31667],"type":"Point"}
+}

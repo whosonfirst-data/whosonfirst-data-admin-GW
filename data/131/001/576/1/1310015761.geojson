@@ -1,0 +1,67 @@
+{
+  "id": 1310015761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.08333,12.43333,-15.08333,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":-15.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jufara",
+    "gn:country_code":"GW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371876,
+    "gn:latitude":12.43333,
+    "gn:longitude":-15.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Jufar\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371876
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"288f37f4c62a58ee210ad974df4f52db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1310015761,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1310015761,
+    "wof:lastmodified":1536626597,
+    "wof:name":"Jufara",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.08333,
+    12.43333,
+    -15.08333,
+    12.43333
+],
+  "geometry": {"coordinates":[-15.08333,12.43333],"type":"Point"}
+}

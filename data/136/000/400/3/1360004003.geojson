@@ -1,0 +1,67 @@
+{
+  "id": 1360004003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.55,12.01667,-14.55,12.01667",
+    "geom:latitude":12.01667,
+    "geom:longitude":-14.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sambel Bere",
+    "gn:country_code":"GW",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370154,
+    "gn:latitude":12.01667,
+    "gn:longitude":-14.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sambel B\u00e9r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370154
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"a1a4404dc017475b3ee312953a356d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758191,
+            "locality_id":1360004003,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1360004003,
+    "wof:lastmodified":1537059979,
+    "wof:name":"Sambel Bere",
+    "wof:parent_id":1108758191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.55,
+    12.01667,
+    -14.55,
+    12.01667
+],
+  "geometry": {"coordinates":[-14.55,12.01667],"type":"Point"}
+}

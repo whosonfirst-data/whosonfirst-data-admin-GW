@@ -1,0 +1,72 @@
+{
+  "id": 1276990957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.76667,11.6,-14.76667,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-14.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sanganabe",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2370095,
+    "gn:latitude":11.6,
+    "gn:longitude":-14.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanganab\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sanguenavo",
+        "Sanganab\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370095
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"69f1369b2fcb04e454f783b4ed3e79cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1276990957,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1276990957,
+    "wof:lastmodified":1537625411,
+    "wof:name":"Sanganabe",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.76667,
+    11.6,
+    -14.76667,
+    11.6
+],
+  "geometry": {"coordinates":[-14.76667,11.6],"type":"Point"}
+}

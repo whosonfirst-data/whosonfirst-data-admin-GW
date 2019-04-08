@@ -1,0 +1,67 @@
+{
+  "id": 1343757079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.15972,12.37167,-16.15972,12.37167",
+    "geom:latitude":12.37167,
+    "geom:longitude":-16.15972,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Begundo",
+    "gn:country_code":"GW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374994,
+    "gn:latitude":12.37167,
+    "gn:longitude":-16.15972,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Begundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374994
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7844ee8c89f4df33e0db03fe8e79e09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758227,
+            "locality_id":1343757079,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1343757079,
+    "wof:lastmodified":1536815081,
+    "wof:name":"Begundo",
+    "wof:parent_id":1108758227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.15972,
+    12.37167,
+    -16.15972,
+    12.37167
+],
+  "geometry": {"coordinates":[-16.15972,12.37167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293390469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.55194,12.28333,-15.55194,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":-15.55194,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sarube",
+    "gn:country_code":"GW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369805,
+    "gn:latitude":12.28333,
+    "gn:longitude":-15.55194,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sarub\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369805
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"be3f1c18f7547eed39903ff608474f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1293390469,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1293390469,
+    "wof:lastmodified":1536927595,
+    "wof:name":"Sarube",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.55194,
+    12.28333,
+    -15.55194,
+    12.28333
+],
+  "geometry": {"coordinates":[-15.55194,12.28333],"type":"Point"}
+}

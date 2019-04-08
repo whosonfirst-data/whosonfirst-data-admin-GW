@@ -1,0 +1,61 @@
+{
+  "id": 1209530311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.3,12.38333,-15.3,12.38333",
+    "geom:latitude":12.38333,
+    "geom:longitude":-15.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Canjaja Fula",
+    "gn:country_code":"GW",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373818,
+    "gn:latitude":12.38333,
+    "gn:longitude":-15.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Canjaja Fula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373818
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9873c530ae63af70e481cb6312e15025",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209530311
+        }
+    ],
+    "wof:id":1209530311,
+    "wof:lastmodified":1536284301,
+    "wof:name":"Canjaja Fula",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.3,
+    12.38333,
+    -15.3,
+    12.38333
+],
+  "geometry": {"coordinates":[-15.3,12.38333],"type":"Point"}
+}

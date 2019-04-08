@@ -1,0 +1,61 @@
+{
+  "id": 1209232817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.73333,11.53333,-14.73333,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":-14.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chernel Baramboli",
+    "gn:country_code":"GW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2373413,
+    "gn:latitude":11.53333,
+    "gn:longitude":-14.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chernel Baramboli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373413
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d36bef509437f34796152c88b6f00de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209232817
+        }
+    ],
+    "wof:id":1209232817,
+    "wof:lastmodified":1536293584,
+    "wof:name":"Chernel Baramboli",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.73333,
+    11.53333,
+    -14.73333,
+    11.53333
+],
+  "geometry": {"coordinates":[-14.73333,11.53333],"type":"Point"}
+}

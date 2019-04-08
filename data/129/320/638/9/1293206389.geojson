@@ -1,0 +1,67 @@
+{
+  "id": 1293206389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.53694,12.18528,-15.53694,12.18528",
+    "geom:latitude":12.18528,
+    "geom:longitude":-15.53694,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Iusse",
+    "gn:country_code":"GW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372033,
+    "gn:latitude":12.18528,
+    "gn:longitude":-15.53694,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Iusse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372033
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"a0b9dc63eef145c0f9cfc2d6dc240daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1293206389,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1293206389,
+    "wof:lastmodified":1536695481,
+    "wof:name":"Iusse",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.53694,
+    12.18528,
+    -15.53694,
+    12.18528
+],
+  "geometry": {"coordinates":[-15.53694,12.18528],"type":"Point"}
+}

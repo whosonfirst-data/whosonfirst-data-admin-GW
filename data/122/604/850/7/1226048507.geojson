@@ -1,0 +1,67 @@
+{
+  "id": 1226048507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.01583,12.46528,-15.01583,12.46528",
+    "geom:latitude":12.46528,
+    "geom:longitude":-15.01583,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Canjambari",
+    "gn:country_code":"GW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373813,
+    "gn:latitude":12.46528,
+    "gn:longitude":-15.01583,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Canjambari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373813
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"1488e5f316fd8dc7c16dcfac830dd5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1226048507,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1226048507,
+    "wof:lastmodified":1536721487,
+    "wof:name":"Canjambari",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.01583,
+    12.46528,
+    -15.01583,
+    12.46528
+],
+  "geometry": {"coordinates":[-15.01583,12.46528],"type":"Point"}
+}

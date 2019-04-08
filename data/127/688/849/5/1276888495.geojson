@@ -1,0 +1,67 @@
+{
+  "id": 1276888495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.33333,11.81667,-15.33333,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":-15.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Flaque Sunha",
+    "gn:country_code":"GW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372590,
+    "gn:latitude":11.81667,
+    "gn:longitude":-15.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Flaque Sunha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372590
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"18a501eac8b4a7de1bb9d9e60665c69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758259,
+            "locality_id":1276888495,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1276888495,
+    "wof:lastmodified":1537028319,
+    "wof:name":"Flaque Sunha",
+    "wof:parent_id":1108758259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.33333,
+    11.81667,
+    -15.33333,
+    11.81667
+],
+  "geometry": {"coordinates":[-15.33333,11.81667],"type":"Point"}
+}

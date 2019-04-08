@@ -1,0 +1,67 @@
+{
+  "id": 1226153047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.33333,12.4,-14.33333,12.4",
+    "geom:latitude":12.4,
+    "geom:longitude":-14.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ieromaro",
+    "gn:country_code":"GW",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372161,
+    "gn:latitude":12.4,
+    "gn:longitude":-14.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ieromaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372161
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5b07daf27421eb31f53bc27e7a5bd93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1226153047,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1226153047,
+    "wof:lastmodified":1537064240,
+    "wof:name":"Ieromaro",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.33333,
+    12.4,
+    -14.33333,
+    12.4
+],
+  "geometry": {"coordinates":[-14.33333,12.4],"type":"Point"}
+}

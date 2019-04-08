@@ -1,0 +1,67 @@
+{
+  "id": 1326648421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.95,12.18333,-14.95,12.18333",
+    "geom:latitude":12.18333,
+    "geom:longitude":-14.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mansona",
+    "gn:country_code":"GW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371461,
+    "gn:latitude":12.18333,
+    "gn:longitude":-14.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Manson\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371461
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9f25997766c48e74a8977a48808795c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758187,
+            "locality_id":1326648421,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1326648421,
+    "wof:lastmodified":1536815760,
+    "wof:name":"Mansona",
+    "wof:parent_id":1108758187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.95,
+    12.18333,
+    -14.95,
+    12.18333
+],
+  "geometry": {"coordinates":[-14.95,12.18333],"type":"Point"}
+}

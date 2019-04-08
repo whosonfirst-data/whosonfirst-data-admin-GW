@@ -1,0 +1,61 @@
+{
+  "id": 1209633289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.25,12.5,-15.25,12.5",
+    "geom:latitude":12.5,
+    "geom:longitude":-15.25,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cabo Seco",
+    "gn:country_code":"GW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374366,
+    "gn:latitude":12.5,
+    "gn:longitude":-15.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cabo S\u00eaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374366
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7dc283ec1e3b45bd858dd7e065f05cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209633289
+        }
+    ],
+    "wof:id":1209633289,
+    "wof:lastmodified":1536281123,
+    "wof:name":"Cabo Seco",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.25,
+    12.5,
+    -15.25,
+    12.5
+],
+  "geometry": {"coordinates":[-15.25,12.5],"type":"Point"}
+}

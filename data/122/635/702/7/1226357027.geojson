@@ -1,0 +1,67 @@
+{
+  "id": 1226357027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.15,12.16667,-16.15,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":-16.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Qui",
+    "gn:country_code":"GW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370383,
+    "gn:latitude":12.16667,
+    "gn:longitude":-16.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Qui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370383
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b15b47d9c46955b85641d839a67ba981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758221,
+            "locality_id":1226357027,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1226357027,
+    "wof:lastmodified":1536773813,
+    "wof:name":"Qui",
+    "wof:parent_id":1108758221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.15,
+    12.16667,
+    -16.15,
+    12.16667
+],
+  "geometry": {"coordinates":[-16.15,12.16667],"type":"Point"}
+}

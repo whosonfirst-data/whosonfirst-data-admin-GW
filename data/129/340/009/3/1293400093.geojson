@@ -1,0 +1,72 @@
+{
+  "id": 1293400093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.53333,12.35,-14.53333,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":-14.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sotocoi",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369179,
+    "gn:latitude":12.35,
+    "gn:longitude":-14.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sotocoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinch\u00e3 Fod\u00e8",
+        "Sotocoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369179
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f15169a06f2e5d0444797da9c20b21cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1293400093,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1293400093,
+    "wof:lastmodified":1537625398,
+    "wof:name":"Sotocoi",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.53333,
+    12.35,
+    -14.53333,
+    12.35
+],
+  "geometry": {"coordinates":[-14.53333,12.35],"type":"Point"}
+}

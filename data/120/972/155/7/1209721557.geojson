@@ -1,0 +1,67 @@
+{
+  "id": 1209721557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.48972,12.24083,-15.48972,12.24083",
+    "geom:latitude":12.24083,
+    "geom:longitude":-15.48972,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sorimone",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369181,
+    "gn:latitude":12.24083,
+    "gn:longitude":-15.48972,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sorimone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369181
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"6aae8f1aa9e19692fa82394a6acb18a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1209721557,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1209721557,
+    "wof:lastmodified":1536386144,
+    "wof:name":"Sorimone",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.48972,
+    12.24083,
+    -15.48972,
+    12.24083
+],
+  "geometry": {"coordinates":[-15.48972,12.24083],"type":"Point"}
+}

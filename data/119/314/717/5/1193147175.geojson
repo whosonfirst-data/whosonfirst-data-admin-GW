@@ -1,0 +1,67 @@
+{
+  "id": 1193147175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.91667,11.93333,-14.91667,11.93333",
+    "geom:latitude":11.93333,
+    "geom:longitude":-14.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gidemo",
+    "gn:country_code":"GW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372326,
+    "gn:latitude":11.93333,
+    "gn:longitude":-14.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gidemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372326
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f8eb39a93e5369e47d2fe217155e37b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758187,
+            "locality_id":1193147175,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1193147175,
+    "wof:lastmodified":1536382134,
+    "wof:name":"Gidemo",
+    "wof:parent_id":1108758187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.91667,
+    11.93333,
+    -14.91667,
+    11.93333
+],
+  "geometry": {"coordinates":[-14.91667,11.93333],"type":"Point"}
+}

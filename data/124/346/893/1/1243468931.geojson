@@ -1,0 +1,67 @@
+{
+  "id": 1243468931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.1,12.48333,-14.1,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":-14.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bessecunda",
+    "gn:country_code":"GW",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374929,
+    "gn:latitude":12.48333,
+    "gn:longitude":-14.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"B\u00e8ss\u00e8cunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374929
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"db47a3305d047c8f1010ffcb5f7d7747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1243468931,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1243468931,
+    "wof:lastmodified":1536773688,
+    "wof:name":"Bessecunda",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.1,
+    12.48333,
+    -14.1,
+    12.48333
+],
+  "geometry": {"coordinates":[-14.1,12.48333],"type":"Point"}
+}

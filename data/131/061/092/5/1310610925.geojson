@@ -1,0 +1,67 @@
+{
+  "id": 1310610925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.13333,12.31667,-14.13333,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":-14.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jaima",
+    "gn:country_code":"GW",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371994,
+    "gn:latitude":12.31667,
+    "gn:longitude":-14.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Jaima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371994
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"2034c2883ca15e1fa7c1db7a7d7f7f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758237,
+            "locality_id":1310610925,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1310610925,
+    "wof:lastmodified":1536765152,
+    "wof:name":"Jaima",
+    "wof:parent_id":1108758237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.13333,
+    12.31667,
+    -14.13333,
+    12.31667
+],
+  "geometry": {"coordinates":[-14.13333,12.31667],"type":"Point"}
+}

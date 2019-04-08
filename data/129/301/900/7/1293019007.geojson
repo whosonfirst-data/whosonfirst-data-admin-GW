@@ -1,0 +1,67 @@
+{
+  "id": 1293019007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.31667,11.15,-15.31667,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":-15.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Afuossa Nabiole",
+    "gn:country_code":"GW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375488,
+    "gn:latitude":11.15,
+    "gn:longitude":-15.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Afuossa Nabiole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375488
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9fc95cb4801f55f7df7c1c5fb38db21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758269,
+            "locality_id":1293019007,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1293019007,
+    "wof:lastmodified":1536965244,
+    "wof:name":"Afuossa Nabiole",
+    "wof:parent_id":1108758269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.31667,
+    11.15,
+    -15.31667,
+    11.15
+],
+  "geometry": {"coordinates":[-15.31667,11.15],"type":"Point"}
+}

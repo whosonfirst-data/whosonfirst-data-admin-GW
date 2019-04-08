@@ -1,0 +1,72 @@
+{
+  "id": 1293010649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.86667,11.33333,-14.86667,11.33333",
+    "geom:latitude":11.33333,
+    "geom:longitude":-14.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Guileje",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372251,
+    "gn:latitude":11.33333,
+    "gn:longitude":-14.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guileje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacond\u00f3",
+        "Guileje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372251
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7a3edc6265051c7f83b48cb3248125a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758261,
+            "locality_id":1293010649,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1293010649,
+    "wof:lastmodified":1537625436,
+    "wof:name":"Guileje",
+    "wof:parent_id":1108758261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.86667,
+    11.33333,
+    -14.86667,
+    11.33333
+],
+  "geometry": {"coordinates":[-14.86667,11.33333],"type":"Point"}
+}

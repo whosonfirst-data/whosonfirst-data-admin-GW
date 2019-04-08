@@ -1,0 +1,72 @@
+{
+  "id": 1343876353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.3,11.18333,-15.3,11.18333",
+    "geom:latitude":11.18333,
+    "geom:longitude":-15.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ilheu de Catame",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372146,
+    "gn:latitude":11.18333,
+    "gn:longitude":-15.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ilh\u00e9u de Catame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilh\u00e9u de Inchame",
+        "Ilh\u00e9u de Catame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372146
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"e9f2879c69edafd2d98f9390f3ad1da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758269,
+            "locality_id":1343876353,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1343876353,
+    "wof:lastmodified":1537625435,
+    "wof:name":"Ilheu de Catame",
+    "wof:parent_id":1108758269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.3,
+    11.18333,
+    -15.3,
+    11.18333
+],
+  "geometry": {"coordinates":[-15.3,11.18333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226452505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.15,12.53333,-14.15,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":-14.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Camalija So",
+    "gn:country_code":"GW",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374142,
+    "gn:latitude":12.53333,
+    "gn:longitude":-14.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Camalij\u00e0 S\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374142
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"a66949d5f1b2be2fdc93f1ab65c59775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1226452505,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1226452505,
+    "wof:lastmodified":1536634325,
+    "wof:name":"Camalija So",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.15,
+    12.53333,
+    -14.15,
+    12.53333
+],
+  "geometry": {"coordinates":[-14.15,12.53333],"type":"Point"}
+}

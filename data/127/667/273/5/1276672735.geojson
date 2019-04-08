@@ -1,0 +1,67 @@
+{
+  "id": 1276672735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.0,11.1,-15.0,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":-15.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cancao",
+    "gn:country_code":"GW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2373966,
+    "gn:latitude":11.1,
+    "gn:longitude":-15.0,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Canc\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373966
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"6318ef11618da079e7aefa4d4faa1a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758263,
+            "locality_id":1276672735,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1276672735,
+    "wof:lastmodified":1536819983,
+    "wof:name":"Cancao",
+    "wof:parent_id":1108758263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.0,
+    11.1,
+    -15.0,
+    11.1
+],
+  "geometry": {"coordinates":[-15.0,11.1],"type":"Point"}
+}

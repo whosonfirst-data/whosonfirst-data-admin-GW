@@ -1,0 +1,72 @@
+{
+  "id": 1293802021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.45,12.33333,-14.45,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":-14.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Curauasse",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373039,
+    "gn:latitude":12.33333,
+    "gn:longitude":-14.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Curauasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinch\u00e3 Demba Jau",
+        "Curauasse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373039
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"44cdb1f934ed34b7020291816cbbe7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1293802021,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1293802021,
+    "wof:lastmodified":1537625446,
+    "wof:name":"Curauasse",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.45,
+    12.33333,
+    -14.45,
+    12.33333
+],
+  "geometry": {"coordinates":[-14.45,12.33333],"type":"Point"}
+}

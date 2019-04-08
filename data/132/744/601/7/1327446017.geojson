@@ -1,0 +1,67 @@
+{
+  "id": 1327446017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.56667,11.55,-14.56667,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":-14.56667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bira",
+    "gn:country_code":"GW",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2374813,
+    "gn:latitude":11.55,
+    "gn:longitude":-14.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bir\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374813
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"0ec0f3c7f1215ead0e8a5300115582ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1327446017,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1327446017,
+    "wof:lastmodified":1536661077,
+    "wof:name":"Bira",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.56667,
+    11.55,
+    -14.56667,
+    11.55
+],
+  "geometry": {"coordinates":[-14.56667,11.55],"type":"Point"}
+}

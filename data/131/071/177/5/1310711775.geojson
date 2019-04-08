@@ -1,0 +1,72 @@
+{
+  "id": 1310711775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.26667,11.78333,-15.26667,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":-15.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Priame",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370517,
+    "gn:latitude":11.78333,
+    "gn:longitude":-15.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Priame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Priam",
+        "Priame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370517
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"a5f13fcc5b885f4c86a83d8a47354ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758257,
+            "locality_id":1310711775,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1310711775,
+    "wof:lastmodified":1537625417,
+    "wof:name":"Priame",
+    "wof:parent_id":1108758257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.26667,
+    11.78333,
+    -15.26667,
+    11.78333
+],
+  "geometry": {"coordinates":[-15.26667,11.78333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276350629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.18333,12.11667,-16.18333,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-16.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bafundade",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375250,
+    "gn:latitude":12.11667,
+    "gn:longitude":-16.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bafundade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bafundande",
+        "Bafundade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375250
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"787e06ea210ab8d4cc9d144557332adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758221,
+            "locality_id":1276350629,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1276350629,
+    "wof:lastmodified":1537625470,
+    "wof:name":"Bafundade",
+    "wof:parent_id":1108758221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.18333,
+    12.11667,
+    -16.18333,
+    12.11667
+],
+  "geometry": {"coordinates":[-16.18333,12.11667],"type":"Point"}
+}

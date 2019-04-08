@@ -1,0 +1,72 @@
+{
+  "id": 1260192797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.85,12.58333,-14.85,12.58333",
+    "geom:latitude":12.58333,
+    "geom:longitude":-14.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Buro Sincha",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374444,
+    "gn:latitude":12.58333,
+    "gn:longitude":-14.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buro Sinch\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burro Sinch\u00e3",
+        "Buro Sinch\u00e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374444
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cf1c91d19378897e4dba9c1f13f39f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1260192797,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1260192797,
+    "wof:lastmodified":1537625461,
+    "wof:name":"Buro Sincha",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.85,
+    12.58333,
+    -14.85,
+    12.58333
+],
+  "geometry": {"coordinates":[-14.85,12.58333],"type":"Point"}
+}

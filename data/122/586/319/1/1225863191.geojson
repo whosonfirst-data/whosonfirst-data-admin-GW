@@ -1,0 +1,72 @@
+{
+  "id": 1225863191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.16667,11.35,-15.16667,11.35",
+    "geom:latitude":11.35,
+    "geom:longitude":-15.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cabolol Nalu",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374375,
+    "gn:latitude":11.35,
+    "gn:longitude":-15.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cabolol Nalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabelole Nal\u00fa",
+        "Cabolol Nalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374375
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"18ae66615b529a55f847327674c0d05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758265,
+            "locality_id":1225863191,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1225863191,
+    "wof:lastmodified":1537625460,
+    "wof:name":"Cabolol Nalu",
+    "wof:parent_id":1108758265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.16667,
+    11.35,
+    -15.16667,
+    11.35
+],
+  "geometry": {"coordinates":[-15.16667,11.35],"type":"Point"}
+}

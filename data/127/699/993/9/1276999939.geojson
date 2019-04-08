@@ -1,0 +1,67 @@
+{
+  "id": 1276999939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.73333,11.6,-14.73333,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-14.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Surire",
+    "gn:country_code":"GW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369129,
+    "gn:latitude":11.6,
+    "gn:longitude":-14.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Surire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369129
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"3c7b68b6cdab354083157d2ef35ba926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758197,
+            "locality_id":1276999939,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1276999939,
+    "wof:lastmodified":1536879422,
+    "wof:name":"Surire",
+    "wof:parent_id":1108758197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.73333,
+    11.6,
+    -14.73333,
+    11.6
+],
+  "geometry": {"coordinates":[-14.73333,11.6],"type":"Point"}
+}

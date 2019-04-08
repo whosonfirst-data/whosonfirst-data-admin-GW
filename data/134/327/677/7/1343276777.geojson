@@ -1,0 +1,67 @@
+{
+  "id": 1343276777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.05,12.05,-16.05,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-16.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lompate",
+    "gn:country_code":"GW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371748,
+    "gn:latitude":12.05,
+    "gn:longitude":-16.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lompate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371748
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"32e6ea85afdba7bd6ff0bc380a31e9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758225,
+            "locality_id":1343276777,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1343276777,
+    "wof:lastmodified":1537010593,
+    "wof:name":"Lompate",
+    "wof:parent_id":1108758225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.05,
+    12.05,
+    -16.05,
+    12.05
+],
+  "geometry": {"coordinates":[-16.05,12.05],"type":"Point"}
+}

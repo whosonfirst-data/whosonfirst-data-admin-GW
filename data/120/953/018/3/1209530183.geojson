@@ -1,0 +1,61 @@
+{
+  "id": 1209530183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.68333,12.56667,-14.68333,12.56667",
+    "geom:latitude":12.56667,
+    "geom:longitude":-14.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sare Birom",
+    "gn:country_code":"GW",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369986,
+    "gn:latitude":12.56667,
+    "gn:longitude":-14.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Birom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369986
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"2b862dd06c2e4844eda886bf0af4faf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209530183
+        }
+    ],
+    "wof:id":1209530183,
+    "wof:lastmodified":1536284305,
+    "wof:name":"Sare Birom",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.683329999999998,
+    12.56667,
+    -14.683329999999998,
+    12.56667
+],
+  "geometry": {"coordinates":[-14.68333,12.56667],"type":"Point"}
+}

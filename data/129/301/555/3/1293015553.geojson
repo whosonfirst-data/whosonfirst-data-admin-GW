@@ -1,0 +1,72 @@
+{
+  "id": 1293015553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.16667,11.25,-16.16667,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":-16.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ossocono",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371017,
+    "gn:latitude":11.25,
+    "gn:longitude":-16.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ossocono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oss\u00f4cone",
+        "Ossocono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671543,
+        1108758215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371017
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"bfb2cfc36574141128eb1d5ca26a7677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758215,
+            "locality_id":1293015553,
+            "region_id":85671543
+        }
+    ],
+    "wof:id":1293015553,
+    "wof:lastmodified":1537625425,
+    "wof:name":"Ossocono",
+    "wof:parent_id":1108758215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.16667,
+    11.25,
+    -16.16667,
+    11.25
+],
+  "geometry": {"coordinates":[-16.16667,11.25],"type":"Point"}
+}

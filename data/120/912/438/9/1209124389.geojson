@@ -1,0 +1,61 @@
+{
+  "id": 1209124389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.95,11.95,-15.95,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-15.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pentia",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370816,
+    "gn:latitude":11.95,
+    "gn:longitude":-15.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Penti\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370816
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"0f942c30769a3ddd3ec9219b7d663614",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209124389
+        }
+    ],
+    "wof:id":1209124389,
+    "wof:lastmodified":1536297000,
+    "wof:name":"Pentia",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.95,
+    11.95,
+    -15.95,
+    11.95
+],
+  "geometry": {"coordinates":[-15.95,11.95],"type":"Point"}
+}

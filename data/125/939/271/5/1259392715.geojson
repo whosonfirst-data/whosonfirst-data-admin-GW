@@ -1,0 +1,67 @@
+{
+  "id": 1259392715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.25,11.51667,-15.25,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":-15.25,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cantora",
+    "gn:country_code":"GW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2373705,
+    "gn:latitude":11.51667,
+    "gn:longitude":-15.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cantora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373705
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cf900f47b861af4f1fb244488912a40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758255,
+            "locality_id":1259392715,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1259392715,
+    "wof:lastmodified":1536988062,
+    "wof:name":"Cantora",
+    "wof:parent_id":1108758255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.25,
+    11.51667,
+    -15.25,
+    11.51667
+],
+  "geometry": {"coordinates":[-15.25,11.51667],"type":"Point"}
+}

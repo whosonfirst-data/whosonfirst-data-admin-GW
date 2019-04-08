@@ -1,0 +1,67 @@
+{
+  "id": 1209911861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.73722,12.06667,-15.73722,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":-15.73722,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nhengue",
+    "gn:country_code":"GW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371133,
+    "gn:latitude":12.06667,
+    "gn:longitude":-15.73722,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Nhengu\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371133
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7113b3f18c502a4cb44509b806e822a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758219,
+            "locality_id":1209911861,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1209911861,
+    "wof:lastmodified":1536377910,
+    "wof:name":"Nhengue",
+    "wof:parent_id":1108758219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.73722,
+    12.06667,
+    -15.73722,
+    12.06667
+],
+  "geometry": {"coordinates":[-15.73722,12.06667],"type":"Point"}
+}

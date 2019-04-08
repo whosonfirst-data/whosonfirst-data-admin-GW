@@ -1,0 +1,67 @@
+{
+  "id": 1310420353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.0,12.65,-15.0,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-15.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sare Guidere Balde",
+    "gn:country_code":"GW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369929,
+    "gn:latitude":12.65,
+    "gn:longitude":-15.0,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Guidere Bald\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369929
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"bb80b8178516fd16d5b9dd356626cf03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1310420353,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1310420353,
+    "wof:lastmodified":1537038118,
+    "wof:name":"Sare Guidere Balde",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.0,
+    12.65,
+    -15.0,
+    12.65
+],
+  "geometry": {"coordinates":[-15.0,12.65],"type":"Point"}
+}

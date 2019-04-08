@@ -1,0 +1,67 @@
+{
+  "id": 1310623009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.5475,12.3325,-16.5475,12.3325",
+    "geom:latitude":12.3325,
+    "geom:longitude":-16.5475,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cassalol Indiame",
+    "gn:country_code":"GW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373591,
+    "gn:latitude":12.3325,
+    "gn:longitude":-16.5475,
+    "gn:modification_date":"2000-04-06",
+    "gn:name":"Cassalol Indiame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373591
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"de961d28306ec0a6a2c1b7b5f4a17a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758227,
+            "locality_id":1310623009,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1310623009,
+    "wof:lastmodified":1536747245,
+    "wof:name":"Cassalol Indiame",
+    "wof:parent_id":1108758227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.5475,
+    12.3325,
+    -16.5475,
+    12.3325
+],
+  "geometry": {"coordinates":[-16.5475,12.3325],"type":"Point"}
+}

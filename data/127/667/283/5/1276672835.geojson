@@ -1,0 +1,67 @@
+{
+  "id": 1276672835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.88333,11.43333,-14.88333,11.43333",
+    "geom:latitude":11.43333,
+    "geom:longitude":-14.88333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sare Sili",
+    "gn:country_code":"GW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369825,
+    "gn:latitude":11.43333,
+    "gn:longitude":-14.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Sili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369825
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"8a4621f235575e525cfc28ed7d76aef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1276672835,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1276672835,
+    "wof:lastmodified":1536819848,
+    "wof:name":"Sare Sili",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.88333,
+    11.43333,
+    -14.88333,
+    11.43333
+],
+  "geometry": {"coordinates":[-14.88333,11.43333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209616159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.21083,12.30806,-15.21083,12.30806",
+    "geom:latitude":12.30806,
+    "geom:longitude":-15.21083,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Beracozinho",
+    "gn:country_code":"GW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374939,
+    "gn:latitude":12.30806,
+    "gn:longitude":-15.21083,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Berac\u00f2zinho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374939
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"1c92629789e67568498111257fb22d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209616159
+        }
+    ],
+    "wof:id":1209616159,
+    "wof:lastmodified":1536281682,
+    "wof:name":"Beracozinho",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.21083,
+    12.30806,
+    -15.21083,
+    12.30806
+],
+  "geometry": {"coordinates":[-15.21083,12.30806],"type":"Point"}
+}

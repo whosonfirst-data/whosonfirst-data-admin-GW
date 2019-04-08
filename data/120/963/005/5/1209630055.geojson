@@ -1,0 +1,66 @@
+{
+  "id": 1209630055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.41667,11.6,-15.41667,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-15.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gamafe",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372471,
+    "gn:latitude":11.6,
+    "gn:longitude":-15.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gamaf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gam Mof\u00e9",
+        "Gamaf\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372471
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"8b48d86fb6e0d26cd652ed8276564f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209630055
+        }
+    ],
+    "wof:id":1209630055,
+    "wof:lastmodified":1537625439,
+    "wof:name":"Gamafe",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.41667,
+    11.6,
+    -15.41667,
+    11.6
+],
+  "geometry": {"coordinates":[-15.41667,11.6],"type":"Point"}
+}

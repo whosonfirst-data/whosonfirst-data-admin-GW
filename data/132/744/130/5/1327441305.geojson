@@ -1,0 +1,67 @@
+{
+  "id": 1327441305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.3,12.4,-14.3,12.4",
+    "geom:latitude":12.4,
+    "geom:longitude":-14.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Carimo",
+    "gn:country_code":"GW",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369613,
+    "gn:latitude":12.4,
+    "gn:longitude":-14.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Carimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369613
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"03b8ec891fef764996f323c3393cb244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1327441305,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1327441305,
+    "wof:lastmodified":1536667900,
+    "wof:name":"Sincha Carimo",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.3,
+    12.4,
+    -14.3,
+    12.4
+],
+  "geometry": {"coordinates":[-14.3,12.4],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276778245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.65,11.96667,-15.65,11.96667",
+    "geom:latitude":11.96667,
+    "geom:longitude":-15.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Quenhanque",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370443,
+    "gn:latitude":11.96667,
+    "gn:longitude":-15.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quenhanque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinhaque",
+        "Quenhanque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671535,
+        1108758203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370443
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"e04d92546d743c1857042a73e5380001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758203,
+            "locality_id":1276778245,
+            "region_id":85671535
+        }
+    ],
+    "wof:id":1276778245,
+    "wof:lastmodified":1537625416,
+    "wof:name":"Quenhanque",
+    "wof:parent_id":1108758203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.65,
+    11.96667,
+    -15.65,
+    11.96667
+],
+  "geometry": {"coordinates":[-15.65,11.96667],"type":"Point"}
+}

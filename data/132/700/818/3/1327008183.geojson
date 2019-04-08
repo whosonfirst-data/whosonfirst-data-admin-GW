@@ -1,0 +1,67 @@
+{
+  "id": 1327008183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.66556,12.00333,-15.66556,12.00333",
+    "geom:latitude":12.00333,
+    "geom:longitude":-15.66556,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cumano",
+    "gn:country_code":"GW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373137,
+    "gn:latitude":12.00333,
+    "gn:longitude":-15.66556,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Cumano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671535,
+        1108758203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373137
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"08f79fcf8b971da6f76100dcc7c832f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758203,
+            "locality_id":1327008183,
+            "region_id":85671535
+        }
+    ],
+    "wof:id":1327008183,
+    "wof:lastmodified":1536795724,
+    "wof:name":"Cumano",
+    "wof:parent_id":1108758203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.66556,
+    12.00333,
+    -15.66556,
+    12.00333
+],
+  "geometry": {"coordinates":[-15.66556,12.00333],"type":"Point"}
+}

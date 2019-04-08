@@ -1,0 +1,67 @@
+{
+  "id": 1343476875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.45,12.51667,-14.45,12.51667",
+    "geom:latitude":12.51667,
+    "geom:longitude":-14.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Padim",
+    "gn:country_code":"GW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2370991,
+    "gn:latitude":12.51667,
+    "gn:longitude":-14.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Padim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370991
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5822745ed41c3e2d3bc470adbc291cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1343476875,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1343476875,
+    "wof:lastmodified":1536722794,
+    "wof:name":"Padim",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.45,
+    12.51667,
+    -14.45,
+    12.51667
+],
+  "geometry": {"coordinates":[-14.45,12.51667],"type":"Point"}
+}

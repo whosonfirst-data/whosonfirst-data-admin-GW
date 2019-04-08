@@ -1,0 +1,72 @@
+{
+  "id": 1226460859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.78333,11.98333,-15.78333,11.98333",
+    "geom:latitude":11.98333,
+    "geom:longitude":-15.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Plaque",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370738,
+    "gn:latitude":11.98333,
+    "gn:longitude":-15.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plaque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Planque",
+        "Plaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671535,
+        1108758201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370738
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"3750c20bf534c3465015c00f204358a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758201,
+            "locality_id":1226460859,
+            "region_id":85671535
+        }
+    ],
+    "wof:id":1226460859,
+    "wof:lastmodified":1537625422,
+    "wof:name":"Plaque",
+    "wof:parent_id":1108758201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.78333,
+    11.98333,
+    -15.78333,
+    11.98333
+],
+  "geometry": {"coordinates":[-15.78333,11.98333],"type":"Point"}
+}

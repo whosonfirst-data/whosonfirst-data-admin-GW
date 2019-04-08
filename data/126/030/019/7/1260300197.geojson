@@ -1,0 +1,72 @@
+{
+  "id": 1260300197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.96667,12.4,-14.96667,12.4",
+    "geom:latitude":12.4,
+    "geom:longitude":-14.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Danga",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372962,
+    "gn:latitude":12.4,
+    "gn:longitude":-14.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Danga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danca",
+        "Danga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372962
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"8f24262ae55d16e0da6da3143f681171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758193,
+            "locality_id":1260300197,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1260300197,
+    "wof:lastmodified":1537625445,
+    "wof:name":"Danga",
+    "wof:parent_id":1108758193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.96667,
+    12.4,
+    -14.96667,
+    12.4
+],
+  "geometry": {"coordinates":[-14.96667,12.4],"type":"Point"}
+}

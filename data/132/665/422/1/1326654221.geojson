@@ -1,0 +1,67 @@
+{
+  "id": 1326654221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.66556,12.27806,-15.66556,12.27806",
+    "geom:latitude":12.27806,
+    "geom:longitude":-15.66556,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Crescimo",
+    "gn:country_code":"GW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373191,
+    "gn:latitude":12.27806,
+    "gn:longitude":-15.66556,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Cr\u00e9scimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373191
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b725cc105c24b0990d7719c2f23df94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1326654221,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1326654221,
+    "wof:lastmodified":1536807866,
+    "wof:name":"Crescimo",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.66556,
+    12.27806,
+    -15.66556,
+    12.27806
+],
+  "geometry": {"coordinates":[-15.66556,12.27806],"type":"Point"}
+}

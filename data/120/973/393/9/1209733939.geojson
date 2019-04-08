@@ -1,0 +1,67 @@
+{
+  "id": 1209733939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.98333,11.75,-14.98333,11.75",
+    "geom:latitude":11.75,
+    "geom:longitude":-14.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Injassane Beafada",
+    "gn:country_code":"GW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372085,
+    "gn:latitude":11.75,
+    "gn:longitude":-14.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Injassane Beafada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372085
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"2394bc54398bc319665ef6d67cb3564d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758253,
+            "locality_id":1209733939,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1209733939,
+    "wof:lastmodified":1536375722,
+    "wof:name":"Injassane Beafada",
+    "wof:parent_id":1108758253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.98333,
+    11.75,
+    -14.98333,
+    11.75
+],
+  "geometry": {"coordinates":[-14.98333,11.75],"type":"Point"}
+}

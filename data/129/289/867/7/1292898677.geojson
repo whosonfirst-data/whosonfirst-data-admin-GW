@@ -1,0 +1,67 @@
+{
+  "id": 1292898677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.2025,12.44972,-16.2025,12.44972",
+    "geom:latitude":12.44972,
+    "geom:longitude":-16.2025,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Barraca Bambore",
+    "gn:country_code":"GW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375044,
+    "gn:latitude":12.44972,
+    "gn:longitude":-16.2025,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Barraca Bambor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375044
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"c0db87d1f6bcac93f167a6d6f197335e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758227,
+            "locality_id":1292898677,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1292898677,
+    "wof:lastmodified":1536640972,
+    "wof:name":"Barraca Bambore",
+    "wof:parent_id":1108758227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.2025,
+    12.44972,
+    -16.2025,
+    12.44972
+],
+  "geometry": {"coordinates":[-16.2025,12.44972],"type":"Point"}
+}

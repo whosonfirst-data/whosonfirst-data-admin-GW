@@ -1,0 +1,67 @@
+{
+  "id": 1242595639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.18333,12.63333,-14.18333,12.63333",
+    "geom:latitude":12.63333,
+    "geom:longitude":-14.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gundaga Segundo",
+    "gn:country_code":"GW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372231,
+    "gn:latitude":12.63333,
+    "gn:longitude":-14.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gundag\u00e0 Segundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372231
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"3188b6b6387123bc0bb20e83aacb7da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1242595639,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1242595639,
+    "wof:lastmodified":1537036094,
+    "wof:name":"Gundaga Segundo",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.18333,
+    12.63333,
+    -14.18333,
+    12.63333
+],
+  "geometry": {"coordinates":[-14.18333,12.63333],"type":"Point"}
+}

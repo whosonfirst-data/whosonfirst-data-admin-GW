@@ -1,0 +1,61 @@
+{
+  "id": 1209224823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.7,12.31667,-14.7,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":-14.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Dico",
+    "gn:country_code":"GW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369559,
+    "gn:latitude":12.31667,
+    "gn:longitude":-14.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Dic\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369559
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d4d4ec884dc420933f92f5dba625ccf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209224823
+        }
+    ],
+    "wof:id":1209224823,
+    "wof:lastmodified":1536293834,
+    "wof:name":"Sincha Dico",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.7,
+    12.31667,
+    -14.7,
+    12.31667
+],
+  "geometry": {"coordinates":[-14.7,12.31667],"type":"Point"}
+}

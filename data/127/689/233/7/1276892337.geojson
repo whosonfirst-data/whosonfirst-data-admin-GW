@@ -1,0 +1,67 @@
+{
+  "id": 1276892337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.36667,12.28333,-14.36667,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":-14.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Maunde Cande",
+    "gn:country_code":"GW",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371398,
+    "gn:latitude":12.28333,
+    "gn:longitude":-14.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Maund\u00e9 Cand\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371398
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"99d5b527eb5cafdbb49b5d785a36f170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758233,
+            "locality_id":1276892337,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1276892337,
+    "wof:lastmodified":1537023414,
+    "wof:name":"Maunde Cande",
+    "wof:parent_id":1108758233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.36667,
+    12.28333,
+    -14.36667,
+    12.28333
+],
+  "geometry": {"coordinates":[-14.36667,12.28333],"type":"Point"}
+}

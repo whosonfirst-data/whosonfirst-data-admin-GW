@@ -1,0 +1,72 @@
+{
+  "id": 1276676431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.61667,12.43333,-14.61667,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":-14.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ponte de Lima",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370549,
+    "gn:latitude":12.43333,
+    "gn:longitude":-14.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ponte de Lima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinch\u00e3 Meta",
+        "Ponte de Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370549
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cab351b42bb1365b05cdda2d8e55cead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1276676431,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1276676431,
+    "wof:lastmodified":1537625418,
+    "wof:name":"Ponte de Lima",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.61667,
+    12.43333,
+    -14.61667,
+    12.43333
+],
+  "geometry": {"coordinates":[-14.61667,12.43333],"type":"Point"}
+}

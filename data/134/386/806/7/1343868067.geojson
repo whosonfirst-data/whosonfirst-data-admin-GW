@@ -1,0 +1,72 @@
+{
+  "id": 1343868067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.15,11.95,-15.15,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-15.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Belunja",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374966,
+    "gn:latitude":11.95,
+    "gn:longitude":-15.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belunja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blunja",
+        "Belunja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374966
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"c75eb6b43cded2fab4d1ea97b6c24a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758247,
+            "locality_id":1343868067,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1343868067,
+    "wof:lastmodified":1537625467,
+    "wof:name":"Belunja",
+    "wof:parent_id":1108758247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.15,
+    11.95,
+    -15.15,
+    11.95
+],
+  "geometry": {"coordinates":[-15.15,11.95],"type":"Point"}
+}

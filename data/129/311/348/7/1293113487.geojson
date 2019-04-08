@@ -1,0 +1,73 @@
+{
+  "id": 1293113487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.83333,12.06667,-14.83333,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":-14.83333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bonjendem",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374654,
+    "gn:latitude":12.06667,
+    "gn:longitude":-14.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bonjendem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bondjem",
+        "Bojandim",
+        "Bonjendem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374654
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b0f7e636c855f0befe120b68f06c8636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758187,
+            "locality_id":1293113487,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1293113487,
+    "wof:lastmodified":1537625463,
+    "wof:name":"Bonjendem",
+    "wof:parent_id":1108758187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.83333,
+    12.06667,
+    -14.83333,
+    12.06667
+],
+  "geometry": {"coordinates":[-14.83333,12.06667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209521795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.00778,12.51083,-15.00778,12.51083",
+    "geom:latitude":12.51083,
+    "geom:longitude":-15.00778,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tambandinto",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369061,
+    "gn:latitude":12.51083,
+    "gn:longitude":-15.00778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tambandinto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabandinto",
+        "Tambandinto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369061
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"548d7d8f44c7d4e98a82157c00ed7565",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209521795
+        }
+    ],
+    "wof:id":1209521795,
+    "wof:lastmodified":1537625396,
+    "wof:name":"Tambandinto",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.00778,
+    12.51083,
+    -15.00778,
+    12.51083
+],
+  "geometry": {"coordinates":[-15.00778,12.51083],"type":"Point"}
+}

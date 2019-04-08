@@ -1,0 +1,72 @@
+{
+  "id": 1343780377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.9,11.11667,-14.9,11.11667",
+    "geom:latitude":11.11667,
+    "geom:longitude":-14.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Caiantico",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374230,
+    "gn:latitude":11.11667,
+    "gn:longitude":-14.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caiantic\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caianteco",
+        "Caiantic\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374230
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d1254ee6231f3e2145978734d7ba69cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758263,
+            "locality_id":1343780377,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1343780377,
+    "wof:lastmodified":1537625459,
+    "wof:name":"Caiantico",
+    "wof:parent_id":1108758263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.9,
+    11.11667,
+    -14.9,
+    11.11667
+],
+  "geometry": {"coordinates":[-14.9,11.11667],"type":"Point"}
+}

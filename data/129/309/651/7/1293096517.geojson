@@ -1,0 +1,67 @@
+{
+  "id": 1293096517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.0325,12.08694,-16.0325,12.08694",
+    "geom:latitude":12.08694,
+    "geom:longitude":-16.0325,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Babanda",
+    "gn:country_code":"GW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375291,
+    "gn:latitude":12.08694,
+    "gn:longitude":-16.0325,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Babanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375291
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9ab6500aee322463f995be561dc23294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758225,
+            "locality_id":1293096517,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1293096517,
+    "wof:lastmodified":1536852650,
+    "wof:name":"Babanda",
+    "wof:parent_id":1108758225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.0325,
+    12.08694,
+    -16.0325,
+    12.08694
+],
+  "geometry": {"coordinates":[-16.0325,12.08694],"type":"Point"}
+}

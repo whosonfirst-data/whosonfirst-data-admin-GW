@@ -1,0 +1,67 @@
+{
+  "id": 1226660807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.78333,12.23333,-14.78333,12.23333",
+    "geom:latitude":12.23333,
+    "geom:longitude":-14.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Carbanol",
+    "gn:country_code":"GW",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373625,
+    "gn:latitude":12.23333,
+    "gn:longitude":-14.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Carbanol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373625
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"2c791c55a18680579037860010593537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758193,
+            "locality_id":1226660807,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1226660807,
+    "wof:lastmodified":1536836634,
+    "wof:name":"Carbanol",
+    "wof:parent_id":1108758193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.78333,
+    12.23333,
+    -14.78333,
+    12.23333
+],
+  "geometry": {"coordinates":[-14.78333,12.23333],"type":"Point"}
+}

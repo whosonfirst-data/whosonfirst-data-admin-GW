@@ -1,0 +1,72 @@
+{
+  "id": 1310305425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.12361,12.3775,-15.12361,12.3775",
+    "geom:latitude":12.3775,
+    "geom:longitude":-15.12361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bagadage",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375249,
+    "gn:latitude":12.3775,
+    "gn:longitude":-15.12361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bagadage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagadaje",
+        "Bagadage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375249
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"de9d72a9d8a0c27c80e8003652aa9e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758245,
+            "locality_id":1310305425,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1310305425,
+    "wof:lastmodified":1537625470,
+    "wof:name":"Bagadage",
+    "wof:parent_id":1108758245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.12361,
+    12.3775,
+    -15.12361,
+    12.3775
+],
+  "geometry": {"coordinates":[-15.12361,12.3775],"type":"Point"}
+}

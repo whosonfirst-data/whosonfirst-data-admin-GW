@@ -1,0 +1,67 @@
+{
+  "id": 1326636339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.40472,12.45944,-15.40472,12.45944",
+    "geom:latitude":12.45944,
+    "geom:longitude":-15.40472,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mansacunda",
+    "gn:country_code":"GW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371483,
+    "gn:latitude":12.45944,
+    "gn:longitude":-15.40472,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Mansacunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371483
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5bda0e1938a2c225af8e5ead8ff2f881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1326636339,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1326636339,
+    "wof:lastmodified":1536832806,
+    "wof:name":"Mansacunda",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.40472,
+    12.45944,
+    -15.40472,
+    12.45944
+],
+  "geometry": {"coordinates":[-15.40472,12.45944],"type":"Point"}
+}

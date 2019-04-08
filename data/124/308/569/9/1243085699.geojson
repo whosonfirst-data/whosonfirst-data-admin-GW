@@ -1,0 +1,72 @@
+{
+  "id": 1243085699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.13333,11.25,-15.13333,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":-15.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cadique Nalu",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374272,
+    "gn:latitude":11.25,
+    "gn:longitude":-15.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cadique Nalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cadique",
+        "Cadique Nalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374272
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"6d34cb505688a8b474c32ca5a2334606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758261,
+            "locality_id":1243085699,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1243085699,
+    "wof:lastmodified":1537625459,
+    "wof:name":"Cadique Nalu",
+    "wof:parent_id":1108758261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.13333,
+    11.25,
+    -15.13333,
+    11.25
+],
+  "geometry": {"coordinates":[-15.13333,11.25],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226457003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.4,11.4,-15.4,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-15.4,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cantamba",
+    "gn:country_code":"GW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373738,
+    "gn:latitude":11.4,
+    "gn:longitude":-15.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cantamb\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373738
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"ad6096a47ee02ec60bf8da163b5fc4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758255,
+            "locality_id":1226457003,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1226457003,
+    "wof:lastmodified":1536627418,
+    "wof:name":"Cantamba",
+    "wof:parent_id":1108758255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.4,
+    11.4,
+    -15.4,
+    11.4
+],
+  "geometry": {"coordinates":[-15.4,11.4],"type":"Point"}
+}

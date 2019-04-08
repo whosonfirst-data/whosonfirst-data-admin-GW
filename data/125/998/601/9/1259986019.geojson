@@ -1,0 +1,67 @@
+{
+  "id": 1259986019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.18611,12.48694,-15.18611,12.48694",
+    "geom:latitude":12.48694,
+    "geom:longitude":-15.18611,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mato Vaz",
+    "gn:country_code":"GW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371402,
+    "gn:latitude":12.48694,
+    "gn:longitude":-15.18611,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Mato Vaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371402
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9affd706fd176822ffd68e4a2cc0305e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1259986019,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1259986019,
+    "wof:lastmodified":1536629768,
+    "wof:name":"Mato Vaz",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.18611,
+    12.48694,
+    -15.18611,
+    12.48694
+],
+  "geometry": {"coordinates":[-15.18611,12.48694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343271847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.53333,11.53333,-14.53333,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":-14.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saala",
+    "gn:country_code":"GW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2370282,
+    "gn:latitude":11.53333,
+    "gn:longitude":-14.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"S\u00e0ala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370282
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cffa7b794bfc1576f718d7a280eb0713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1343271847,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1343271847,
+    "wof:lastmodified":1537017662,
+    "wof:name":"Saala",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.53333,
+    11.53333,
+    -14.53333,
+    11.53333
+],
+  "geometry": {"coordinates":[-14.53333,11.53333],"type":"Point"}
+}

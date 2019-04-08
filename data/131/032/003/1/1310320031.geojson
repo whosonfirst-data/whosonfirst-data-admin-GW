@@ -1,0 +1,67 @@
+{
+  "id": 1310320031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.7,12.13333,-15.7,12.13333",
+    "geom:latitude":12.13333,
+    "geom:longitude":-15.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pedara",
+    "gn:country_code":"GW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2370851,
+    "gn:latitude":12.13333,
+    "gn:longitude":-15.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pedara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370851
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"c921af7be1d10791aaa45d4efee3a913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758219,
+            "locality_id":1310320031,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1310320031,
+    "wof:lastmodified":1536686907,
+    "wof:name":"Pedara",
+    "wof:parent_id":1108758219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.7,
+    12.13333,
+    -15.7,
+    12.13333
+],
+  "geometry": {"coordinates":[-15.7,12.13333],"type":"Point"}
+}

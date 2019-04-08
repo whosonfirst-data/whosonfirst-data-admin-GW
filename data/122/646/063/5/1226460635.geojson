@@ -1,0 +1,72 @@
+{
+  "id": 1226460635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.35,11.83333,-15.35,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":-15.35,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sao Jose",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370032,
+    "gn:latitude":11.83333,
+    "gn:longitude":-15.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e3o Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crato",
+        "S\u00e3o Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370032
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"444dc5c37b5bd036862d0f210848c8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758259,
+            "locality_id":1226460635,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1226460635,
+    "wof:lastmodified":1537625410,
+    "wof:name":"Sao Jose",
+    "wof:parent_id":1108758259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.35,
+    11.83333,
+    -15.35,
+    11.83333
+],
+  "geometry": {"coordinates":[-15.35,11.83333],"type":"Point"}
+}

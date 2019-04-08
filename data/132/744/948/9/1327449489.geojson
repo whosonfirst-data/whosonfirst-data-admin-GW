@@ -1,0 +1,72 @@
+{
+  "id": 1327449489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.08333,11.03333,-15.08333,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":-15.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Campeane",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374010,
+    "gn:latitude":11.03333,
+    "gn:longitude":-15.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Campeane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campinha",
+        "Campeane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374010
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"6f2913b5985a0e137d68ddbef7e7b3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758263,
+            "locality_id":1327449489,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1327449489,
+    "wof:lastmodified":1537625456,
+    "wof:name":"Campeane",
+    "wof:parent_id":1108758263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.08333,
+    11.03333,
+    -15.08333,
+    11.03333
+],
+  "geometry": {"coordinates":[-15.08333,11.03333],"type":"Point"}
+}

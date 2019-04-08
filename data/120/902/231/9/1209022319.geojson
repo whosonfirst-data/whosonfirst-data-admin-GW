@@ -1,0 +1,61 @@
+{
+  "id": 1209022319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.66667,11.9,-14.66667,11.9",
+    "geom:latitude":11.9,
+    "geom:longitude":-14.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Ninha",
+    "gn:country_code":"GW",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369389,
+    "gn:latitude":11.9,
+    "gn:longitude":-14.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Ninha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369389
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b61e3a44309865817dc3492fbf6a1320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209022319
+        }
+    ],
+    "wof:id":1209022319,
+    "wof:lastmodified":1536300109,
+    "wof:name":"Sincha Ninha",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.666670000000002,
+    11.9,
+    -14.666670000000002,
+    11.9
+],
+  "geometry": {"coordinates":[-14.66667,11.9],"type":"Point"}
+}

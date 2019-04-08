@@ -1,0 +1,67 @@
+{
+  "id": 1344067039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.23333,11.01667,-15.23333,11.01667",
+    "geom:latitude":11.01667,
+    "geom:longitude":-15.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ilheu de Melo",
+    "gn:country_code":"GW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372145,
+    "gn:latitude":11.01667,
+    "gn:longitude":-15.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ilh\u00e9u de Melo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372145
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"560b15ca825d04dde2f0561e0e99406a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758261,
+            "locality_id":1344067039,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1344067039,
+    "wof:lastmodified":1536864659,
+    "wof:name":"Ilheu de Melo",
+    "wof:parent_id":1108758261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.23333,
+    11.01667,
+    -15.23333,
+    11.01667
+],
+  "geometry": {"coordinates":[-15.23333,11.01667],"type":"Point"}
+}

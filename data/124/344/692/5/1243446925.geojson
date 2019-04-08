@@ -1,0 +1,73 @@
+{
+  "id": 1243446925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.86139,12.22444,-15.86139,12.22444",
+    "geom:latitude":12.22444,
+    "geom:longitude":-15.86139,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jolmete",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371894,
+    "gn:latitude":12.22444,
+    "gn:longitude":-15.86139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jolmete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jolmele",
+        "Jolmete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371894,
+        "wk:page":"Jolmete"
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5dc190d59df1c669958d93af0c944914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758219,
+            "locality_id":1243446925,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1243446925,
+    "wof:lastmodified":1537625433,
+    "wof:name":"Jolmete",
+    "wof:parent_id":1108758219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.86139,
+    12.22444,
+    -15.86139,
+    12.22444
+],
+  "geometry": {"coordinates":[-15.86139,12.22444],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209525551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.65,11.83333,-15.65,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":-15.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bambadinca Mancanha",
+    "gn:country_code":"GW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375176,
+    "gn:latitude":11.83333,
+    "gn:longitude":-15.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bambadinca Mancanha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375176
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"ba892196e319327787668bf7cb655086",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209525551
+        }
+    ],
+    "wof:id":1209525551,
+    "wof:lastmodified":1536284442,
+    "wof:name":"Bambadinca Mancanha",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.65,
+    11.83333,
+    -15.65,
+    11.83333
+],
+  "geometry": {"coordinates":[-15.65,11.83333],"type":"Point"}
+}

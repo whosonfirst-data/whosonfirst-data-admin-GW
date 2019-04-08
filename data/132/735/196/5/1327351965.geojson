@@ -1,0 +1,67 @@
+{
+  "id": 1327351965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.41667,12.43333,-15.41667,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":-15.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jongo",
+    "gn:country_code":"GW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371884,
+    "gn:latitude":12.43333,
+    "gn:longitude":-15.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Jongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371884
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"bbda80e95052936f520f38e22c4e8008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1327351965,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1327351965,
+    "wof:lastmodified":1536797177,
+    "wof:name":"Jongo",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.41667,
+    12.43333,
+    -15.41667,
+    12.43333
+],
+  "geometry": {"coordinates":[-15.41667,12.43333],"type":"Point"}
+}

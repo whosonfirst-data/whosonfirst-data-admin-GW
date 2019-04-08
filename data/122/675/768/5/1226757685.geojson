@@ -1,0 +1,67 @@
+{
+  "id": 1226757685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.73333,12.36667,-13.73333,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":-13.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Bailo",
+    "gn:country_code":"GW",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369687,
+    "gn:latitude":12.36667,
+    "gn:longitude":-13.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Bailo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369687
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b896d90d1363d0751c44bf7c772bfdbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758237,
+            "locality_id":1226757685,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1226757685,
+    "wof:lastmodified":1536698532,
+    "wof:name":"Sincha Bailo",
+    "wof:parent_id":1108758237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.73333,
+    12.36667,
+    -13.73333,
+    12.36667
+],
+  "geometry": {"coordinates":[-13.73333,12.36667],"type":"Point"}
+}

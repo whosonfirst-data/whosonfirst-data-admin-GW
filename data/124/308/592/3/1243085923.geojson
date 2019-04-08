@@ -1,0 +1,67 @@
+{
+  "id": 1243085923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.65,11.85,-15.65,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":-15.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dutebor",
+    "gn:country_code":"GW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372795,
+    "gn:latitude":11.85,
+    "gn:longitude":-15.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dutebor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671539,
+        1108758205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372795
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"e4d964fc6510752c23b05f1ebfbc7cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758205,
+            "locality_id":1243085923,
+            "region_id":85671539
+        }
+    ],
+    "wof:id":1243085923,
+    "wof:lastmodified":1536827272,
+    "wof:name":"Dutebor",
+    "wof:parent_id":1108758205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.65,
+    11.85,
+    -15.65,
+    11.85
+],
+  "geometry": {"coordinates":[-15.65,11.85],"type":"Point"}
+}

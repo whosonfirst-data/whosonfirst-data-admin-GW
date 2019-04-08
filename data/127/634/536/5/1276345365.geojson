@@ -1,0 +1,67 @@
+{
+  "id": 1276345365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.9,11.23333,-14.9,11.23333",
+    "geom:latitude":11.23333,
+    "geom:longitude":-14.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Talaia",
+    "gn:country_code":"GW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369078,
+    "gn:latitude":11.23333,
+    "gn:longitude":-14.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tal\u00e1i\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369078
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cdd6a30bc243e85211eeb0bf83fb2a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758263,
+            "locality_id":1276345365,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1276345365,
+    "wof:lastmodified":1536762518,
+    "wof:name":"Talaia",
+    "wof:parent_id":1108758263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.9,
+    11.23333,
+    -14.9,
+    11.23333
+],
+  "geometry": {"coordinates":[-14.9,11.23333],"type":"Point"}
+}

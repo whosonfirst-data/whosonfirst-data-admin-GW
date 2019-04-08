@@ -1,0 +1,67 @@
+{
+  "id": 1243077873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.23333,12.46667,-15.23333,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":-15.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ponta Paulo Comba",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370586,
+    "gn:latitude":12.46667,
+    "gn:longitude":-15.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ponta Paulo Comba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370586
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"6cab85deef39f1bfcf89ebba59659b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758245,
+            "locality_id":1243077873,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1243077873,
+    "wof:lastmodified":1536838717,
+    "wof:name":"Ponta Paulo Comba",
+    "wof:parent_id":1108758245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.23333,
+    12.46667,
+    -15.23333,
+    12.46667
+],
+  "geometry": {"coordinates":[-15.23333,12.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293113147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.93333,12.48333,-14.93333,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":-14.93333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sumabanta",
+    "gn:country_code":"GW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369146,
+    "gn:latitude":12.48333,
+    "gn:longitude":-14.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sumabanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369146
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"54caf00c0f5e228d15d5527622cc5ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1293113147,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1293113147,
+    "wof:lastmodified":1536828739,
+    "wof:name":"Sumabanta",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.93333,
+    12.48333,
+    -14.93333,
+    12.48333
+],
+  "geometry": {"coordinates":[-14.93333,12.48333],"type":"Point"}
+}

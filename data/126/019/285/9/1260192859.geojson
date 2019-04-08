@@ -1,0 +1,73 @@
+{
+  "id": 1260192859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.05,11.95,-15.05,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-15.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gamala Jasse",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372463,
+    "gn:latitude":11.95,
+    "gn:longitude":-15.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gamal\u00e3 Jasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Candiobe",
+        "Gamal\u00e3 Jassi",
+        "Gamal\u00e3 Jasse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372463
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"4ed2719d8ddb64afc206bf673dd1182a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758257,
+            "locality_id":1260192859,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1260192859,
+    "wof:lastmodified":1537625439,
+    "wof:name":"Gamala Jasse",
+    "wof:parent_id":1108758257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.05,
+    11.95,
+    -15.05,
+    11.95
+],
+  "geometry": {"coordinates":[-15.05,11.95],"type":"Point"}
+}

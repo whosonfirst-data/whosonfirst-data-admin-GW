@@ -1,0 +1,72 @@
+{
+  "id": 1243172425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.57417,12.27806,-15.57417,12.27806",
+    "geom:latitude":12.27806,
+    "geom:longitude":-15.57417,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fagi",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372703,
+    "gn:latitude":12.27806,
+    "gn:longitude":-15.57417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faje",
+        "Fagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372703
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"30a6d2e015421c06acf140cea2c24fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1243172425,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1243172425,
+    "wof:lastmodified":1537625442,
+    "wof:name":"Fagi",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.57417,
+    12.27806,
+    -15.57417,
+    12.27806
+],
+  "geometry": {"coordinates":[-15.57417,12.27806],"type":"Point"}
+}

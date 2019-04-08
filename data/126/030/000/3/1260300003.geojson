@@ -1,0 +1,67 @@
+{
+  "id": 1260300003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.58333,12.36667,-14.58333,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":-14.58333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sare Dabel",
+    "gn:country_code":"GW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369960,
+    "gn:latitude":12.36667,
+    "gn:longitude":-14.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Dabel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369960
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"e26301855cb0c659dcf4120ccea7f247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1260300003,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1260300003,
+    "wof:lastmodified":1536689785,
+    "wof:name":"Sare Dabel",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.58333,
+    12.36667,
+    -14.58333,
+    12.36667
+],
+  "geometry": {"coordinates":[-14.58333,12.36667],"type":"Point"}
+}

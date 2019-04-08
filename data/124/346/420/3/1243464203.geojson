@@ -1,0 +1,72 @@
+{
+  "id": 1243464203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.23333,11.38333,-15.23333,11.38333",
+    "geom:latitude":11.38333,
+    "geom:longitude":-15.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cangalai",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373869,
+    "gn:latitude":11.38333,
+    "gn:longitude":-15.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cangalai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cangalaia",
+        "Cangalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373869
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"c2312f3c4c3c2eeb7f57f835c5a7807e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758265,
+            "locality_id":1243464203,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1243464203,
+    "wof:lastmodified":1537625455,
+    "wof:name":"Cangalai",
+    "wof:parent_id":1108758265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.23333,
+    11.38333,
+    -15.23333,
+    11.38333
+],
+  "geometry": {"coordinates":[-15.23333,11.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343968319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.7,11.51667,-14.7,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":-14.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Puromala",
+    "gn:country_code":"GW",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2370489,
+    "gn:latitude":11.51667,
+    "gn:longitude":-14.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pur\u00f3mala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370489
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"c9f64d80d5e4c4e5d9e61f35d5587b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1343968319,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1343968319,
+    "wof:lastmodified":1537007833,
+    "wof:name":"Puromala",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.7,
+    11.51667,
+    -14.7,
+    11.51667
+],
+  "geometry": {"coordinates":[-14.7,11.51667],"type":"Point"}
+}

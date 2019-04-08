@@ -1,0 +1,67 @@
+{
+  "id": 1344154645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.96694,12.36222,-15.96694,12.36222",
+    "geom:latitude":12.36222,
+    "geom:longitude":-15.96694,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Canchingolo",
+    "gn:country_code":"GW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593130,
+    "gn:latitude":12.36222,
+    "gn:longitude":-15.96694,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Canchingolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593130
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"95e1f5588b8165c24f54170bb48b4e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758217,
+            "locality_id":1344154645,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1344154645,
+    "wof:lastmodified":1536739586,
+    "wof:name":"Canchingolo",
+    "wof:parent_id":1108758217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.96694,
+    12.36222,
+    -15.96694,
+    12.36222
+],
+  "geometry": {"coordinates":[-15.96694,12.36222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310219823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.05,12.61667,-14.05,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":-14.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Iufana",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372041,
+    "gn:latitude":12.61667,
+    "gn:longitude":-14.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iufan\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinch\u00e3 M\u00f3l\u00f2",
+        "Diufan\u00e1",
+        "Iufan\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372041
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"1016723e15551971d31e8f2550d50506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1310219823,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1310219823,
+    "wof:lastmodified":1537625434,
+    "wof:name":"Iufana",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.05,
+    12.61667,
+    -14.05,
+    12.61667
+],
+  "geometry": {"coordinates":[-14.05,12.61667],"type":"Point"}
+}

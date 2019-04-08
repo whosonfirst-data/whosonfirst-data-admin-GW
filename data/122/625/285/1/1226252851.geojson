@@ -1,0 +1,72 @@
+{
+  "id": 1226252851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.53333,12.36667,-15.53333,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":-15.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Iador",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372211,
+    "gn:latitude":12.36667,
+    "gn:longitude":-15.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iador",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iodor",
+        "Iador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372211
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5b429897608c125ae3f2544bcd59432d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1226252851,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1226252851,
+    "wof:lastmodified":1537625436,
+    "wof:name":"Iador",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.53333,
+    12.36667,
+    -15.53333,
+    12.36667
+],
+  "geometry": {"coordinates":[-15.53333,12.36667],"type":"Point"}
+}

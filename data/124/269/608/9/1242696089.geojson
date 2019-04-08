@@ -1,0 +1,73 @@
+{
+  "id": 1242696089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.76667,11.88333,-15.76667,11.88333",
+    "geom:latitude":11.88333,
+    "geom:longitude":-15.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ponta Boa Esperanca",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370680,
+    "gn:latitude":11.88333,
+    "gn:longitude":-15.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ponta Boa Esperan\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boa Esperan\u00e7a",
+        "Ponta Robalo",
+        "Ponta Boa Esperan\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671535,
+        1108758201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370680
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"bf9f62ee6d07fb4641458c53ee270b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758201,
+            "locality_id":1242696089,
+            "region_id":85671535
+        }
+    ],
+    "wof:id":1242696089,
+    "wof:lastmodified":1537625420,
+    "wof:name":"Ponta Boa Esperanca",
+    "wof:parent_id":1108758201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.76667,
+    11.88333,
+    -15.76667,
+    11.88333
+],
+  "geometry": {"coordinates":[-15.76667,11.88333],"type":"Point"}
+}

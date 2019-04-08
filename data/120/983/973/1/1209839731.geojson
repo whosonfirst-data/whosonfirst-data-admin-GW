@@ -1,0 +1,67 @@
+{
+  "id": 1209839731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.43361,12.24583,-15.43361,12.24583",
+    "geom:latitude":12.24583,
+    "geom:longitude":-15.43361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gulcunhe",
+    "gn:country_code":"GW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372242,
+    "gn:latitude":12.24583,
+    "gn:longitude":-15.43361,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Gulcunhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372242
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b202c88174e3b1a400fef1d8a447bb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1209839731,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1209839731,
+    "wof:lastmodified":1536393262,
+    "wof:name":"Gulcunhe",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.43361,
+    12.24583,
+    -15.43361,
+    12.24583
+],
+  "geometry": {"coordinates":[-15.43361,12.24583],"type":"Point"}
+}

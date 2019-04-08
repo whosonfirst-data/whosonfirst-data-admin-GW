@@ -1,0 +1,61 @@
+{
+  "id": 1209103811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.13111,12.26472,-16.13111,12.26472",
+    "geom:latitude":12.26472,
+    "geom:longitude":-16.13111,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ponta Baio",
+    "gn:country_code":"GW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370689,
+    "gn:latitude":12.26472,
+    "gn:longitude":-16.13111,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Ponta Baio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370689
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"6e0b40fcf5fe880001b9574484b6553e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209103811
+        }
+    ],
+    "wof:id":1209103811,
+    "wof:lastmodified":1536297644,
+    "wof:name":"Ponta Baio",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.13111,
+    12.26472,
+    -16.13111,
+    12.26472
+],
+  "geometry": {"coordinates":[-16.13111,12.26472],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209098875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.09528,12.03861,-16.09528,12.03861",
+    "geom:latitude":12.03861,
+    "geom:longitude":-16.09528,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Boja",
+    "gn:country_code":"GW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374699,
+    "gn:latitude":12.03861,
+    "gn:longitude":-16.09528,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Boja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374699
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"3c322e10164be8ce16ae9af1f3a9fbb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209098875
+        }
+    ],
+    "wof:id":1209098875,
+    "wof:lastmodified":1536297798,
+    "wof:name":"Boja",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.09528,
+    12.03861,
+    -16.09528,
+    12.03861
+],
+  "geometry": {"coordinates":[-16.09528,12.03861],"type":"Point"}
+}

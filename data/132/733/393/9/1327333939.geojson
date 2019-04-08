@@ -1,0 +1,67 @@
+{
+  "id": 1327333939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.27306,12.13,-15.27306,12.13",
+    "geom:latitude":12.13,
+    "geom:longitude":-15.27306,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Querene",
+    "gn:country_code":"GW",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370421,
+    "gn:latitude":12.13,
+    "gn:longitude":-15.27306,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Querene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370421
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d32db467b96790e4cf4f83e593096263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758247,
+            "locality_id":1327333939,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1327333939,
+    "wof:lastmodified":1536822099,
+    "wof:name":"Querene",
+    "wof:parent_id":1108758247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.27306,
+    12.13,
+    -15.27306,
+    12.13
+],
+  "geometry": {"coordinates":[-15.27306,12.13],"type":"Point"}
+}

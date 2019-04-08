@@ -1,0 +1,67 @@
+{
+  "id": 1276990979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.78333,11.36667,-14.78333,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-14.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sare Morso",
+    "gn:country_code":"GW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369864,
+    "gn:latitude":11.36667,
+    "gn:longitude":-14.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare M\u00f3rs\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369864
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"1e6d0fdb85d4044a58f4f3f3445f96fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1276990979,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1276990979,
+    "wof:lastmodified":1536891786,
+    "wof:name":"Sare Morso",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.78333,
+    11.36667,
+    -14.78333,
+    11.36667
+],
+  "geometry": {"coordinates":[-14.78333,11.36667],"type":"Point"}
+}

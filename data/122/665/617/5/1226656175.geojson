@@ -1,0 +1,72 @@
+{
+  "id": 1226656175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.71667,11.81667,-15.71667,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":-15.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Picete",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370777,
+    "gn:latitude":11.81667,
+    "gn:longitude":-15.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Picete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pecite",
+        "Picete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671535,
+        1108758199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370777
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"39117e74a1b9be495dbfe0bcf6c31dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758199,
+            "locality_id":1226656175,
+            "region_id":85671535
+        }
+    ],
+    "wof:id":1226656175,
+    "wof:lastmodified":1537625422,
+    "wof:name":"Picete",
+    "wof:parent_id":1108758199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.71667,
+    11.81667,
+    -15.71667,
+    11.81667
+],
+  "geometry": {"coordinates":[-15.71667,11.81667],"type":"Point"}
+}

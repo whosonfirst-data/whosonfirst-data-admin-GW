@@ -1,0 +1,67 @@
+{
+  "id": 1344171621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.18333,12.45,-14.18333,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-14.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Concomelo",
+    "gn:country_code":"GW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369601,
+    "gn:latitude":12.45,
+    "gn:longitude":-14.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Concomelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369601
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"123c52af87abc196caac6aac2e18e150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1344171621,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1344171621,
+    "wof:lastmodified":1536715443,
+    "wof:name":"Sincha Concomelo",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.18333,
+    12.45,
+    -14.18333,
+    12.45
+],
+  "geometry": {"coordinates":[-14.18333,12.45],"type":"Point"}
+}

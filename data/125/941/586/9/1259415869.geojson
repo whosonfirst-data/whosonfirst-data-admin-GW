@@ -1,0 +1,67 @@
+{
+  "id": 1259415869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.23361,12.16833,-15.23361,12.16833",
+    "geom:latitude":12.16833,
+    "geom:longitude":-15.23361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Serracao",
+    "gn:country_code":"GW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593128,
+    "gn:latitude":12.16833,
+    "gn:longitude":-15.23361,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Serra\u00e7\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593128
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7ee0b4ef9331930740c0840a5541b37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758247,
+            "locality_id":1259415869,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1259415869,
+    "wof:lastmodified":1536956033,
+    "wof:name":"Serracao",
+    "wof:parent_id":1108758247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.23361,
+    12.16833,
+    -15.23361,
+    12.16833
+],
+  "geometry": {"coordinates":[-15.23361,12.16833],"type":"Point"}
+}

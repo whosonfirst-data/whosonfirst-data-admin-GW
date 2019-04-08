@@ -1,0 +1,67 @@
+{
+  "id": 1293096561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.89611,12.00667,-15.89611,12.00667",
+    "geom:latitude":12.00667,
+    "geom:longitude":-15.89611,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jete",
+    "gn:country_code":"GW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371923,
+    "gn:latitude":12.00667,
+    "gn:longitude":-15.89611,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Jete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371923
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7bb9d9bba8bc8d6a008fd36467a5acf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758225,
+            "locality_id":1293096561,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1293096561,
+    "wof:lastmodified":1536852587,
+    "wof:name":"Jete",
+    "wof:parent_id":1108758225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.89611,
+    12.00667,
+    -15.89611,
+    12.00667
+],
+  "geometry": {"coordinates":[-15.89611,12.00667],"type":"Point"}
+}

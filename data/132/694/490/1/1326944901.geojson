@@ -1,0 +1,72 @@
+{
+  "id": 1326944901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.8,12.08333,-15.8,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-15.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Utanque",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368696,
+    "gn:latitude":12.08333,
+    "gn:longitude":-15.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Utanque",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utonque",
+        "Utanque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368696
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"83dbfe6a338a63be3cfd27dc372fa35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758219,
+            "locality_id":1326944901,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1326944901,
+    "wof:lastmodified":1537625392,
+    "wof:name":"Utanque",
+    "wof:parent_id":1108758219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.8,
+    12.08333,
+    -15.8,
+    12.08333
+],
+  "geometry": {"coordinates":[-15.8,12.08333],"type":"Point"}
+}

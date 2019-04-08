@@ -1,0 +1,67 @@
+{
+  "id": 1259397089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.85,12.66667,-13.85,12.66667",
+    "geom:latitude":12.66667,
+    "geom:longitude":-13.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Coi",
+    "gn:country_code":"GW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369605,
+    "gn:latitude":12.66667,
+    "gn:longitude":-13.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Coi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369605
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"a0a6f82ee7dcbd07b4df2898d46d6ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1259397089,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1259397089,
+    "wof:lastmodified":1536981959,
+    "wof:name":"Sincha Coi",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.85,
+    12.66667,
+    -13.85,
+    12.66667
+],
+  "geometry": {"coordinates":[-13.85,12.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242981017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.48333,11.95,-15.48333,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-15.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nague",
+    "gn:country_code":"GW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371282,
+    "gn:latitude":11.95,
+    "gn:longitude":-15.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nague",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371282
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7fecd1653607f96a276ae9ac82b530ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758251,
+            "locality_id":1242981017,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1242981017,
+    "wof:lastmodified":1536978853,
+    "wof:name":"Nague",
+    "wof:parent_id":1108758251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.48333,
+    11.95,
+    -15.48333,
+    11.95
+],
+  "geometry": {"coordinates":[-15.48333,11.95],"type":"Point"}
+}

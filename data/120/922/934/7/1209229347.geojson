@@ -1,0 +1,61 @@
+{
+  "id": 1209229347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.73333,12.0,-14.73333,12.0",
+    "geom:latitude":12.0,
+    "geom:longitude":-14.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bagadaje",
+    "gn:country_code":"GW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2375248,
+    "gn:latitude":12.0,
+    "gn:longitude":-14.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bagadaje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375248
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"71c2c829febd3d88f3f629d697f758a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209229347
+        }
+    ],
+    "wof:id":1209229347,
+    "wof:lastmodified":1536293688,
+    "wof:name":"Bagadaje",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.73333,
+    12.0,
+    -14.73333,
+    12.0
+],
+  "geometry": {"coordinates":[-14.73333,12.0],"type":"Point"}
+}

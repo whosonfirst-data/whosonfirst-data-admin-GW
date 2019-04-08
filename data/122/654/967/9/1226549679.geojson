@@ -1,0 +1,72 @@
+{
+  "id": 1226549679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.3,12.43333,-14.3,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":-14.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Ulo",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369267,
+    "gn:latitude":12.43333,
+    "gn:longitude":-14.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinch\u00e3 \u00dal\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinch\u00e3 Ul\u00fa",
+        "Sinch\u00e3 \u00dal\u00f2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369267
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"fa2ab2eba053a58866691d932b888187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1226549679,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1226549679,
+    "wof:lastmodified":1537625399,
+    "wof:name":"Sincha Ulo",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.3,
+    12.43333,
+    -14.3,
+    12.43333
+],
+  "geometry": {"coordinates":[-14.3,12.43333],"type":"Point"}
+}

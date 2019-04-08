@@ -1,0 +1,67 @@
+{
+  "id": 1260303841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.78333,11.55,-14.78333,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":-14.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Afia",
+    "gn:country_code":"GW",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375506,
+    "gn:latitude":11.55,
+    "gn:longitude":-14.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"\u00c1fi\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375506
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7badb1a829f460bde1db07488c30298c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1260303841,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1260303841,
+    "wof:lastmodified":1536684555,
+    "wof:name":"Afia",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.78333,
+    11.55,
+    -14.78333,
+    11.55
+],
+  "geometry": {"coordinates":[-14.78333,11.55],"type":"Point"}
+}

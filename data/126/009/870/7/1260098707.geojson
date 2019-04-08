@@ -1,0 +1,72 @@
+{
+  "id": 1260098707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.75,12.3,-13.75,12.3",
+    "geom:latitude":12.3,
+    "geom:longitude":-13.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bucure Mori",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374559,
+    "gn:latitude":12.3,
+    "gn:longitude":-13.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bucur\u00e9 Mori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bucur\u00e9 More",
+        "Bucur\u00e9 Mori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374559
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"915403812b846b04a677ce88fc72f81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758237,
+            "locality_id":1260098707,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1260098707,
+    "wof:lastmodified":1537625462,
+    "wof:name":"Bucure Mori",
+    "wof:parent_id":1108758237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.75,
+    12.3,
+    -13.75,
+    12.3
+],
+  "geometry": {"coordinates":[-13.75,12.3],"type":"Point"}
+}

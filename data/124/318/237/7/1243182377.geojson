@@ -1,0 +1,67 @@
+{
+  "id": 1243182377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.01667,11.75,-14.01667,11.75",
+    "geom:latitude":11.75,
+    "geom:longitude":-14.01667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Farambange",
+    "gn:country_code":"GW",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372664,
+    "gn:latitude":11.75,
+    "gn:longitude":-14.01667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Farambange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372664
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"ae84188b100fd0afdac989cc7d98d58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758229,
+            "locality_id":1243182377,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1243182377,
+    "wof:lastmodified":1536689276,
+    "wof:name":"Farambange",
+    "wof:parent_id":1108758229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.01667,
+    11.75,
+    -14.01667,
+    11.75
+],
+  "geometry": {"coordinates":[-14.01667,11.75],"type":"Point"}
+}

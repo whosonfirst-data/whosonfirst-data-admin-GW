@@ -1,0 +1,72 @@
+{
+  "id": 1276458411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.25,11.31667,-15.25,11.31667",
+    "geom:latitude":11.31667,
+    "geom:longitude":-15.25,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ganjola Porto",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372383,
+    "gn:latitude":11.31667,
+    "gn:longitude":-15.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ganjola Porto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cadonga",
+        "Ganjola Porto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372383
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"20583d29a532aa304d761c9d2e6341fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758265,
+            "locality_id":1276458411,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1276458411,
+    "wof:lastmodified":1537625438,
+    "wof:name":"Ganjola Porto",
+    "wof:parent_id":1108758265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.25,
+    11.31667,
+    -15.25,
+    11.31667
+],
+  "geometry": {"coordinates":[-15.25,11.31667],"type":"Point"}
+}

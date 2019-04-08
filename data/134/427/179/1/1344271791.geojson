@@ -1,0 +1,67 @@
+{
+  "id": 1344271791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.86667,12.55,-14.86667,12.55",
+    "geom:latitude":12.55,
+    "geom:longitude":-14.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Solo",
+    "gn:country_code":"GW",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369299,
+    "gn:latitude":12.55,
+    "gn:longitude":-14.86667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 S\u00f3l\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369299
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f5d88bff4d64b59171be4fe59a2b97cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1344271791,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1344271791,
+    "wof:lastmodified":1537064823,
+    "wof:name":"Sincha Solo",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.86667,
+    12.55,
+    -14.86667,
+    12.55
+],
+  "geometry": {"coordinates":[-14.86667,12.55],"type":"Point"}
+}

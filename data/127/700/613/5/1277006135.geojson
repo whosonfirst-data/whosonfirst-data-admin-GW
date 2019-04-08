@@ -1,0 +1,72 @@
+{
+  "id": 1277006135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.34361,12.44194,-15.34361,12.44194",
+    "geom:latitude":12.44194,
+    "geom:longitude":-15.34361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Manecunda",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371516,
+    "gn:latitude":12.44194,
+    "gn:longitude":-15.34361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manecunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mancunda",
+        "Manecunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371516
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"2112c2074998ba63026445ab0c7a3f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1277006135,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1277006135,
+    "wof:lastmodified":1537625429,
+    "wof:name":"Manecunda",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.34361,
+    12.44194,
+    -15.34361,
+    12.44194
+],
+  "geometry": {"coordinates":[-15.34361,12.44194],"type":"Point"}
+}

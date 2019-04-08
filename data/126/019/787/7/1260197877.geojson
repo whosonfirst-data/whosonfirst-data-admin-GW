@@ -1,0 +1,72 @@
+{
+  "id": 1260197877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.41667,12.48333,-14.41667,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":-14.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Carura Samba Balde",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373604,
+    "gn:latitude":12.48333,
+    "gn:longitude":-14.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Carura Samba Bald\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carura Samba",
+        "Carura Samba Bald\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373604
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"b9fe18972f05575c65b62ee7cb1a46dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1260197877,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1260197877,
+    "wof:lastmodified":1537625452,
+    "wof:name":"Carura Samba Balde",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.41667,
+    12.48333,
+    -14.41667,
+    12.48333
+],
+  "geometry": {"coordinates":[-14.41667,12.48333],"type":"Point"}
+}

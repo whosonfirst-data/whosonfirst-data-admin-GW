@@ -1,0 +1,72 @@
+{
+  "id": 1193159113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.31528,12.15167,-16.31528,12.15167",
+    "geom:latitude":12.15167,
+    "geom:longitude":-16.31528,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mata de Uco",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371419,
+    "gn:latitude":12.15167,
+    "gn:longitude":-16.31528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mata de Uc\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ocon",
+        "Mata de Uc\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371419
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d2ca8e67763e260d4fc43ee38293cf3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758221,
+            "locality_id":1193159113,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1193159113,
+    "wof:lastmodified":1537625428,
+    "wof:name":"Mata de Uco",
+    "wof:parent_id":1108758221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.31528,
+    12.15167,
+    -16.31528,
+    12.15167
+],
+  "geometry": {"coordinates":[-16.31528,12.15167],"type":"Point"}
+}

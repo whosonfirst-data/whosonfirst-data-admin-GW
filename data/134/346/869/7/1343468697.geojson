@@ -1,0 +1,67 @@
+{
+  "id": 1343468697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.61667,12.36667,-15.61667,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":-15.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Barro Grande",
+    "gn:country_code":"GW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375028,
+    "gn:latitude":12.36667,
+    "gn:longitude":-15.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Barro Grande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375028
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"68454cffc66930e7ebd4042d46c3ce05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758217,
+            "locality_id":1343468697,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1343468697,
+    "wof:lastmodified":1536734316,
+    "wof:name":"Barro Grande",
+    "wof:parent_id":1108758217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.61667,
+    12.36667,
+    -15.61667,
+    12.36667
+],
+  "geometry": {"coordinates":[-15.61667,12.36667],"type":"Point"}
+}

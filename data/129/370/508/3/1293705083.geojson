@@ -1,0 +1,67 @@
+{
+  "id": 1293705083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.16667,11.53333,-15.16667,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":-15.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Madina de Cima Balanta",
+    "gn:country_code":"GW",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371667,
+    "gn:latitude":11.53333,
+    "gn:longitude":-15.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Madina de Cima Balanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371667
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"328777013a0a1b58a37a5d92a6238795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758255,
+            "locality_id":1293705083,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1293705083,
+    "wof:lastmodified":1536970374,
+    "wof:name":"Madina de Cima Balanta",
+    "wof:parent_id":1108758255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.16667,
+    11.53333,
+    -15.16667,
+    11.53333
+],
+  "geometry": {"coordinates":[-15.16667,11.53333],"type":"Point"}
+}

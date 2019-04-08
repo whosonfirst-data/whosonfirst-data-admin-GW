@@ -1,0 +1,73 @@
+{
+  "id": 1293607191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.86667,12.03333,-14.86667,12.03333",
+    "geom:latitude":12.03333,
+    "geom:longitude":-14.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ga Vicente",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372343,
+    "gn:latitude":12.03333,
+    "gn:longitude":-14.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00e3 Vicente",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vicente",
+        "Gam-Vicente",
+        "G\u00e3 Vicente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372343
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f934618f6c24bcc0fe7cda4ff682bd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758187,
+            "locality_id":1293607191,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1293607191,
+    "wof:lastmodified":1537625437,
+    "wof:name":"Ga Vicente",
+    "wof:parent_id":1108758187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.86667,
+    12.03333,
+    -14.86667,
+    12.03333
+],
+  "geometry": {"coordinates":[-14.86667,12.03333],"type":"Point"}
+}

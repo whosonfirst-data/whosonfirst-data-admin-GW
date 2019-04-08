@@ -1,0 +1,67 @@
+{
+  "id": 1309730219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.78333,12.48333,-14.78333,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":-14.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Ere",
+    "gn:country_code":"GW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369539,
+    "gn:latitude":12.48333,
+    "gn:longitude":-14.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 \u00car\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369539
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5d4af5054c4e96c56dcc3a1b5e56a5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1309730219,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1309730219,
+    "wof:lastmodified":1537038396,
+    "wof:name":"Sincha Ere",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.78333,
+    12.48333,
+    -14.78333,
+    12.48333
+],
+  "geometry": {"coordinates":[-14.78333,12.48333],"type":"Point"}
+}

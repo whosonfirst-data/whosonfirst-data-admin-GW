@@ -1,0 +1,72 @@
+{
+  "id": 1343780153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.86667,12.65,-13.86667,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-13.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Boxi",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369646,
+    "gn:latitude":12.65,
+    "gn:longitude":-13.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinch\u00e3 Boxi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheuib\u00eassi",
+        "Sinch\u00e3 Boxi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369646
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"8611d798801a5c5343f5a0cb93907b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1343780153,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1343780153,
+    "wof:lastmodified":1537625405,
+    "wof:name":"Sincha Boxi",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.86667,
+    12.65,
+    -13.86667,
+    12.65
+],
+  "geometry": {"coordinates":[-13.86667,12.65],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326539965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.48333,12.51667,-14.48333,12.51667",
+    "geom:latitude":12.51667,
+    "geom:longitude":-14.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cambem",
+    "gn:country_code":"GW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2374089,
+    "gn:latitude":12.51667,
+    "gn:longitude":-14.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cambem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374089
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"52ce3bc0029b5b320cd46a6bb8d45532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1326539965,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1326539965,
+    "wof:lastmodified":1536972387,
+    "wof:name":"Cambem",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.48333,
+    12.51667,
+    -14.48333,
+    12.51667
+],
+  "geometry": {"coordinates":[-14.48333,12.51667],"type":"Point"}
+}

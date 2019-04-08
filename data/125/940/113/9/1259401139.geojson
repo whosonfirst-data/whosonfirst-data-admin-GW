@@ -1,0 +1,72 @@
+{
+  "id": 1259401139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.1,11.8,-16.1,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":-16.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Blute",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374725,
+    "gn:latitude":11.8,
+    "gn:longitude":-16.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Blute",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beluli",
+        "Blute"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374725
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"0f2d52d1e391aa212077076b9316fde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758223,
+            "locality_id":1259401139,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1259401139,
+    "wof:lastmodified":1537625464,
+    "wof:name":"Blute",
+    "wof:parent_id":1108758223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.1,
+    11.8,
+    -16.1,
+    11.8
+],
+  "geometry": {"coordinates":[-16.1,11.8],"type":"Point"}
+}

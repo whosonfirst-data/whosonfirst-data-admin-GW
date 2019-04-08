@@ -1,0 +1,61 @@
+{
+  "id": 1209633269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.55,12.03333,-14.55,12.03333",
+    "geom:latitude":12.03333,
+    "geom:longitude":-14.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Deba",
+    "gn:country_code":"GW",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372923,
+    "gn:latitude":12.03333,
+    "gn:longitude":-14.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"D\u00eaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372923
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f5f903d0ae846998b26f1660cd516d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209633269
+        }
+    ],
+    "wof:id":1209633269,
+    "wof:lastmodified":1536281123,
+    "wof:name":"Deba",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.55,
+    12.03333,
+    -14.55,
+    12.03333
+],
+  "geometry": {"coordinates":[-14.55,12.03333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259807573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.05222,12.60306,-15.05222,12.60306",
+    "geom:latitude":12.60306,
+    "geom:longitude":-15.05222,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sare Quecuta",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369846,
+    "gn:latitude":12.60306,
+    "gn:longitude":-15.05222,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sare Quecuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369846
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"0800a7279e0384402517c774c759a2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1259807573,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1259807573,
+    "wof:lastmodified":1536888132,
+    "wof:name":"Sare Quecuta",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.05222,
+    12.60306,
+    -15.05222,
+    12.60306
+],
+  "geometry": {"coordinates":[-15.05222,12.60306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260303879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.21667,11.31667,-15.21667,11.31667",
+    "geom:latitude":11.31667,
+    "geom:longitude":-15.21667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Canchumane",
+    "gn:country_code":"GW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373953,
+    "gn:latitude":11.31667,
+    "gn:longitude":-15.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Canchumane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373953
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"06964521c3fe7629a16ad98114845f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758265,
+            "locality_id":1260303879,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1260303879,
+    "wof:lastmodified":1536684505,
+    "wof:name":"Canchumane",
+    "wof:parent_id":1108758265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.21667,
+    11.31667,
+    -15.21667,
+    11.31667
+],
+  "geometry": {"coordinates":[-15.21667,11.31667],"type":"Point"}
+}

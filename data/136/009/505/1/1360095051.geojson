@@ -1,0 +1,67 @@
+{
+  "id": 1360095051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.88333,12.2,-14.88333,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":-14.88333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sissau",
+    "gn:country_code":"GW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369216,
+    "gn:latitude":12.2,
+    "gn:longitude":-14.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sissau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369216
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"567c5c261a2ffd3460ac48148a791ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758193,
+            "locality_id":1360095051,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1360095051,
+    "wof:lastmodified":1536931922,
+    "wof:name":"Sissau",
+    "wof:parent_id":1108758193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.88333,
+    12.2,
+    -14.88333,
+    12.2
+],
+  "geometry": {"coordinates":[-14.88333,12.2],"type":"Point"}
+}

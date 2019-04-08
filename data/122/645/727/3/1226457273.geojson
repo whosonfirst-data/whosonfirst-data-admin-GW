@@ -1,0 +1,67 @@
+{
+  "id": 1226457273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.03333,12.06667,-16.03333,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":-16.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ucunhe",
+    "gn:country_code":"GW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368831,
+    "gn:latitude":12.06667,
+    "gn:longitude":-16.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ucunhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368831
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"4fe16b0a8f56ddcb500b4b799e767ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758225,
+            "locality_id":1226457273,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1226457273,
+    "wof:lastmodified":1536626997,
+    "wof:name":"Ucunhe",
+    "wof:parent_id":1108758225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.03333,
+    12.06667,
+    -16.03333,
+    12.06667
+],
+  "geometry": {"coordinates":[-16.03333,12.06667],"type":"Point"}
+}

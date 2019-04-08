@@ -1,0 +1,73 @@
+{
+  "id": 1276137813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.23333,11.78333,-15.23333,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":-15.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ganjetra",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372388,
+    "gn:latitude":11.78333,
+    "gn:longitude":-15.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ganjetr\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganguetra",
+        "Gam Jatir\u00e1",
+        "Ganjetr\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372388
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5874bd9f5e40b091a611f00b4359a688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758257,
+            "locality_id":1276137813,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1276137813,
+    "wof:lastmodified":1537625438,
+    "wof:name":"Ganjetra",
+    "wof:parent_id":1108758257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.23333,
+    11.78333,
+    -15.23333,
+    11.78333
+],
+  "geometry": {"coordinates":[-15.23333,11.78333],"type":"Point"}
+}

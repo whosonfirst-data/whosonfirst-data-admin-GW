@@ -1,0 +1,67 @@
+{
+  "id": 1309920535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.36667,12.31667,-14.36667,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":-14.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Ualom",
+    "gn:country_code":"GW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369268,
+    "gn:latitude":12.31667,
+    "gn:longitude":-14.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Ualom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369268
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f044e81b18c60ed959462538fa9a224b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758233,
+            "locality_id":1309920535,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1309920535,
+    "wof:lastmodified":1536765995,
+    "wof:name":"Sincha Ualom",
+    "wof:parent_id":1108758233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.36667,
+    12.31667,
+    -14.36667,
+    12.31667
+],
+  "geometry": {"coordinates":[-14.36667,12.31667],"type":"Point"}
+}

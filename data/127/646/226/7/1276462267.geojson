@@ -1,0 +1,67 @@
+{
+  "id": 1276462267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.8,12.58333,-14.8,12.58333",
+    "geom:latitude":12.58333,
+    "geom:longitude":-14.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Umaro Baque",
+    "gn:country_code":"GW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368789,
+    "gn:latitude":12.58333,
+    "gn:longitude":-14.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Umaro Baqu\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368789
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"3ebdaaba7ce0c393ecda7caa56a2a128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1276462267,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1276462267,
+    "wof:lastmodified":1536602889,
+    "wof:name":"Umaro Baque",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.8,
+    12.58333,
+    -14.8,
+    12.58333
+],
+  "geometry": {"coordinates":[-14.8,12.58333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225869067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.16806,12.35861,-15.16806,12.35861",
+    "geom:latitude":12.35861,
+    "geom:longitude":-15.16806,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Baite",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375231,
+    "gn:latitude":12.35861,
+    "gn:longitude":-15.16806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baitl\u00e9",
+        "Baite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375231
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"58ef16821d7c98fab1b91bfcb1082a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758245,
+            "locality_id":1225869067,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1225869067,
+    "wof:lastmodified":1537625470,
+    "wof:name":"Baite",
+    "wof:parent_id":1108758245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.16806,
+    12.35861,
+    -15.16806,
+    12.35861
+],
+  "geometry": {"coordinates":[-15.16806,12.35861],"type":"Point"}
+}

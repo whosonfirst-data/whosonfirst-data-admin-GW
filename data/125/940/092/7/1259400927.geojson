@@ -1,0 +1,72 @@
+{
+  "id": 1259400927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.3,12.53333,-14.3,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":-14.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Sajori",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369355,
+    "gn:latitude":12.53333,
+    "gn:longitude":-14.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinch\u00e3 Sajori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinch\u00e3 Sajor",
+        "Sinch\u00e3 Sajori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369355
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"5694533f1306b80bf3ea10777e7b9970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758239,
+            "locality_id":1259400927,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1259400927,
+    "wof:lastmodified":1537625400,
+    "wof:name":"Sincha Sajori",
+    "wof:parent_id":1108758239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.3,
+    12.53333,
+    -14.3,
+    12.53333
+],
+  "geometry": {"coordinates":[-14.3,12.53333],"type":"Point"}
+}

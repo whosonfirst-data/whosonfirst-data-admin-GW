@@ -1,0 +1,73 @@
+{
+  "id": 1260295007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.75,12.3,-14.75,12.3",
+    "geom:latitude":12.3,
+    "geom:longitude":-14.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Camassira",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374114,
+    "gn:latitude":12.3,
+    "gn:longitude":-14.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Camassir\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gam Mansir\u00e1",
+        "Camansir\u00e1",
+        "Camassir\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374114
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f39a8ba60ce6a71b1a007a5c5724e18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758193,
+            "locality_id":1260295007,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1260295007,
+    "wof:lastmodified":1537625457,
+    "wof:name":"Camassira",
+    "wof:parent_id":1108758193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.75,
+    12.3,
+    -14.75,
+    12.3
+],
+  "geometry": {"coordinates":[-14.75,12.3],"type":"Point"}
+}

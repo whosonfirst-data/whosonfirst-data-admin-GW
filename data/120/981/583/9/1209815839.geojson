@@ -1,0 +1,72 @@
+{
+  "id": 1209815839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.41639,12.01306,-15.41639,12.01306",
+    "geom:latitude":12.01306,
+    "geom:longitude":-15.41639,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rossum",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370290,
+    "gn:latitude":12.01306,
+    "gn:longitude":-15.41639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rossum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rossin",
+        "Rossum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370290
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7a4f14c302e98407ed2a0e950760d07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758251,
+            "locality_id":1209815839,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1209815839,
+    "wof:lastmodified":1537625414,
+    "wof:name":"Rossum",
+    "wof:parent_id":1108758251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.41639,
+    12.01306,
+    -15.41639,
+    12.01306
+],
+  "geometry": {"coordinates":[-15.41639,12.01306],"type":"Point"}
+}

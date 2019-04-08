@@ -1,0 +1,67 @@
+{
+  "id": 1344267249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.26667,11.75,-14.26667,11.75",
+    "geom:latitude":11.75,
+    "geom:longitude":-14.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cutamaro",
+    "gn:country_code":"GW",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373026,
+    "gn:latitude":11.75,
+    "gn:longitude":-14.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cutam\u00e1ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373026
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"e709a15c6b8eb1e19b5827edf5456faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758229,
+            "locality_id":1344267249,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1344267249,
+    "wof:lastmodified":1537071182,
+    "wof:name":"Cutamaro",
+    "wof:parent_id":1108758229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.26667,
+    11.75,
+    -14.26667,
+    11.75
+],
+  "geometry": {"coordinates":[-14.26667,11.75],"type":"Point"}
+}

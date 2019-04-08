@@ -1,0 +1,67 @@
+{
+  "id": 1209924163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.23333,11.96667,-16.23333,11.96667",
+    "geom:latitude":11.96667,
+    "geom:longitude":-16.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Decantem",
+    "gn:country_code":"GW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372920,
+    "gn:latitude":11.96667,
+    "gn:longitude":-16.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dec\u00e2ntem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372920
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7964ffa03ee524b9d3f89b8ec260f5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758223,
+            "locality_id":1209924163,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1209924163,
+    "wof:lastmodified":1536395654,
+    "wof:name":"Decantem",
+    "wof:parent_id":1108758223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.23333,
+    11.96667,
+    -16.23333,
+    11.96667
+],
+  "geometry": {"coordinates":[-16.23333,11.96667],"type":"Point"}
+}

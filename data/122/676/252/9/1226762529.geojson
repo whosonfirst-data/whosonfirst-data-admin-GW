@@ -1,0 +1,67 @@
+{
+  "id": 1226762529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.13333,11.81667,-15.13333,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":-15.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gansene",
+    "gn:country_code":"GW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372374,
+    "gn:latitude":11.81667,
+    "gn:longitude":-15.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gansene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372374
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9d42caf9aec8d6cb1fed1555e411a8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758257,
+            "locality_id":1226762529,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1226762529,
+    "wof:lastmodified":1536691467,
+    "wof:name":"Gansene",
+    "wof:parent_id":1108758257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.13333,
+    11.81667,
+    -15.13333,
+    11.81667
+],
+  "geometry": {"coordinates":[-15.13333,11.81667],"type":"Point"}
+}

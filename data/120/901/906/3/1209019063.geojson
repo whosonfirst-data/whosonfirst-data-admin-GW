@@ -1,0 +1,66 @@
+{
+  "id": 1209019063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.31667,11.3,-15.31667,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":-15.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ilheu do Cote",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372144,
+    "gn:latitude":11.3,
+    "gn:longitude":-15.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ilh\u00e9u do Cote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilheu de Cote",
+        "Ilh\u00e9u do Cote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372144
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"252336643c4e9aa5cdaddbf17df8f382",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209019063
+        }
+    ],
+    "wof:id":1209019063,
+    "wof:lastmodified":1537625435,
+    "wof:name":"Ilheu do Cote",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.31667,
+    11.3,
+    -15.31667,
+    11.3
+],
+  "geometry": {"coordinates":[-15.31667,11.3],"type":"Point"}
+}

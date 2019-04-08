@@ -1,0 +1,72 @@
+{
+  "id": 1343271801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.2,12.08333,-16.2,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-16.2,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Plufe",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370735,
+    "gn:latitude":12.08333,
+    "gn:longitude":-16.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plufe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pelufe",
+        "Plufe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370735
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"a51f51796e8d96fc51bdc444719b1b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758221,
+            "locality_id":1343271801,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1343271801,
+    "wof:lastmodified":1537625421,
+    "wof:name":"Plufe",
+    "wof:parent_id":1108758221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.2,
+    12.08333,
+    -16.2,
+    12.08333
+],
+  "geometry": {"coordinates":[-16.2,12.08333],"type":"Point"}
+}

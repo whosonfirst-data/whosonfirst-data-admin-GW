@@ -1,0 +1,67 @@
+{
+  "id": 1209725531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.41667,11.4,-15.41667,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-15.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gambaqui",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372448,
+    "gn:latitude":11.4,
+    "gn:longitude":-15.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gambaqui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372448
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cd5a746c42d798d70e84fe4d2f994aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758255,
+            "locality_id":1209725531,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1209725531,
+    "wof:lastmodified":1536384153,
+    "wof:name":"Gambaqui",
+    "wof:parent_id":1108758255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.41667,
+    11.4,
+    -15.41667,
+    11.4
+],
+  "geometry": {"coordinates":[-15.41667,11.4],"type":"Point"}
+}

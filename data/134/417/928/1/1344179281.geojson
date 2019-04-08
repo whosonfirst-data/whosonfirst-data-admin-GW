@@ -1,0 +1,72 @@
+{
+  "id": 1344179281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.14806,12.42194,-16.14806,12.42194",
+    "geom:latitude":12.42194,
+    "geom:longitude":-16.14806,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mambaia",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371574,
+    "gn:latitude":12.42194,
+    "gn:longitude":-16.14806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mambai\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mambai\u00e3o",
+        "Mambai\u00e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371574
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"369ed9f7a629bb0ecce86306b5e419ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758227,
+            "locality_id":1344179281,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1344179281,
+    "wof:lastmodified":1537625429,
+    "wof:name":"Mambaia",
+    "wof:parent_id":1108758227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.14806,
+    12.42194,
+    -16.14806,
+    12.42194
+],
+  "geometry": {"coordinates":[-16.14806,12.42194],"type":"Point"}
+}

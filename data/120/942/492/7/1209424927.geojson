@@ -1,0 +1,61 @@
+{
+  "id": 1209424927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.68333,12.21667,-14.68333,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":-14.68333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ponta Nhamudefe",
+    "gn:country_code":"GW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2370605,
+    "gn:latitude":12.21667,
+    "gn:longitude":-14.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ponta Nhamudef\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370605
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"35e06e0b9060e1dd313f586c25cae124",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209424927
+        }
+    ],
+    "wof:id":1209424927,
+    "wof:lastmodified":1536287411,
+    "wof:name":"Ponta Nhamudefe",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.683329999999998,
+    12.21667,
+    -14.683329999999998,
+    12.21667
+],
+  "geometry": {"coordinates":[-14.68333,12.21667],"type":"Point"}
+}

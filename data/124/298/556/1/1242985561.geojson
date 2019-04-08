@@ -1,0 +1,67 @@
+{
+  "id": 1242985561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.71667,12.11667,-15.71667,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-15.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fei",
+    "gn:country_code":"GW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372623,
+    "gn:latitude":12.11667,
+    "gn:longitude":-15.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Fei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372623
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"eb4ab9f3ac4267d69c7459a9e0844663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758219,
+            "locality_id":1242985561,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1242985561,
+    "wof:lastmodified":1536972541,
+    "wof:name":"Fei",
+    "wof:parent_id":1108758219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.71667,
+    12.11667,
+    -15.71667,
+    12.11667
+],
+  "geometry": {"coordinates":[-15.71667,12.11667],"type":"Point"}
+}

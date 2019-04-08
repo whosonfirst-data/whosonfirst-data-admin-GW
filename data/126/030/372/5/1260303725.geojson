@@ -1,0 +1,67 @@
+{
+  "id": 1260303725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.05,11.78333,-16.05,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":-16.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bacala",
+    "gn:country_code":"GW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375283,
+    "gn:latitude":11.78333,
+    "gn:longitude":-16.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bacal\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375283
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d9e5888a83d419ea295210a347a327e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758223,
+            "locality_id":1260303725,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1260303725,
+    "wof:lastmodified":1536684717,
+    "wof:name":"Bacala",
+    "wof:parent_id":1108758223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.05,
+    11.78333,
+    -16.05,
+    11.78333
+],
+  "geometry": {"coordinates":[-16.05,11.78333],"type":"Point"}
+}

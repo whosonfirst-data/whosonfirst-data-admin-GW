@@ -1,0 +1,66 @@
+{
+  "id": 1209014707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.66667,12.43333,-13.66667,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":-13.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cael Jessel",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374265,
+    "gn:latitude":12.43333,
+    "gn:longitude":-13.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cael Jessel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cael Bessel",
+        "Cael Jessel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374265
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"6e04334e22a6598e1063b79c53a16cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209014707
+        }
+    ],
+    "wof:id":1209014707,
+    "wof:lastmodified":1537625459,
+    "wof:name":"Cael Jessel",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.66667,
+    12.43333,
+    -13.66667,
+    12.43333
+],
+  "geometry": {"coordinates":[-13.66667,12.43333],"type":"Point"}
+}

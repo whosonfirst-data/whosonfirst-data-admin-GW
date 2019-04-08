@@ -1,0 +1,67 @@
+{
+  "id": 1259890039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.28333,11.71667,-14.28333,11.71667",
+    "geom:latitude":11.71667,
+    "geom:longitude":-14.28333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boro",
+    "gn:country_code":"GW",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2374644,
+    "gn:latitude":11.71667,
+    "gn:longitude":-14.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Boro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374644
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"3e015cecea10150a1082b19387526188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758229,
+            "locality_id":1259890039,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1259890039,
+    "wof:lastmodified":1536770096,
+    "wof:name":"Boro",
+    "wof:parent_id":1108758229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.28333,
+    11.71667,
+    -14.28333,
+    11.71667
+],
+  "geometry": {"coordinates":[-14.28333,11.71667],"type":"Point"}
+}

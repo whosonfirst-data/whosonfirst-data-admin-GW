@@ -1,0 +1,72 @@
+{
+  "id": 1243468875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.75,12.05,-15.75,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-15.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ponta Augusto Hopfer",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370693,
+    "gn:latitude":12.05,
+    "gn:longitude":-15.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ponta Augusto Hopfer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponta Augusto Hopffer",
+        "Ponta Augusto Hopfer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370693
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"1c8f577cb246c1d1588b31cf746faa96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758219,
+            "locality_id":1243468875,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1243468875,
+    "wof:lastmodified":1537625421,
+    "wof:name":"Ponta Augusto Hopfer",
+    "wof:parent_id":1108758219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.75,
+    12.05,
+    -15.75,
+    12.05
+],
+  "geometry": {"coordinates":[-15.75,12.05],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309813499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.76667,11.81667,-15.76667,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":-15.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Reino de Quecete",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370308,
+    "gn:latitude":11.81667,
+    "gn:longitude":-15.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Reino de Quecete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Reino",
+        "Reino de Quecete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671535,
+        1108758199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370308
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"8bd8be96ce4306b7cbdefdca07277efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758199,
+            "locality_id":1309813499,
+            "region_id":85671535
+        }
+    ],
+    "wof:id":1309813499,
+    "wof:lastmodified":1537625414,
+    "wof:name":"Reino de Quecete",
+    "wof:parent_id":1108758199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.76667,
+    11.81667,
+    -15.76667,
+    11.81667
+],
+  "geometry": {"coordinates":[-15.76667,11.81667],"type":"Point"}
+}

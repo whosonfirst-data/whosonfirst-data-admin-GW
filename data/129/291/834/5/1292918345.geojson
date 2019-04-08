@@ -1,0 +1,67 @@
+{
+  "id": 1292918345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.85,11.86667,-14.85,11.86667",
+    "geom:latitude":11.86667,
+    "geom:longitude":-14.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sangue Demba Danejo",
+    "gn:country_code":"GW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370086,
+    "gn:latitude":11.86667,
+    "gn:longitude":-14.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sangu\u00ea Demba Danejo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370086
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"1cf84653517c1357b540a34ad08573f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758197,
+            "locality_id":1292918345,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1292918345,
+    "wof:lastmodified":1536610780,
+    "wof:name":"Sangue Demba Danejo",
+    "wof:parent_id":1108758197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.85,
+    11.86667,
+    -14.85,
+    11.86667
+],
+  "geometry": {"coordinates":[-14.85,11.86667],"type":"Point"}
+}

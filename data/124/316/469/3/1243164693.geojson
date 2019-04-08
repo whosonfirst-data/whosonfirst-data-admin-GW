@@ -1,0 +1,72 @@
+{
+  "id": 1243164693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.43583,12.20444,-16.43583,12.20444",
+    "geom:latitude":12.20444,
+    "geom:longitude":-16.43583,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jufunco",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371874,
+    "gn:latitude":12.20444,
+    "gn:longitude":-16.43583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jufunco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jufungo",
+        "Jufunco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371874
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9f93eb4d7ba198f145be23ee395df094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758227,
+            "locality_id":1243164693,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1243164693,
+    "wof:lastmodified":1537625432,
+    "wof:name":"Jufunco",
+    "wof:parent_id":1108758227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.43583,
+    12.20444,
+    -16.43583,
+    12.20444
+],
+  "geometry": {"coordinates":[-16.43583,12.20444],"type":"Point"}
+}

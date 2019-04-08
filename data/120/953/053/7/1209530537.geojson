@@ -1,0 +1,61 @@
+{
+  "id": 1209530537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.91667,11.46667,-15.91667,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":-15.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Acoco",
+    "gn:country_code":"GW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375519,
+    "gn:latitude":11.46667,
+    "gn:longitude":-15.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ac\u00f4c\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375519
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d959b34bd2c3ef0618be2f297080831c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209530537
+        }
+    ],
+    "wof:id":1209530537,
+    "wof:lastmodified":1536284294,
+    "wof:name":"Acoco",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.916670000000002,
+    11.46667,
+    -15.916670000000002,
+    11.46667
+],
+  "geometry": {"coordinates":[-15.91667,11.46667],"type":"Point"}
+}

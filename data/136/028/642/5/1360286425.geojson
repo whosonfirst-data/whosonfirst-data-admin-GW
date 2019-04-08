@@ -1,0 +1,67 @@
+{
+  "id": 1360286425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.2275,12.42306,-15.2275,12.42306",
+    "geom:latitude":12.42306,
+    "geom:longitude":-15.2275,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Colimansacunda",
+    "gn:country_code":"GW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373281,
+    "gn:latitude":12.42306,
+    "gn:longitude":-15.2275,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Colimansacunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373281
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"e24649caaa2aacefd7a607c78287ec71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758245,
+            "locality_id":1360286425,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1360286425,
+    "wof:lastmodified":1536655210,
+    "wof:name":"Colimansacunda",
+    "wof:parent_id":1108758245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.2275,
+    12.42306,
+    -15.2275,
+    12.42306
+],
+  "geometry": {"coordinates":[-15.2275,12.42306],"type":"Point"}
+}

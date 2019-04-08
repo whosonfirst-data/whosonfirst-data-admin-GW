@@ -1,0 +1,67 @@
+{
+  "id": 1292918349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.76667,12.4,-13.76667,12.4",
+    "geom:latitude":12.4,
+    "geom:longitude":-13.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Candebe",
+    "gn:country_code":"GW",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369620,
+    "gn:latitude":12.4,
+    "gn:longitude":-13.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Cand\u00e9b\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369620
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"373a2ae481e2c0ae4e612424bce80c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758237,
+            "locality_id":1292918349,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1292918349,
+    "wof:lastmodified":1536610773,
+    "wof:name":"Sincha Candebe",
+    "wof:parent_id":1108758237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.76667,
+    12.4,
+    -13.76667,
+    12.4
+],
+  "geometry": {"coordinates":[-13.76667,12.4],"type":"Point"}
+}

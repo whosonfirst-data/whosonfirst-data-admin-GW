@@ -1,0 +1,72 @@
+{
+  "id": 1226753645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.35028,12.13417,-15.35028,12.13417",
+    "geom:latitude":12.13417,
+    "geom:longitude":-15.35028,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cubonge",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373178,
+    "gn:latitude":12.13417,
+    "gn:longitude":-15.35028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cubonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cubonje",
+        "Cubonge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373178
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d0050b565466c76bf1b0472cd48cf082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758247,
+            "locality_id":1226753645,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1226753645,
+    "wof:lastmodified":1537625447,
+    "wof:name":"Cubonge",
+    "wof:parent_id":1108758247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.35028,
+    12.13417,
+    -15.35028,
+    12.13417
+],
+  "geometry": {"coordinates":[-15.35028,12.13417],"type":"Point"}
+}

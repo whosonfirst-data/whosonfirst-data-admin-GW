@@ -1,0 +1,67 @@
+{
+  "id": 1327351915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65,11.53333,-14.65,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":-14.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sare Nhaco",
+    "gn:country_code":"GW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369858,
+    "gn:latitude":11.53333,
+    "gn:longitude":-14.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sare Nhaco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671561,
+        1108758271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369858
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"9b67ef955b089d2c822dfeb4d9c66fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758271,
+            "locality_id":1327351915,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":1327351915,
+    "wof:lastmodified":1536797245,
+    "wof:name":"Sare Nhaco",
+    "wof:parent_id":1108758271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65,
+    11.53333,
+    -14.65,
+    11.53333
+],
+  "geometry": {"coordinates":[-14.65,11.53333],"type":"Point"}
+}

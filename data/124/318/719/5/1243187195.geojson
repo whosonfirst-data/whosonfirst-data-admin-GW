@@ -1,0 +1,67 @@
+{
+  "id": 1243187195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.9,12.08333,-14.9,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-14.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sansao",
+    "gn:country_code":"GW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370071,
+    "gn:latitude":12.08333,
+    "gn:longitude":-14.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sans\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370071
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"e8bb3d840b403f39a32a3ad9cf9536c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758187,
+            "locality_id":1243187195,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1243187195,
+    "wof:lastmodified":1536682176,
+    "wof:name":"Sansao",
+    "wof:parent_id":1108758187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.9,
+    12.08333,
+    -14.9,
+    12.08333
+],
+  "geometry": {"coordinates":[-14.9,12.08333],"type":"Point"}
+}

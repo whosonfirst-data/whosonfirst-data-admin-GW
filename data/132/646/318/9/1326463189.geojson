@@ -1,0 +1,72 @@
+{
+  "id": 1326463189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.37778,12.24611,-15.37778,12.24611",
+    "geom:latitude":12.24611,
+    "geom:longitude":-15.37778,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Unfarim",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368737,
+    "gn:latitude":12.24611,
+    "gn:longitude":-15.37778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Unfarim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Undarim",
+        "Unfarim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368737
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"51bf0de3d5532e88a3d68a1f308e200c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1326463189,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1326463189,
+    "wof:lastmodified":1537625392,
+    "wof:name":"Unfarim",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.37778,
+    12.24611,
+    -15.37778,
+    12.24611
+],
+  "geometry": {"coordinates":[-15.37778,12.24611],"type":"Point"}
+}

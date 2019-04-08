@@ -1,0 +1,72 @@
+{
+  "id": 1276247157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.98333,11.6,-14.98333,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-14.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sambafim",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2370183,
+    "gn:latitude":11.6,
+    "gn:longitude":-14.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sambafim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sambelsim",
+        "Sambafim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370183
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"75c90e9529198520115142bf77f0fa65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758253,
+            "locality_id":1276247157,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1276247157,
+    "wof:lastmodified":1537625412,
+    "wof:name":"Sambafim",
+    "wof:parent_id":1108758253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.98333,
+    11.6,
+    -14.98333,
+    11.6
+],
+  "geometry": {"coordinates":[-14.98333,11.6],"type":"Point"}
+}

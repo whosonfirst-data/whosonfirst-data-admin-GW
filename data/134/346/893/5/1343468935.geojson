@@ -1,0 +1,67 @@
+{
+  "id": 1343468935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.08333,11.78333,-16.08333,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":-16.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Miele",
+    "gn:country_code":"GW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371355,
+    "gn:latitude":11.78333,
+    "gn:longitude":-16.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Miele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371355
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"f58ca927074738255f703bc98f733139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758223,
+            "locality_id":1343468935,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1343468935,
+    "wof:lastmodified":1536733989,
+    "wof:name":"Miele",
+    "wof:parent_id":1108758223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.08333,
+    11.78333,
+    -16.08333,
+    11.78333
+],
+  "geometry": {"coordinates":[-16.08333,11.78333],"type":"Point"}
+}

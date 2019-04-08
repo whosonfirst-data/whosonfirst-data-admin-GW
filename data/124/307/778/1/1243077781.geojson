@@ -1,0 +1,72 @@
+{
+  "id": 1243077781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.7,12.2,-14.7,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":-14.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Jobor",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369468,
+    "gn:latitude":12.2,
+    "gn:longitude":-14.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinch\u00e3 Jobor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinch\u00e3 Jabori",
+        "Sinch\u00e3 Jobor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369468
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"309976c0f4affcc106c62ddcd24bae19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758193,
+            "locality_id":1243077781,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1243077781,
+    "wof:lastmodified":1537625402,
+    "wof:name":"Sincha Jobor",
+    "wof:parent_id":1108758193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.7,
+    12.2,
+    -14.7,
+    12.2
+],
+  "geometry": {"coordinates":[-14.7,12.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327144507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.01667,12.61667,-14.01667,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":-14.01667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Nafa",
+    "gn:country_code":"GW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369397,
+    "gn:latitude":12.61667,
+    "gn:longitude":-14.01667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Naf\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369397
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"00ff109bd01e07413b075eec0cfb0f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1327144507,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1327144507,
+    "wof:lastmodified":1537093203,
+    "wof:name":"Sincha Nafa",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.01667,
+    12.61667,
+    -14.01667,
+    12.61667
+],
+  "geometry": {"coordinates":[-14.01667,12.61667],"type":"Point"}
+}

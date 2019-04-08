@@ -1,0 +1,67 @@
+{
+  "id": 1293310777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65,12.08333,-14.65,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-14.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fulamansa",
+    "gn:country_code":"GW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372554,
+    "gn:latitude":12.08333,
+    "gn:longitude":-14.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Fulamansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372554
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"fe28924731f6d77668a441d8b02633b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758185,
+            "locality_id":1293310777,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1293310777,
+    "wof:lastmodified":1537040111,
+    "wof:name":"Fulamansa",
+    "wof:parent_id":1108758185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65,
+    12.08333,
+    -14.65,
+    12.08333
+],
+  "geometry": {"coordinates":[-14.65,12.08333],"type":"Point"}
+}

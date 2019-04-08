@@ -1,0 +1,72 @@
+{
+  "id": 1327441409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.3,12.1,-14.3,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-14.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Comuda",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373262,
+    "gn:latitude":12.1,
+    "gn:longitude":-14.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Comuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cumuda",
+        "Comuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373262
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"4e13dc9b83d48b039cde142b99f3b8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758233,
+            "locality_id":1327441409,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1327441409,
+    "wof:lastmodified":1537625448,
+    "wof:name":"Comuda",
+    "wof:parent_id":1108758233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.3,
+    12.1,
+    -14.3,
+    12.1
+],
+  "geometry": {"coordinates":[-14.3,12.1],"type":"Point"}
+}

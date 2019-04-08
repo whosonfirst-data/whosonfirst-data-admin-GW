@@ -1,0 +1,74 @@
+{
+  "id": 1310202481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.7975,12.40528,-15.7975,12.40528",
+    "geom:latitude":12.40528,
+    "geom:longitude":-15.7975,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ingore",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372095,
+    "gn:latitude":12.40528,
+    "gn:longitude":-15.7975,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ingor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019 Gor\u00e9",
+        "Ingorei",
+        "Ingori",
+        "Ingor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372095
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"7593990d538f5f2c6b94f3bfcc0a87ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758217,
+            "locality_id":1310202481,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1310202481,
+    "wof:lastmodified":1537625435,
+    "wof:name":"Ingore",
+    "wof:parent_id":1108758217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.7975,
+    12.40528,
+    -15.7975,
+    12.40528
+],
+  "geometry": {"coordinates":[-15.7975,12.40528],"type":"Point"}
+}

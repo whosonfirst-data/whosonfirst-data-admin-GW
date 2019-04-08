@@ -1,0 +1,67 @@
+{
+  "id": 1293889839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.35222,12.355,-15.35222,12.355",
+    "geom:latitude":12.355,
+    "geom:longitude":-15.35222,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cancunco",
+    "gn:country_code":"GW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373924,
+    "gn:latitude":12.355,
+    "gn:longitude":-15.35222,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Cancunc\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373924
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"df502836451a52e0d127f17ba5a3647d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758245,
+            "locality_id":1293889839,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1293889839,
+    "wof:lastmodified":1536704445,
+    "wof:name":"Cancunco",
+    "wof:parent_id":1108758245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.35222,
+    12.355,
+    -15.35222,
+    12.355
+],
+  "geometry": {"coordinates":[-15.35222,12.355],"type":"Point"}
+}

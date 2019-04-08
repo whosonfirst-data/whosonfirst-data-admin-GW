@@ -1,0 +1,72 @@
+{
+  "id": 1309726987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.05,11.8,-16.05,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":-16.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nanga",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371274,
+    "gn:latitude":11.8,
+    "gn:longitude":-16.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nang\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nangan",
+        "Nang\u00e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371274
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"2bf5c6e31c9fa7190ed95e9669a3be6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758223,
+            "locality_id":1309726987,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1309726987,
+    "wof:lastmodified":1537625427,
+    "wof:name":"Nanga",
+    "wof:parent_id":1108758223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.05,
+    11.8,
+    -16.05,
+    11.8
+],
+  "geometry": {"coordinates":[-16.05,11.8],"type":"Point"}
+}

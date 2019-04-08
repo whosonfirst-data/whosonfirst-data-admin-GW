@@ -1,0 +1,72 @@
+{
+  "id": 1276345301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.66667,12.36667,-13.66667,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":-13.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Afia Demba",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2375491,
+    "gn:latitude":12.36667,
+    "gn:longitude":-13.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c1fi\u00e0 Demba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c1fia Ba Demba",
+        "\u00c1fi\u00e0 Demba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2375491
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"d285171440c51dac60d735cbaddf205a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758237,
+            "locality_id":1276345301,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1276345301,
+    "wof:lastmodified":1537625473,
+    "wof:name":"Afia Demba",
+    "wof:parent_id":1108758237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.66667,
+    12.36667,
+    -13.66667,
+    12.36667
+],
+  "geometry": {"coordinates":[-13.66667,12.36667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310601505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.13333,12.63222,-15.13333,12.63222",
+    "geom:latitude":12.63222,
+    "geom:longitude":-15.13333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sama",
+    "gn:country_code":"GW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2370210,
+    "gn:latitude":12.63222,
+    "gn:longitude":-15.13333,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Sam\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2370210
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"eec67e255749f9c911eb9a8ccf9d4c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758243,
+            "locality_id":1310601505,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1310601505,
+    "wof:lastmodified":1536778948,
+    "wof:name":"Sama",
+    "wof:parent_id":1108758243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.13333,
+    12.63222,
+    -15.13333,
+    12.63222
+],
+  "geometry": {"coordinates":[-15.13333,12.63222],"type":"Point"}
+}

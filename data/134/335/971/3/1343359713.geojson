@@ -1,0 +1,73 @@
+{
+  "id": 1343359713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.635,12.06111,-15.635,12.06111",
+    "geom:latitude":12.06111,
+    "geom:longitude":-15.635,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pache",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371002,
+    "gn:latitude":12.06111,
+    "gn:longitude":-15.635,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pache",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paxe",
+        "Paxa",
+        "Pache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371002
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"02771443f3d9b6837c358ae2c48bc94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1343359713,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1343359713,
+    "wof:lastmodified":1537625425,
+    "wof:name":"Pache",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.635,
+    12.06111,
+    -15.635,
+    12.06111
+],
+  "geometry": {"coordinates":[-15.635,12.06111],"type":"Point"}
+}

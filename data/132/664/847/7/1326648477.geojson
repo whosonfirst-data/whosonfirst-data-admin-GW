@@ -1,0 +1,72 @@
+{
+  "id": 1326648477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.96667,12.35,-13.96667,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":-13.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Jobel",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2369470,
+    "gn:latitude":12.35,
+    "gn:longitude":-13.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinch\u00e3 Jobel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Velingar\u00e1 II",
+        "Sinch\u00e3 Jobel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369470
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"1a0e9c0b790f6a01899d68f4ba2d96a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758237,
+            "locality_id":1326648477,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1326648477,
+    "wof:lastmodified":1537625402,
+    "wof:name":"Sincha Jobel",
+    "wof:parent_id":1108758237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.96667,
+    12.35,
+    -13.96667,
+    12.35
+],
+  "geometry": {"coordinates":[-13.96667,12.35],"type":"Point"}
+}

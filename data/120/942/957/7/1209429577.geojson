@@ -1,0 +1,61 @@
+{
+  "id": 1209429577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.2,12.53333,-14.2,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":-14.2,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cansala",
+    "gn:country_code":"GW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2373780,
+    "gn:latitude":12.53333,
+    "gn:longitude":-14.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cansal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373780
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"ca918e42cf1f8ad5d3f42abe2130d511",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209429577
+        }
+    ],
+    "wof:id":1209429577,
+    "wof:lastmodified":1536287275,
+    "wof:name":"Cansala",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.2,
+    12.53333,
+    -14.2,
+    12.53333
+],
+  "geometry": {"coordinates":[-14.2,12.53333],"type":"Point"}
+}

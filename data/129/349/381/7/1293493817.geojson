@@ -1,0 +1,67 @@
+{
+  "id": 1293493817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.66583,12.24056,-15.66583,12.24056",
+    "geom:latitude":12.24056,
+    "geom:longitude":-15.66583,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bissum",
+    "gn:country_code":"GW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2374758,
+    "gn:latitude":12.24056,
+    "gn:longitude":-15.66583,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Bissum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671551,
+        1108758241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2374758
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cec5c34b8e980e47dcd167420bcf189f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758241,
+            "locality_id":1293493817,
+            "region_id":85671551
+        }
+    ],
+    "wof:id":1293493817,
+    "wof:lastmodified":1536778397,
+    "wof:name":"Bissum",
+    "wof:parent_id":1108758241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.66583,
+    12.24056,
+    -15.66583,
+    12.24056
+],
+  "geometry": {"coordinates":[-15.66583,12.24056],"type":"Point"}
+}

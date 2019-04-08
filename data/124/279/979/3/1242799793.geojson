@@ -1,0 +1,72 @@
+{
+  "id": 1242799793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.69722,12.38056,-15.69722,12.38056",
+    "geom:latitude":12.38056,
+    "geom:longitude":-15.69722,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Fangor",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372677,
+    "gn:latitude":12.38056,
+    "gn:longitude":-15.69722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fangor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fancor",
+        "Fangor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671547,
+        1108758217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372677
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"af42663532299eb62a3d124705692549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758217,
+            "locality_id":1242799793,
+            "region_id":85671547
+        }
+    ],
+    "wof:id":1242799793,
+    "wof:lastmodified":1537625442,
+    "wof:name":"Fangor",
+    "wof:parent_id":1108758217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.69722,
+    12.38056,
+    -15.69722,
+    12.38056
+],
+  "geometry": {"coordinates":[-15.69722,12.38056],"type":"Point"}
+}

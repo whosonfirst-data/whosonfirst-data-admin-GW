@@ -1,0 +1,72 @@
+{
+  "id": 1243190593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65,12.61667,-14.65,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":-14.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dumbo",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372816,
+    "gn:latitude":12.61667,
+    "gn:longitude":-14.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumb\u00fa",
+        "Dumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372816
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"547e23ab643889922ff97fc246ac6f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758189,
+            "locality_id":1243190593,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1243190593,
+    "wof:lastmodified":1537625444,
+    "wof:name":"Dumbo",
+    "wof:parent_id":1108758189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65,
+    12.61667,
+    -14.65,
+    12.61667
+],
+  "geometry": {"coordinates":[-14.65,12.61667],"type":"Point"}
+}

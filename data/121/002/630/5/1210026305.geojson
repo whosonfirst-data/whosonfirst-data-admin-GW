@@ -1,0 +1,67 @@
+{
+  "id": 1210026305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.61667,12.05,-14.61667,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-14.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Candiquel",
+    "gn:country_code":"GW",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373900,
+    "gn:latitude":12.05,
+    "gn:longitude":-14.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Candiquel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373900
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"c135c22a0a1e3f1d46782e0bc8a2b7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758185,
+            "locality_id":1210026305,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1210026305,
+    "wof:lastmodified":1536390572,
+    "wof:name":"Candiquel",
+    "wof:parent_id":1108758185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.61667,
+    12.05,
+    -14.61667,
+    12.05
+],
+  "geometry": {"coordinates":[-14.61667,12.05],"type":"Point"}
+}

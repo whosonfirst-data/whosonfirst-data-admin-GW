@@ -1,0 +1,67 @@
+{
+  "id": 1326845081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.16667,12.65,-14.16667,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-14.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Madina Mori",
+    "gn:country_code":"GW",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371644,
+    "gn:latitude":12.65,
+    "gn:longitude":-14.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Madina Mori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371644
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"ed7b0b69689c7bfb50a2ee6c84272a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758235,
+            "locality_id":1326845081,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1326845081,
+    "wof:lastmodified":1537028918,
+    "wof:name":"Madina Mori",
+    "wof:parent_id":1108758235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.16667,
+    12.65,
+    -14.16667,
+    12.65
+],
+  "geometry": {"coordinates":[-14.16667,12.65],"type":"Point"}
+}

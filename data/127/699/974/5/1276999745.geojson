@@ -1,0 +1,67 @@
+{
+  "id": 1276999745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.85,11.73333,-14.85,11.73333",
+    "geom:latitude":11.73333,
+    "geom:longitude":-14.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Canconte",
+    "gn:country_code":"GW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373934,
+    "gn:latitude":11.73333,
+    "gn:longitude":-14.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cancont\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373934
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cc3f7bdf2696a0a54ca9c9ef2fa5a10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758253,
+            "locality_id":1276999745,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1276999745,
+    "wof:lastmodified":1536879701,
+    "wof:name":"Canconte",
+    "wof:parent_id":1108758253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.85,
+    11.73333,
+    -14.85,
+    11.73333
+],
+  "geometry": {"coordinates":[-14.85,11.73333],"type":"Point"}
+}

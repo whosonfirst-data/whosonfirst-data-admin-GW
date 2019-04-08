@@ -1,0 +1,66 @@
+{
+  "id": 1209513089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.55806,12.45,-15.55806,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-15.55806,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Farroba",
+    "gn:cc2":"GW",
+    "gn:country_code":"GW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2372635,
+    "gn:latitude":12.45,
+    "gn:longitude":-15.55806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Farroba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farab\u00e1",
+        "Farroba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2372635
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"cf6d005310ff3a84c6adf39609989155",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209513089
+        }
+    ],
+    "wof:id":1209513089,
+    "wof:lastmodified":1537625441,
+    "wof:name":"Farroba",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.55806,
+    12.45,
+    -15.55806,
+    12.45
+],
+  "geometry": {"coordinates":[-15.55806,12.45],"type":"Point"}
+}

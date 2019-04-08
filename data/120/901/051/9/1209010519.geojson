@@ -1,0 +1,61 @@
+{
+  "id": 1209010519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.1475,12.30889,-15.1475,12.30889",
+    "geom:latitude":12.30889,
+    "geom:longitude":-15.1475,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mansomine",
+    "gn:country_code":"GW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2371462,
+    "gn:latitude":12.30889,
+    "gn:longitude":-15.1475,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Mansomine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2371462
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"73b4e46ac899dd12e30c7f1b49739799",
+    "wof:hierarchy":[
+        {
+            "country_id":85632757,
+            "locality_id":1209010519
+        }
+    ],
+    "wof:id":1209010519,
+    "wof:lastmodified":1536300462,
+    "wof:name":"Mansomine",
+    "wof:parent_id":85632757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.1475,
+    12.30889,
+    -15.1475,
+    12.30889
+],
+  "geometry": {"coordinates":[-15.1475,12.30889],"type":"Point"}
+}

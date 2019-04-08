@@ -1,0 +1,67 @@
+{
+  "id": 1277084521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.85,12.18333,-14.85,12.18333",
+    "geom:latitude":12.18333,
+    "geom:longitude":-14.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Demba",
+    "gn:country_code":"GW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369579,
+    "gn:latitude":12.18333,
+    "gn:longitude":-14.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 Demba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671557,
+        1108758193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369579
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"43da6faa53bdd9b487eb4e1639066cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758193,
+            "locality_id":1277084521,
+            "region_id":85671557
+        }
+    ],
+    "wof:id":1277084521,
+    "wof:lastmodified":1536765341,
+    "wof:name":"Sincha Demba",
+    "wof:parent_id":1108758193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.85,
+    12.18333,
+    -14.85,
+    12.18333
+],
+  "geometry": {"coordinates":[-14.85,12.18333],"type":"Point"}
+}

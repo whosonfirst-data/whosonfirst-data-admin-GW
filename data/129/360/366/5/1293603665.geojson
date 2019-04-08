@@ -1,0 +1,67 @@
+{
+  "id": 1293603665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.98333,11.76667,-14.98333,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":-14.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Canture",
+    "gn:country_code":"GW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2373699,
+    "gn:latitude":11.76667,
+    "gn:longitude":-14.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cantur\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671555,
+        1108758253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2373699
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"95746a00bdfa50ee057964d04ba3ee47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758253,
+            "locality_id":1293603665,
+            "region_id":85671555
+        }
+    ],
+    "wof:id":1293603665,
+    "wof:lastmodified":1536617371,
+    "wof:name":"Canture",
+    "wof:parent_id":1108758253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.98333,
+    11.76667,
+    -14.98333,
+    11.76667
+],
+  "geometry": {"coordinates":[-14.98333,11.76667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360194703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.41667,12.16667,-14.41667,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":-14.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sincha Bacar",
+    "gn:country_code":"GW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2369693,
+    "gn:latitude":12.16667,
+    "gn:longitude":-14.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sinch\u00e3 B\u00e1car",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bissau",
+    "iso:country":"GW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632757,
+        85671559,
+        1108758233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2369693
+    },
+    "wof:country":"GW",
+    "wof:geomhash":"1f26ca77344a3946f03ff2e2a325ed82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632757,
+            "county_id":1108758233,
+            "locality_id":1360194703,
+            "region_id":85671559
+        }
+    ],
+    "wof:id":1360194703,
+    "wof:lastmodified":1536787890,
+    "wof:name":"Sincha Bacar",
+    "wof:parent_id":1108758233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.41667,
+    12.16667,
+    -14.41667,
+    12.16667
+],
+  "geometry": {"coordinates":[-14.41667,12.16667],"type":"Point"}
+}
