@@ -10,6 +10,12 @@
     "geom:latitude":11.507189,
     "geom:longitude":-16.126833,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Caravela Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.530122,
     "lbl:longitude":-16.296036,
     "meso:adm1_en":"Bolama/Bijagos",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758211,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1553718694,
     "wof:name":"Caravela",
     "wof:parent_id":85671543,
     "wof:placetype":"county",

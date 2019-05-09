@@ -10,6 +10,12 @@
     "geom:latitude":11.765942,
     "geom:longitude":-14.692104,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Xitole Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.764797,
     "lbl:longitude":-14.692112,
     "meso:adm1_en":"Bafata",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758197,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1553718694,
     "wof:name":"Xitole",
     "wof:parent_id":85671557,
     "wof:placetype":"county",

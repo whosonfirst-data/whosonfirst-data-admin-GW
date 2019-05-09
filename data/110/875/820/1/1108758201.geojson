@@ -10,6 +10,12 @@
     "geom:latitude":11.884698,
     "geom:longitude":-15.837924,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Quinhamel Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.851775,
     "lbl:longitude":-15.868831,
     "meso:adm1_en":"Biombo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758201,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1553718694,
     "wof:name":"Quinhamel",
     "wof:parent_id":85671535,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.817354,
     "geom:longitude":-15.751514,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Prabis Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.819559,
     "lbl:longitude":-15.751531,
     "meso:adm1_en":"Biombo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758199,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1553718694,
     "wof:name":"Prabis",
     "wof:parent_id":85671535,
     "wof:placetype":"county",

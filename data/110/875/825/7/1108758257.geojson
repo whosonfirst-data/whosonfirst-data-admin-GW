@@ -10,6 +10,12 @@
     "geom:latitude":11.789705,
     "geom:longitude":-15.1316,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Fulacunda Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.803135,
     "lbl:longitude":-15.097911,
     "meso:adm1_en":"Quinara",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758257,
-    "wof:lastmodified":1536615730,
+    "wof:lastmodified":1553718696,
     "wof:name":"Fulacunda",
     "wof:parent_id":85671555,
     "wof:placetype":"county",

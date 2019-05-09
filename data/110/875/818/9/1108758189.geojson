@@ -10,6 +10,12 @@
     "geom:latitude":12.537174,
     "geom:longitude":-14.636614,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Contuboel Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":12.539131,
     "lbl:longitude":-14.660163,
     "meso:adm1_en":"Bafata",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758189,
-    "wof:lastmodified":1536615728,
+    "wof:lastmodified":1553718694,
     "wof:name":"Contuboel",
     "wof:parent_id":85671557,
     "wof:placetype":"county",

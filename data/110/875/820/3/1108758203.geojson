@@ -10,6 +10,12 @@
     "geom:latitude":11.936798,
     "geom:longitude":-15.673073,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Safim Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.937612,
     "lbl:longitude":-15.671945,
     "meso:adm1_en":"Biombo",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758203,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1553718694,
     "wof:name":"Safim",
     "wof:parent_id":85671535,
     "wof:placetype":"county",

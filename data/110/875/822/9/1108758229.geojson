@@ -10,6 +10,12 @@
     "geom:latitude":11.83321,
     "geom:longitude":-14.068262,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Boe Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.906661,
     "lbl:longitude":-13.898877,
     "meso:adm1_en":"Gabu",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758229,
-    "wof:lastmodified":1536615730,
+    "wof:lastmodified":1553718696,
     "wof:name":"Boe",
     "wof:parent_id":85671559,
     "wof:placetype":"county",

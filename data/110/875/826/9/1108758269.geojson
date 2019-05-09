@@ -10,6 +10,12 @@
     "geom:latitude":11.191165,
     "geom:longitude":-15.314458,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Komo Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.200214,
     "lbl:longitude":-15.322565,
     "meso:adm1_en":"Tombali",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758269,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718696,
     "wof:name":"Komo",
     "wof:parent_id":85671561,
     "wof:placetype":"county",

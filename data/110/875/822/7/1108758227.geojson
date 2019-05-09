@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085165,
-    "geom:area_square_m":1028788089.941642,
+    "geom:area_square_m":1028788089.941683,
     "geom:bbox":"-16.711827519,12.181221962,-16.0236218011,12.472778",
     "geom:latitude":12.33096,
     "geom:longitude":-16.324258,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Sao Domingos Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":12.348509,
     "lbl:longitude":-16.295026,
     "meso:adm1_en":"Cacheu",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108758227,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037251,
     "wof:name":"Sao Domingos",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

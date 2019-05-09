@@ -10,6 +10,12 @@
     "geom:latitude":11.530762,
     "geom:longitude":-14.721804,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Quebo Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.50384,
     "lbl:longitude":-14.808896,
     "meso:adm1_en":"Tombali",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758271,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718696,
     "wof:name":"Quebo",
     "wof:parent_id":85671561,
     "wof:placetype":"county",

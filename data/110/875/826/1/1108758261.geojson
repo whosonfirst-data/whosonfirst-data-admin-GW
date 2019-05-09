@@ -10,6 +10,12 @@
     "geom:latitude":11.262569,
     "geom:longitude":-15.044961,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Bedanda Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.321634,
     "lbl:longitude":-15.024554,
     "meso:adm1_en":"Tombali",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758261,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718696,
     "wof:name":"Bedanda",
     "wof:parent_id":85671561,
     "wof:placetype":"county",

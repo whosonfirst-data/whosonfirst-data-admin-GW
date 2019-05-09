@@ -10,6 +10,12 @@
     "geom:latitude":11.872096,
     "geom:longitude":-15.610759,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Bissau"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.871428,
     "lbl:longitude":-15.609927,
     "meso:adm1_en":"Bissau",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758205,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1555092027,
     "wof:name":"Sector Autonomo de Bissau",
     "wof:parent_id":85671539,
     "wof:placetype":"county",

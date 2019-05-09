@@ -10,6 +10,12 @@
     "geom:latitude":12.208734,
     "geom:longitude":-15.535322,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Bissora Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":12.222701,
     "lbl:longitude":-15.519191,
     "meso:adm1_en":"Oio",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758241,
-    "wof:lastmodified":1536615730,
+    "wof:lastmodified":1553718695,
     "wof:name":"Bissora",
     "wof:parent_id":85671551,
     "wof:placetype":"county",

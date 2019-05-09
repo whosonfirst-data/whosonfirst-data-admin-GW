@@ -10,6 +10,12 @@
     "geom:latitude":11.104581,
     "geom:longitude":-14.969925,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Cacine Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.106244,
     "lbl:longitude":-14.957473,
     "meso:adm1_en":"Tombali",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758263,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718696,
     "wof:name":"Cacine",
     "wof:parent_id":85671561,
     "wof:placetype":"county",

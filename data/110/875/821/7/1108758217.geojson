@@ -10,6 +10,12 @@
     "geom:latitude":12.373783,
     "geom:longitude":-15.784079,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Bigene Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":12.343853,
     "lbl:longitude":-15.814977,
     "meso:adm1_en":"Cacheu",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758217,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1553718694,
     "wof:name":"Bigene",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

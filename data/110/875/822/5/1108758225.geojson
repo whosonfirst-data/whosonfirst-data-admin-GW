@@ -10,6 +10,12 @@
     "geom:latitude":12.041824,
     "geom:longitude":-16.006859,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Canchungo Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":12.024417,
     "lbl:longitude":-16.032278,
     "meso:adm1_en":"Cacheu",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758225,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1553718695,
     "wof:name":"Canchungo",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

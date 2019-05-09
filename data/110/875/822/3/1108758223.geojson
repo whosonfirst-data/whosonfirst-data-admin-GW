@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042136,
-    "geom:area_square_m":509827090.527152,
+    "geom:area_square_m":509827090.527164,
     "geom:bbox":"-16.333778381,11.756221771,-15.978722572,12.0354017695",
     "geom:latitude":11.899413,
     "geom:longitude":-16.157321,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Caio Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.966741,
     "lbl:longitude":-16.170322,
     "meso:adm1_en":"Cacheu",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108758223,
-    "wof:lastmodified":1553816508,
+    "wof:lastmodified":1555037251,
     "wof:name":"Caio",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

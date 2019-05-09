@@ -10,6 +10,12 @@
     "geom:latitude":11.612535,
     "geom:longitude":-14.984589,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Buba Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.619646,
     "lbl:longitude":-14.962855,
     "meso:adm1_en":"Quinara",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758253,
-    "wof:lastmodified":1536615730,
+    "wof:lastmodified":1553718695,
     "wof:name":"Buba",
     "wof:parent_id":85671555,
     "wof:placetype":"county",

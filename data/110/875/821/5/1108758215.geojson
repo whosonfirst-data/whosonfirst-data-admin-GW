@@ -10,6 +10,12 @@
     "geom:latitude":11.19251,
     "geom:longitude":-16.154968,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Uno Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.124972,
     "lbl:longitude":-16.133507,
     "meso:adm1_en":"Bolama/Bijagos",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758215,
-    "wof:lastmodified":1536615729,
+    "wof:lastmodified":1553718695,
     "wof:name":"Uno",
     "wof:parent_id":85671543,
     "wof:placetype":"county",

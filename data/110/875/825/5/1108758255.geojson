@@ -10,6 +10,12 @@
     "geom:latitude":11.498771,
     "geom:longitude":-15.283501,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Empada Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.484633,
     "lbl:longitude":-15.304612,
     "meso:adm1_en":"Quinara",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108758255,
-    "wof:lastmodified":1536615730,
+    "wof:lastmodified":1553718696,
     "wof:name":"Empada",
     "wof:parent_id":85671555,
     "wof:placetype":"county",

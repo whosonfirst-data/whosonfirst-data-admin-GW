@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045008,
-    "geom:area_square_m":544843569.386356,
+    "geom:area_square_m":544843569.38634,
     "geom:bbox":"-15.621277809,11.623722076,-15.268750191,11.891222",
     "geom:latitude":11.762761,
     "geom:longitude":-15.39466,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Tite Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.760832,
     "lbl:longitude":-15.378613,
     "meso:adm1_en":"Quinara",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108758259,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037249,
     "wof:name":"Tite",
     "wof:parent_id":85671555,
     "wof:placetype":"county",

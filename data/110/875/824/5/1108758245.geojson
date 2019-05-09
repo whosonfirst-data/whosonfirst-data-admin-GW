@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101361,
-    "geom:area_square_m":1224481999.82934,
+    "geom:area_square_m":1224481999.829347,
     "geom:bbox":"-15.4589844218,12.1745662805,-14.9366168296,12.4778761565",
     "geom:latitude":12.319875,
     "geom:longitude":-15.166345,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Mansaba Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":12.312082,
     "lbl:longitude":-15.161371,
     "meso:adm1_en":"Oio",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108758245,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037250,
     "wof:name":"Mansaba",
     "wof:parent_id":85671551,
     "wof:placetype":"county",

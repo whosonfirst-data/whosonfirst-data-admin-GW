@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082845,
-    "geom:area_square_m":999826350.066245,
+    "geom:area_square_m":999826350.066228,
     "geom:bbox":"-14.3498764452,12.4068475859,-13.846086971,12.678889",
     "geom:latitude":12.572185,
     "geom:longitude":-14.119978,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Pirada Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":12.571681,
     "lbl:longitude":-14.140356,
     "meso:adm1_en":"Gabu",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108758235,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037250,
     "wof:name":"Pirada",
     "wof:parent_id":85671559,
     "wof:placetype":"county",
