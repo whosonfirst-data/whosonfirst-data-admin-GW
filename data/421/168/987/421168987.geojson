@@ -20,13 +20,7 @@
     "name:cat_x_preferred":[
         "Bolama"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u62c9\u9a6c"
-    ],
     "name:deu_x_preferred":[
-        "Bolama"
-    ],
-    "name:dut_x_preferred":[
         "Bolama"
     ],
     "name:eng_x_preferred":[
@@ -38,13 +32,7 @@
     "name:fra_x_preferred":[
         "Bolama"
     ],
-    "name:fre_x_preferred":[
-        "Bolama"
-    ],
     "name:frr_x_preferred":[
-        "Bolama"
-    ],
-    "name:ger_x_preferred":[
         "Bolama"
     ],
     "name:glg_x_preferred":[
@@ -84,9 +72,6 @@
         "Bolama"
     ],
     "name:ron_x_preferred":[
-        "Insula Bolama"
-    ],
-    "name:rum_x_preferred":[
         "Insula Bolama"
     ],
     "name:rus_x_preferred":[
@@ -243,7 +228,7 @@
         }
     ],
     "wof:id":421168987,
-    "wof:lastmodified":1527716099,
+    "wof:lastmodified":1561845009,
     "wof:name":"Bolama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

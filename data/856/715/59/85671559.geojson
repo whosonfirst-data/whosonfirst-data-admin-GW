@@ -46,20 +46,17 @@
     "name:ces_x_preferred":[
         "Gab\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5e03\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Gab\u00fa"
-    ],
     "name:dan_x_preferred":[
         "Gab\u00fa Region"
     ],
     "name:deu_x_preferred":[
         "Region Gab\u00fa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Gab\u00fa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bc\u03c0\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Gab\u00fa"
@@ -72,15 +69,6 @@
     ],
     "name:fra_x_preferred":[
         "Gabu"
-    ],
-    "name:fre_x_preferred":[
-        "Gabu"
-    ],
-    "name:ger_x_preferred":[
-        "Gab\u00fa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03bc\u03c0\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac7\u0aac\u0ac2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -115,8 +103,11 @@
     "name:mar_x_preferred":[
         "\u0917\u0945\u092c\u0942 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gabu Region"
+    ],
+    "name:nld_x_preferred":[
+        "Gab\u00fa"
     ],
     "name:nob_x_preferred":[
         "Gab\u00fa"
@@ -127,7 +118,7 @@
     "name:por_x_preferred":[
         "Gabu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Gab\u00fa"
     ],
     "name:rus_x_preferred":[
@@ -165,6 +156,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Gab\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5e03\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GNB",
@@ -291,7 +285,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550338,
+    "wof:lastmodified":1561845001,
     "wof:name":"Gab\u00fa",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Quebo"
     ],
-    "name:dut_x_preferred":[
-        "Quebo"
-    ],
     "name:eng_x_preferred":[
         "Quebo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Quebo"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30dc"
+    ],
+    "name:nld_x_preferred":[
+        "Quebo"
     ],
     "name:pol_x_preferred":[
         "Quebo"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125913399,
-    "wof:lastmodified":1553816624,
+    "wof:lastmodified":1561845010,
     "wof:name":"Quebo",
     "wof:parent_id":1108758261,
     "wof:placetype":"locality",

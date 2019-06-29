@@ -46,20 +46,14 @@
     "name:ces_x_preferred":[
         "Oio"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u7d04\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Oio"
-    ],
     "name:dan_x_preferred":[
         "Oio Region"
     ],
     "name:deu_x_preferred":[
         "Region Oio"
     ],
-    "name:dut_x_preferred":[
-        "Oio"
+    "name:ell_x_preferred":[
+        "\u039f\u03af\u03bf"
     ],
     "name:eng_x_preferred":[
         "Oio"
@@ -75,15 +69,6 @@
     ],
     "name:fra_x_preferred":[
         "Oio"
-    ],
-    "name:fre_x_preferred":[
-        "Oio"
-    ],
-    "name:ger_x_preferred":[
-        "Region Oio"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03af\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0a88\u0a93 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -118,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u0911\u0913 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Oio Region"
     ],
     "name:nld_x_preferred":[
@@ -140,9 +125,6 @@
         "Regi\u00e3o de Oio"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Oio"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Oio"
     ],
     "name:rus_x_preferred":[
@@ -307,7 +289,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550331,
+    "wof:lastmodified":1561845001,
     "wof:name":"Oio",
     "wof:parent_id":85632757,
     "wof:placetype":"region",
