@@ -26,17 +26,11 @@
     "name:ces_x_preferred":[
         "Cacheu"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u8b1d\u70cf"
-    ],
-    "name:cze_x_preferred":[
-        "Cacheu"
-    ],
     "name:deu_x_preferred":[
         "Cacheu"
     ],
-    "name:dut_x_preferred":[
-        "Cacheu"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03cc"
     ],
     "name:eng_x_preferred":[
         "Cacheu"
@@ -50,20 +44,11 @@
     "name:fra_x_preferred":[
         "Cacheu"
     ],
-    "name:fre_x_preferred":[
-        "Cacheu"
-    ],
     "name:frr_x_preferred":[
-        "Cacheu"
-    ],
-    "name:ger_x_preferred":[
         "Cacheu"
     ],
     "name:glg_x_preferred":[
         "Cacheu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03cc"
     ],
     "name:hun_x_preferred":[
         "Cacheu"
@@ -93,9 +78,6 @@
         "Cacheu"
     ],
     "name:ron_x_preferred":[
-        "Cacheu"
-    ],
-    "name:rum_x_preferred":[
         "Cacheu"
     ],
     "name:spa_x_preferred":[
@@ -252,7 +234,7 @@
         }
     ],
     "wof:id":421178361,
-    "wof:lastmodified":1527717723,
+    "wof:lastmodified":1561845010,
     "wof:name":"Cacheu",
     "wof:parent_id":1108758221,
     "wof:placetype":"locality",

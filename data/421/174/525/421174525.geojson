@@ -17,14 +17,11 @@
     "name:cat_x_preferred":[
         "Farim"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u6797"
-    ],
     "name:deu_x_preferred":[
         "Farim"
     ],
-    "name:dut_x_preferred":[
-        "Farim"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03c1\u03af\u03bc"
     ],
     "name:eng_x_preferred":[
         "Farim"
@@ -35,17 +32,8 @@
     "name:fra_x_preferred":[
         "Farim"
     ],
-    "name:fre_x_preferred":[
-        "Farim"
-    ],
     "name:frr_x_preferred":[
         "Farim"
-    ],
-    "name:ger_x_preferred":[
-        "Farim"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03c1\u03af\u03bc"
     ],
     "name:hun_x_preferred":[
         "Farim"
@@ -75,9 +63,6 @@
         "Farim"
     ],
     "name:ron_x_preferred":[
-        "Farim"
-    ],
-    "name:rum_x_preferred":[
         "Farim"
     ],
     "name:sco_x_preferred":[
@@ -234,7 +219,7 @@
         }
     ],
     "wof:id":421174525,
-    "wof:lastmodified":1527716232,
+    "wof:lastmodified":1561845009,
     "wof:name":"Farim",
     "wof:parent_id":1108758243,
     "wof:placetype":"locality",
