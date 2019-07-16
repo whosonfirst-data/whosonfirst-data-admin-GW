@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Biombo"
     ],
+    "name:ceb_x_preferred":[
+        "Biombo"
+    ],
     "name:ces_x_preferred":[
         "Biombo"
     ],
@@ -65,6 +68,9 @@
         "Biombon alue"
     ],
     "name:fra_x_preferred":[
+        "Biombo"
+    ],
+    "name:frr_x_preferred":[
         "Biombo"
     ],
     "name:guj_x_preferred":[
@@ -279,7 +285,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561845001,
+    "wof:lastmodified":1563297463,
     "wof:name":"Biombo",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

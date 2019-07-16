@@ -39,6 +39,12 @@
     "name:cat_x_preferred":[
         "Pirada"
     ],
+    "name:ceb_x_preferred":[
+        "Pirada"
+    ],
+    "name:deu_x_preferred":[
+        "Pirada"
+    ],
     "name:eng_x_preferred":[
         "Pirada"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108758235,
-    "wof:lastmodified":1561845007,
+    "wof:lastmodified":1563297707,
     "wof:name":"Pirada",
     "wof:parent_id":85671559,
     "wof:placetype":"county",

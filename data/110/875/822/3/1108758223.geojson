@@ -36,8 +36,17 @@
     "name:cat_x_preferred":[
         "Cai\u00f3"
     ],
+    "name:ceb_x_preferred":[
+        "Caio Sector"
+    ],
+    "name:deu_x_preferred":[
+        "Cai\u00f3"
+    ],
     "name:eng_x_preferred":[
         "Cai\u00f3"
+    ],
+    "name:eng_x_variant":[
+        "Caio"
     ],
     "name:fin_x_preferred":[
         "Cai\u00f3"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1108758223,
-    "wof:lastmodified":1561845008,
+    "wof:lastmodified":1563297711,
     "wof:name":"Caio",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

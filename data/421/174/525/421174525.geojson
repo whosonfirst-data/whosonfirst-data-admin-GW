@@ -17,6 +17,9 @@
     "name:cat_x_preferred":[
         "Farim"
     ],
+    "name:ceb_x_preferred":[
+        "Farim"
+    ],
     "name:deu_x_preferred":[
         "Farim"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ron_x_preferred":[
         "Farim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0438\u043c"
     ],
     "name:sco_x_preferred":[
         "Farim"
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":421174525,
-    "wof:lastmodified":1561845009,
+    "wof:lastmodified":1563297795,
     "wof:name":"Farim",
     "wof:parent_id":1108758243,
     "wof:placetype":"locality",

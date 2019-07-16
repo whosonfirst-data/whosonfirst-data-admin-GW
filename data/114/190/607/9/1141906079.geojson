@@ -20,6 +20,12 @@
     "name:cat_x_preferred":[
         "Fulacunda"
     ],
+    "name:ceb_x_preferred":[
+        "Fulacunda"
+    ],
+    "name:deu_x_preferred":[
+        "Fulacunda"
+    ],
     "name:eng_x_preferred":[
         "Fulacunda"
     ],
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":1141906079,
-    "wof:lastmodified":1561845013,
+    "wof:lastmodified":1563297978,
     "wof:name":"Fulacunda",
     "wof:parent_id":1108758257,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Mans\u00f4a"
     ],
+    "name:ceb_x_preferred":[
+        "Mans\u00f4a"
+    ],
     "name:dan_x_preferred":[
         "Mansoa"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421175953,
-    "wof:lastmodified":1561845009,
+    "wof:lastmodified":1563297796,
     "wof:name":"Mans\u00f4a",
     "wof:parent_id":1108758247,
     "wof:placetype":"locality",

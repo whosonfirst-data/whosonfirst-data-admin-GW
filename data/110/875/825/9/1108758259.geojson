@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Tite"
     ],
+    "name:deu_x_preferred":[
+        "Tite"
+    ],
     "name:eng_x_preferred":[
         "Tite"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108758259,
-    "wof:lastmodified":1561845008,
+    "wof:lastmodified":1563297709,
     "wof:name":"Tite",
     "wof:parent_id":85671555,
     "wof:placetype":"county",

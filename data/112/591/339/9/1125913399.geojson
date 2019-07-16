@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Quebo"
     ],
+    "name:ceb_x_preferred":[
+        "Quebo"
+    ],
+    "name:deu_x_preferred":[
+        "Quebo"
+    ],
     "name:eng_x_preferred":[
         "Quebo"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125913399,
-    "wof:lastmodified":1561845010,
+    "wof:lastmodified":1563297801,
     "wof:name":"Quebo",
     "wof:parent_id":1108758261,
     "wof:placetype":"locality",

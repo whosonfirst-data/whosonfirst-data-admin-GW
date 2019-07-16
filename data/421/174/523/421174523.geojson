@@ -17,6 +17,9 @@
     "name:cat_x_preferred":[
         "Gab\u00fa"
     ],
+    "name:ceb_x_preferred":[
+        "Gab\u00fa"
+    ],
     "name:ces_x_preferred":[
         "Gab\u00fa"
     ],
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":421174523,
-    "wof:lastmodified":1561845009,
+    "wof:lastmodified":1563297795,
     "wof:name":"Gab\u00fa",
     "wof:parent_id":1108758233,
     "wof:placetype":"locality",
