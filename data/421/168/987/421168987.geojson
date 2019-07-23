@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Bolama"
     ],
+    "name:ceb_x_preferred":[
+        "Bolama"
+    ],
     "name:deu_x_preferred":[
         "Bolama"
     ],
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421168987,
-    "wof:lastmodified":1561845009,
+    "wof:lastmodified":1563297793,
     "wof:name":"Bolama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -36,8 +36,17 @@
     "name:cat_x_preferred":[
         "Mansab\u00e1"
     ],
+    "name:ceb_x_preferred":[
+        "Mansab\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Mansab\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Mansab\u00e1"
+    ],
+    "name:eng_x_variant":[
+        "Mansaba"
     ],
     "name:fin_x_preferred":[
         "Mansaba"
@@ -59,6 +68,9 @@
     ],
     "name:swe_x_preferred":[
         "Mansab\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "Mansaba"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1108758245,
-    "wof:lastmodified":1561845008,
+    "wof:lastmodified":1563297708,
     "wof:name":"Mansaba",
     "wof:parent_id":85671551,
     "wof:placetype":"county",

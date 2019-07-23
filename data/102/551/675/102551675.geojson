@@ -12,6 +12,18 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bafat\u00e1 Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30d5\u30a1\u30bf\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bafata"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Bafat\u00e1"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Bafat\u00e1"
     ],
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":102551675,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1563297391,
     "wof:name":"Bafata Airport",
     "wof:parent_id":85671557,
     "wof:placetype":"campus",

@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Bubaque"
     ],
+    "name:ceb_x_preferred":[
+        "Bubaque"
+    ],
     "name:ces_x_preferred":[
         "Bubaque"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421168001,
-    "wof:lastmodified":1561845009,
+    "wof:lastmodified":1563297793,
     "wof:name":"Bubaque",
     "wof:parent_id":1108758209,
     "wof:placetype":"locality",

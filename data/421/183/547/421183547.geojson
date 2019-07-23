@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Buba"
     ],
+    "name:ceb_x_preferred":[
+        "Buba"
+    ],
     "name:ces_x_preferred":[
         "Buba"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421183547,
-    "wof:lastmodified":1561845010,
+    "wof:lastmodified":1563297799,
     "wof:name":"Buba",
     "wof:parent_id":1108758253,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "S\u00e3o Domingos"
     ],
+    "name:ceb_x_preferred":[
+        "Sao Domingos"
+    ],
     "name:deu_x_preferred":[
         "S\u00e3o Domingos"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108758227,
-    "wof:lastmodified":1561845008,
+    "wof:lastmodified":1563297710,
     "wof:name":"Sao Domingos",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

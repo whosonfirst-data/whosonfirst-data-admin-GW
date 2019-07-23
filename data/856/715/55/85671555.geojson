@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Quinara"
     ],
+    "name:ceb_x_preferred":[
+        "Quinara"
+    ],
     "name:ces_x_preferred":[
         "Quinara"
     ],
@@ -65,6 +68,9 @@
         "Quinaran alue"
     ],
     "name:fra_x_preferred":[
+        "Quinara"
+    ],
+    "name:frr_x_preferred":[
         "Quinara"
     ],
     "name:glg_x_preferred":[
@@ -286,7 +292,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561845001,
+    "wof:lastmodified":1563297468,
     "wof:name":"Quinara",
     "wof:parent_id":85632757,
     "wof:placetype":"region",
