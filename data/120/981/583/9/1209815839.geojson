@@ -26,6 +26,24 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rossum"
+    ],
+    "name:deu_x_preferred":[
+        "Rossum"
+    ],
+    "name:fra_x_preferred":[
+        "Rossum"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30c3\u30b5\u30e0"
+    ],
+    "name:nds_x_preferred":[
+        "Rossum"
+    ],
+    "name:nld_x_preferred":[
+        "Rossum"
+    ],
     "name:und_x_variant":[
         "Rossin",
         "Rossum"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209815839,
-    "wof:lastmodified":1537625414,
+    "wof:lastmodified":1564102514,
     "wof:name":"Rossum",
     "wof:parent_id":1108758251,
     "wof:placetype":"locality",

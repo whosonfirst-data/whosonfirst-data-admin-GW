@@ -26,6 +26,9 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Canjadude"
+    ],
     "name:und_x_variant":[
         "Candjaduli",
         "Cam Chaduli",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1277092465,
-    "wof:lastmodified":1537625455,
+    "wof:lastmodified":1564102384,
     "wof:name":"Canjadude",
     "wof:parent_id":1108758233,
     "wof:placetype":"locality",

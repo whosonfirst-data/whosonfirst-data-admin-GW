@@ -25,6 +25,21 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tite"
+    ],
+    "name:deu_x_preferred":[
+        "Tite"
+    ],
+    "name:fin_x_preferred":[
+        "Tite"
+    ],
+    "name:ita_x_preferred":[
+        "Tite"
+    ],
+    "name:por_x_preferred":[
+        "Tite"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1210031035,
-    "wof:lastmodified":1537563233,
+    "wof:lastmodified":1564102516,
     "wof:name":"Tite",
     "wof:parent_id":1108758259,
     "wof:placetype":"locality",

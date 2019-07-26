@@ -26,6 +26,9 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Anane"
+    ],
     "name:und_x_variant":[
         "Angane",
         "Anane"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1293701575,
-    "wof:lastmodified":1537625472,
+    "wof:lastmodified":1564102325,
     "wof:name":"Anane",
     "wof:parent_id":1108758215,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Jambur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226152937,
-    "wof:lastmodified":1537064394,
+    "wof:lastmodified":1564102834,
     "wof:name":"Jambur",
     "wof:parent_id":1108758189,
     "wof:placetype":"locality",

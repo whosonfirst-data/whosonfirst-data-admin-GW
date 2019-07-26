@@ -33,8 +33,38 @@
     "mps:longitude":-15.671945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Safim"
+    ],
+    "name:ceb_x_preferred":[
+        "Safim"
+    ],
+    "name:deu_x_preferred":[
+        "Safim"
+    ],
     "name:eng_x_preferred":[
         "Safim"
+    ],
+    "name:fin_x_preferred":[
+        "Safim"
+    ],
+    "name:fra_x_preferred":[
+        "Safim"
+    ],
+    "name:ita_x_preferred":[
+        "Safim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d5\u30a3\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Safim"
+    ],
+    "name:swe_x_preferred":[
+        "Safim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0444\u0456\u043c"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +101,7 @@
         }
     ],
     "wof:id":1108758203,
-    "wof:lastmodified":1553718694,
+    "wof:lastmodified":1564102559,
     "wof:name":"Safim",
     "wof:parent_id":85671535,
     "wof:placetype":"county",

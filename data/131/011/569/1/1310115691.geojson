@@ -26,6 +26,24 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cade"
+    ],
+    "name:deu_x_preferred":[
+        "Cade"
+    ],
+    "name:fra_x_preferred":[
+        "Cade"
+    ],
+    "name:por_x_preferred":[
+        "Cade"
+    ],
+    "name:spa_x_preferred":[
+        "Cade"
+    ],
+    "name:swe_x_preferred":[
+        "Cade"
+    ],
     "name:und_x_variant":[
         "Cadi",
         "Cad\u00e9"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310115691,
-    "wof:lastmodified":1537625459,
+    "wof:lastmodified":1564102590,
     "wof:name":"Cade",
     "wof:parent_id":1108758251,
     "wof:placetype":"locality",

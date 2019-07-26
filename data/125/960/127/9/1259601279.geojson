@@ -26,6 +26,30 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rauna"
+    ],
+    "name:deu_x_preferred":[
+        "Rauna"
+    ],
+    "name:est_x_preferred":[
+        "Rauna"
+    ],
+    "name:lav_x_preferred":[
+        "Rauna"
+    ],
+    "name:lit_x_preferred":[
+        "Rauna"
+    ],
+    "name:pol_x_preferred":[
+        "Rauna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0443\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Rauna"
+    ],
     "name:und_x_variant":[
         "Rouna",
         "Rauna"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1259601279,
-    "wof:lastmodified":1537625415,
+    "wof:lastmodified":1564102767,
     "wof:name":"Rauna",
     "wof:parent_id":1108758237,
     "wof:placetype":"locality",

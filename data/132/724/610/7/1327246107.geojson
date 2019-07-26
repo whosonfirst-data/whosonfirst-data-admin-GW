@@ -25,6 +25,9 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Blom"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327246107,
-    "wof:lastmodified":1536949926,
+    "wof:lastmodified":1564102180,
     "wof:name":"Blom",
     "wof:parent_id":1108758219,
     "wof:placetype":"locality",

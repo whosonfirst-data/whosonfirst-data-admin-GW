@@ -26,6 +26,9 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tchetch\u00e9"
+    ],
     "name:und_x_variant":[
         "S\u00e9ss\u00e9",
         "Ch\u00e9ch\u00e9"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343780177,
-    "wof:lastmodified":1537625450,
+    "wof:lastmodified":1564102258,
     "wof:name":"Cheche",
     "wof:parent_id":1108758229,
     "wof:placetype":"locality",

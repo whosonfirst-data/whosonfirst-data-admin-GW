@@ -25,8 +25,59 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:ceb_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:deu_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:fin_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:fra_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:glg_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:ita_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30bd\u30e9\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc18c\ub791"
+    ],
+    "name:lit_x_preferred":[
+        "Bisora"
+    ],
+    "name:pol_x_preferred":[
+        "Bissora"
+    ],
+    "name:por_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:ron_x_preferred":[
+        "Bissor\u00e3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u043e\u0440\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bissor\u00e3"
+    ],
     "name:und_x_variant":[
         "Bissor\u00e3"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0633\u0648\u0631\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u7d22\u6717"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1309712753,
-    "wof:lastmodified":1537625464,
+    "wof:lastmodified":1564102640,
     "wof:name":"Bissora",
     "wof:parent_id":1108758247,
     "wof:placetype":"locality",

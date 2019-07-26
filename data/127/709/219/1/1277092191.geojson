@@ -25,6 +25,15 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mato Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Mato Grande"
+    ],
+    "name:por_x_preferred":[
+        "Mato Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1277092191,
-    "wof:lastmodified":1536754005,
+    "wof:lastmodified":1564102383,
     "wof:name":"Mato Grande",
     "wof:parent_id":1108758243,
     "wof:placetype":"locality",

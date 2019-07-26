@@ -25,6 +25,51 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Coco"
+    ],
+    "name:ceb_x_preferred":[
+        "Coco"
+    ],
+    "name:ces_x_preferred":[
+        "Coco"
+    ],
+    "name:deu_x_preferred":[
+        "Coco"
+    ],
+    "name:fin_x_preferred":[
+        "Coco"
+    ],
+    "name:fra_x_preferred":[
+        "Coco"
+    ],
+    "name:glg_x_preferred":[
+        "Coco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e7\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Coco"
+    ],
+    "name:nld_x_preferred":[
+        "Coco"
+    ],
+    "name:pol_x_preferred":[
+        "Coco"
+    ],
+    "name:por_x_preferred":[
+        "Coco"
+    ],
+    "name:spa_x_preferred":[
+        "Coco"
+    ],
+    "name:swe_x_preferred":[
+        "Coco"
+    ],
+    "name:zho_x_preferred":[
+        "CoCo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +79,7 @@
         "gn:id":2373323
     },
     "wof:country":"GW",
-    "wof:geomhash":"54cec53e010a1f5088edc1994e009161",
+    "wof:geomhash":"494efe6a91b3ac8c2eaffbc8d914b1ac",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +87,7 @@
         }
     ],
     "wof:id":1209425045,
-    "wof:lastmodified":1536287407,
+    "wof:lastmodified":1564102509,
     "wof:name":"Coco",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +97,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.583329999999998,
+    -15.58333,
     11.88333,
-    -15.583329999999998,
+    -15.58333,
     11.88333
 ],
   "geometry": {"coordinates":[-15.58333,11.88333],"type":"Point"}

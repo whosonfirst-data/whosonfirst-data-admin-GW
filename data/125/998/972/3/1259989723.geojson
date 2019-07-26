@@ -26,6 +26,18 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Com"
+    ],
+    "name:hun_x_preferred":[
+        "COM"
+    ],
+    "name:ron_x_preferred":[
+        "Com"
+    ],
+    "name:tur_x_preferred":[
+        "Com"
+    ],
     "name:und_x_variant":[
         "Acom",
         "Com"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259989723,
-    "wof:lastmodified":1537625448,
+    "wof:lastmodified":1564102740,
     "wof:name":"Com",
     "wof:parent_id":1108758251,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ponta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30bf"
+    ],
+    "name:por_x_preferred":[
+        "Ponta"
+    ],
+    "name:ron_x_preferred":[
+        "Ponta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043d\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1309813531,
-    "wof:lastmodified":1536920465,
+    "wof:lastmodified":1564102650,
     "wof:name":"Ponta",
     "wof:parent_id":1108758193,
     "wof:placetype":"locality",
