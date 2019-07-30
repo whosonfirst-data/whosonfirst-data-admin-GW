@@ -25,6 +25,9 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Buruntuma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310423669,
-    "wof:lastmodified":1537563239,
+    "wof:lastmodified":1564102588,
     "wof:name":"Buruntuma",
     "wof:parent_id":1108758237,
     "wof:placetype":"locality",

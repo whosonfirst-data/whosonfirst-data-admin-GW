@@ -25,6 +25,12 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Banir"
+    ],
+    "name:msa_x_preferred":[
+        "Banir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310215263,
-    "wof:lastmodified":1536837034,
+    "wof:lastmodified":1564102594,
     "wof:name":"Banir",
     "wof:parent_id":1108758263,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0645\u0628\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Timbo"
+    ],
+    "name:fra_x_preferred":[
+        "Timbo"
+    ],
+    "name:ita_x_preferred":[
+        "Timbo"
+    ],
+    "name:msa_x_preferred":[
+        "Timbo"
+    ],
+    "name:spa_x_preferred":[
+        "Timbo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +52,7 @@
         "gn:id":2368975
     },
     "wof:country":"GW",
-    "wof:geomhash":"902a947c241bbb13dd0d7373ad6b0275",
+    "wof:geomhash":"b251b5c166bafdf23a43ea7c8a0b8179",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209324855,
-    "wof:lastmodified":1536290566,
+    "wof:lastmodified":1564102491,
     "wof:name":"Timbo",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +70,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.183329999999998,
+    -15.18333,
     11.41667,
-    -15.183329999999998,
+    -15.18333,
     11.41667
 ],
   "geometry": {"coordinates":[-15.18333,11.41667],"type":"Point"}

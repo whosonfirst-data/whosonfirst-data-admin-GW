@@ -26,6 +26,27 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0438\u044f \u0421\u0442\u0430\u0440\u0448\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Arria"
+    ],
+    "name:ita_x_preferred":[
+        "Arria"
+    ],
+    "name:pol_x_preferred":[
+        "Arria"
+    ],
+    "name:por_x_preferred":[
+        "\u00c1rria"
+    ],
+    "name:ron_x_preferred":[
+        "Arria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0440\u0438\u044f \u0421\u0442\u0430\u0440\u0448\u0430\u044f"
+    ],
     "name:und_x_variant":[
         "Aria",
         "Arria"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1260090353,
-    "wof:lastmodified":1537625470,
+    "wof:lastmodified":1564102542,
     "wof:name":"Arria",
     "wof:parent_id":1108758247,
     "wof:placetype":"locality",

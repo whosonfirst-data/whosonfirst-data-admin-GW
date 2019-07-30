@@ -26,6 +26,15 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cani"
+    ],
+    "name:ita_x_preferred":[
+        "Cani"
+    ],
+    "name:spa_x_preferred":[
+        "Cani"
+    ],
     "name:und_x_variant":[
         "Cane",
         "Cani"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259994167,
-    "wof:lastmodified":1537625455,
+    "wof:lastmodified":1564102747,
     "wof:name":"Cani",
     "wof:parent_id":1108758237,
     "wof:placetype":"locality",

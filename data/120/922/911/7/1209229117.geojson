@@ -25,6 +25,45 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bila"
+    ],
+    "name:ceb_x_preferred":[
+        "Bila"
+    ],
+    "name:deu_x_preferred":[
+        "Bila"
+    ],
+    "name:est_x_preferred":[
+        "Bila"
+    ],
+    "name:fra_x_preferred":[
+        "Bila"
+    ],
+    "name:hrv_x_preferred":[
+        "Bila"
+    ],
+    "name:ind_x_preferred":[
+        "Bila"
+    ],
+    "name:pol_x_preferred":[
+        "Bie\u0142aja"
+    ],
+    "name:ron_x_preferred":[
+        "Bila"
+    ],
+    "name:slv_x_preferred":[
+        "Bila"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bila"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +73,7 @@
         "gn:id":2374862
     },
     "wof:country":"GW",
-    "wof:geomhash":"93649e8ae19f820105c3e9d176dccc49",
+    "wof:geomhash":"6773ec042e46f8bf625955e37d32b742",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +81,7 @@
         }
     ],
     "wof:id":1209229117,
-    "wof:lastmodified":1536293696,
+    "wof:lastmodified":1564102483,
     "wof:name":"Bila",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +91,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.333329999999998,
+    -15.33333,
     11.76667,
-    -15.333329999999998,
+    -15.33333,
     11.76667
 ],
   "geometry": {"coordinates":[-15.33333,11.76667],"type":"Point"}

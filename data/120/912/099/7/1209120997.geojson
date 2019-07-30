@@ -25,6 +25,18 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Campa"
+    ],
+    "name:deu_x_preferred":[
+        "Campa"
+    ],
+    "name:ita_x_preferred":[
+        "Campa"
+    ],
+    "name:swe_x_preferred":[
+        "Campa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +46,7 @@
         "gn:id":2374035
     },
     "wof:country":"GW",
-    "wof:geomhash":"0afbd14dbb301f2c25825d260be08612",
+    "wof:geomhash":"6b07f4339bce5d2b1d6e176a189845fc",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209120997,
-    "wof:lastmodified":1536297099,
+    "wof:lastmodified":1564102468,
     "wof:name":"Campa",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.833329999999998,
+    -13.83333,
     12.63333,
-    -13.833329999999998,
+    -13.83333,
     12.63333
 ],
   "geometry": {"coordinates":[-13.83333,12.63333],"type":"Point"}

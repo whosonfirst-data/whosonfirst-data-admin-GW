@@ -25,6 +25,18 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sente"
+    ],
+    "name:deu_x_preferred":[
+        "Sente"
+    ],
+    "name:fra_x_preferred":[
+        "Sente"
+    ],
+    "name:swe_x_preferred":[
+        "Sente"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226534875,
-    "wof:lastmodified":1537013054,
+    "wof:lastmodified":1564102850,
     "wof:name":"Sente",
     "wof:parent_id":1108758219,
     "wof:placetype":"locality",

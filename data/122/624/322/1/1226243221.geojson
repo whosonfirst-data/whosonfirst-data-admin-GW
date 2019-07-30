@@ -26,6 +26,27 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Mone"
+    ],
+    "name:deu_x_preferred":[
+        "Mone"
+    ],
+    "name:fra_x_preferred":[
+        "Mone"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mone"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "M\u00f3ni",
         "Mone"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1226243221,
-    "wof:lastmodified":1537625427,
+    "wof:lastmodified":1564102832,
     "wof:name":"Mone",
     "wof:parent_id":1108758241,
     "wof:placetype":"locality",

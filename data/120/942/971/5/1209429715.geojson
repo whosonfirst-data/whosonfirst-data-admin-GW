@@ -26,6 +26,9 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Buloba"
+    ],
     "name:und_x_variant":[
         "Beluaba",
         "Buloba"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209429715,
-    "wof:lastmodified":1537625462,
+    "wof:lastmodified":1564102510,
     "wof:name":"Buloba",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",

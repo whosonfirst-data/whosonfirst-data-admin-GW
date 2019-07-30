@@ -25,8 +25,38 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mansab\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Mansab\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Mansab\u00e1"
+    ],
+    "name:fin_x_preferred":[
+        "Mansaba"
+    ],
+    "name:fra_x_preferred":[
+        "Mansaba"
+    ],
+    "name:ita_x_preferred":[
+        "Mansab\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30b5\u30d0"
+    ],
+    "name:por_x_preferred":[
+        "Mansab\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Mansab\u00e1"
+    ],
     "name:und_x_variant":[
         "Mansab\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "Mansaba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1326963283,
-    "wof:lastmodified":1537625429,
+    "wof:lastmodified":1564102211,
     "wof:name":"Mansaba",
     "wof:parent_id":1108758245,
     "wof:placetype":"locality",

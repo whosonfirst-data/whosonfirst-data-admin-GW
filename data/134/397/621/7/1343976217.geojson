@@ -26,6 +26,24 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Empada"
+    ],
+    "name:deu_x_preferred":[
+        "Empada"
+    ],
+    "name:fin_x_preferred":[
+        "Empada"
+    ],
+    "name:ita_x_preferred":[
+        "Empada"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30f3\u30d1\u30fc\u30c0"
+    ],
+    "name:por_x_preferred":[
+        "Empada"
+    ],
     "name:und_x_variant":[
         "Felicia",
         "Empada"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343976217,
-    "wof:lastmodified":1537625443,
+    "wof:lastmodified":1564102231,
     "wof:name":"Empada",
     "wof:parent_id":1108758255,
     "wof:placetype":"locality",

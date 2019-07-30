@@ -26,6 +26,24 @@
     "iso:country":"GW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Bo\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Boe"
+    ],
+    "name:ita_x_preferred":[
+        "Bo\u00e9"
+    ],
+    "name:lit_x_preferred":[
+        "Boj\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0438\u043d\u0430-\u0434\u0443-\u0411\u043e\u044d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0434\u0438\u043d\u0430 \u0434\u043e \u0411\u043e\u0435"
+    ],
     "name:und_x_variant":[
         "Boe",
         "Medina de Boa",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1310215081,
-    "wof:lastmodified":1537625431,
+    "wof:lastmodified":1564102594,
     "wof:name":"Madina do Boe",
     "wof:parent_id":1108758229,
     "wof:placetype":"locality",
