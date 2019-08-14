@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GA"
+    ],
     "lbl:latitude":12.01346,
     "lbl:longitude":-14.200435,
     "mps:latitude":11.988325,
@@ -282,16 +285,13 @@
         }
     ],
     "wof:id":85671559,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563297461,
+    "wof:lastmodified":1565713618,
     "wof:name":"Gab\u00fa",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

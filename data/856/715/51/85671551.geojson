@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OI"
+    ],
     "lbl:latitude":12.302675,
     "lbl:longitude":-15.280259,
     "mps:latitude":12.263471,
@@ -292,16 +295,13 @@
         }
     ],
     "wof:id":85671551,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563297464,
+    "wof:lastmodified":1565713619,
     "wof:name":"Oio",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

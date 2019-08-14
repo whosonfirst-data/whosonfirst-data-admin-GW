@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":12.179834,
     "lbl:longitude":-14.736082,
     "mps:latitude":12.181339,
@@ -276,16 +279,13 @@
         }
     ],
     "wof:id":85671557,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563297462,
+    "wof:lastmodified":1565713619,
     "wof:name":"Bafat\u00e1",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

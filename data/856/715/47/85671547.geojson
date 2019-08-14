@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CA"
+    ],
     "lbl:latitude":12.178683,
     "lbl:longitude":-15.973114,
     "mps:latitude":12.180372,
@@ -263,16 +266,13 @@
         }
     ],
     "wof:id":85671547,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563297468,
+    "wof:lastmodified":1565713619,
     "wof:name":"Cacheu",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

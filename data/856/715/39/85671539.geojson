@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous sector"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BS"
+    ],
     "lbl:latitude":11.871476,
     "lbl:longitude":-15.609927,
     "mps:latitude":11.882693,
@@ -544,16 +547,13 @@
         }
     ],
     "wof:id":85671539,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563297467,
+    "wof:lastmodified":1565713619,
     "wof:name":"Bissau",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

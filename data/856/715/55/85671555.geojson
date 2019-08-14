@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QU"
+    ],
     "lbl:latitude":11.788217,
     "lbl:longitude":-15.059575,
     "mps:latitude":11.49804,
@@ -283,16 +286,13 @@
         }
     ],
     "wof:id":85671555,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563297468,
+    "wof:lastmodified":1565713619,
     "wof:name":"Quinara",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

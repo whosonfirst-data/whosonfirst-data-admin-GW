@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BL"
+    ],
     "lbl:latitude":11.124972,
     "lbl:longitude":-16.133507,
     "mps:latitude":11.113097,
@@ -293,16 +296,13 @@
         }
     ],
     "wof:id":85671543,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563297465,
+    "wof:lastmodified":1565713619,
     "wof:name":"Bolama",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

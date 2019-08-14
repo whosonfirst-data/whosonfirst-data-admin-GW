@@ -15,6 +15,9 @@
     "itu:country_code":[
         "245"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GW"
+    ],
     "lbl:latitude":12.157338,
     "lbl:longitude":-14.513869,
     "mps:latitude":12.157338,
@@ -1030,16 +1033,13 @@
         }
     ],
     "wof:id":85632757,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563297472,
+    "wof:lastmodified":1565713620,
     "wof:name":"Guinea Bissau",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
