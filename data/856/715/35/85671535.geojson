@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.889742,
     "lbl:longitude":-15.783184,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.9392,
     "mps:longitude":-15.807165,
     "mz:hierarchy_label":1,
@@ -237,9 +238,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-03-15",
+    "src:population_date":"2009-03-15",
     "statoids:area_km":"839",
     "statoids:area_mi":"324",
     "statoids:as_of_date":"2009-03-15",
@@ -264,7 +265,7 @@
         "gp:id":2346611,
         "hasc:id":"GW.BM",
         "iso:id":"GW-BM",
-        "qs:id":988723,
+        "qs_pg:id":988723,
         "unlc:id":"GW-BM",
         "wd:id":"Q872228",
         "wk:page":"Biombo Region"
@@ -285,11 +286,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565713619,
+    "wof:lastmodified":1566643914,
     "wof:name":"Biombo",
     "wof:parent_id":85632757,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":93039,
     "wof:population_rank":8,

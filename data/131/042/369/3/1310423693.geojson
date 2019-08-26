@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.03667,11.93,-15.99667,11.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Belieje",
         "Beliege"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310423693,
-    "wof:lastmodified":1537625467,
+    "wof:lastmodified":1566644114,
     "wof:name":"Beliege",
     "wof:parent_id":1108758225,
     "wof:placetype":"locality",

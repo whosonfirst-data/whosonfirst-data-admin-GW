@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-14.45333,12.61333,-14.41333,12.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0645\u0627"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1243281841,
-    "wof:lastmodified":1564102731,
+    "wof:lastmodified":1566644226,
     "wof:name":"Duma",
     "wof:parent_id":1108758189,
     "wof:placetype":"locality",

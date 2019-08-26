@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-14.57,12.51333,-14.53,12.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinch\u00e3 Duloiel",
         "Uel\u00edngar\u00e0"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209014567,
-    "wof:lastmodified":1537625393,
+    "wof:lastmodified":1566644026,
     "wof:name":"Uelingara",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",

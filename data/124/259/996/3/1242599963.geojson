@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.54861,12.39417,-15.50861,12.43417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242599963,
-    "wof:lastmodified":1537030180,
+    "wof:lastmodified":1566644191,
     "wof:name":"Ganture",
     "wof:parent_id":1108758217,
     "wof:placetype":"locality",

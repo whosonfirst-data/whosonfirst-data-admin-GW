@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.18667,12.43,-15.14667,12.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2374927
     },
     "wof:country":"GW",
-    "wof:geomhash":"0c13fd71ce77a9b784e5418354399746",
+    "wof:geomhash":"ebbc952f9a502991292a05092d3aef3c",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209116085,
-    "wof:lastmodified":1536297249,
+    "wof:lastmodified":1566644054,
     "wof:name":"Bessia",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.166670000000002,
+    -15.16667,
     12.45,
-    -15.166670000000002,
+    -15.16667,
     12.45
 ],
   "geometry": {"coordinates":[-15.16667,12.45],"type":"Point"}

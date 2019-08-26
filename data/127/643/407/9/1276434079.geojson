@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.07472,12.15813,-16.03472,12.19813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Churo Enque",
         "Bachile"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276434079,
-    "wof:lastmodified":1537625470,
+    "wof:lastmodified":1566643980,
     "wof:name":"Bachile",
     "wof:parent_id":1108758221,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":12.22306,
     "geom:longitude":-15.4475,
     "iso:country":"GW",
+    "lbl:bbox":"-15.4675,12.20306,-15.4275,12.24306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bissor\u00e3"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Bissor\u00e3"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bissoram"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":2374759,
         "gp:id":1562743,
-        "qs:id":432562,
+        "qs_pg:id":432562,
         "wd:id":"Q572152"
     },
     "wof:country":"GW",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421180449,
-    "wof:lastmodified":1563297796,
+    "wof:lastmodified":1566644170,
     "wof:name":"Bissor\u00e3",
     "wof:parent_id":1108758241,
     "wof:placetype":"locality",

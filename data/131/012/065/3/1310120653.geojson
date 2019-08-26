@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-14.67,12.09667,-14.63,12.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gida"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310120653,
-    "wof:lastmodified":1564102568,
+    "wof:lastmodified":1566644100,
     "wof:name":"Gida",
     "wof:parent_id":1108758185,
     "wof:placetype":"locality",

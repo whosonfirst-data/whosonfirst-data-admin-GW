@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.95333,11.14667,-15.91333,11.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2372726
     },
     "wof:country":"GW",
-    "wof:geomhash":"14b7df2b0eb6e1e0fdc82e46e9e48511",
+    "wof:geomhash":"e9acfab9de7d37e7d0cc42061db24981",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209530155,
-    "wof:lastmodified":1536284306,
+    "wof:lastmodified":1566644019,
     "wof:name":"Eticodeba",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.933329999999998,
+    -15.93333,
     11.16667,
-    -15.933329999999998,
+    -15.93333,
     11.16667
 ],
   "geometry": {"coordinates":[-15.93333,11.16667],"type":"Point"}

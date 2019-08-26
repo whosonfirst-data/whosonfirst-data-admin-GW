@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.43667,12.09667,-15.39667,12.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Clanqueiala",
         "Claquiala"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276996229,
-    "wof:lastmodified":1537625449,
+    "wof:lastmodified":1566644016,
     "wof:name":"Claquiala",
     "wof:parent_id":1108758247,
     "wof:placetype":"locality",

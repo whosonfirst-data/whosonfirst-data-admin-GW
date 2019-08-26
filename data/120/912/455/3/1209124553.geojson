@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.15333,11.01333,-16.11333,11.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2375376
     },
     "wof:country":"GW",
-    "wof:geomhash":"b68462b68ca24b11f1ea3f64293765f7",
+    "wof:geomhash":"7637289f09567fb0db3c221e4f2278e4",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209124553,
-    "wof:lastmodified":1536296995,
+    "wof:lastmodified":1566644034,
     "wof:name":"Ancopado",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.133329999999994,
+    -16.13332999999999,
     11.03333,
-    -16.133329999999994,
+    -16.13332999999999,
     11.03333
 ],
   "geometry": {"coordinates":[-16.13332999999999,11.03333],"type":"Point"}

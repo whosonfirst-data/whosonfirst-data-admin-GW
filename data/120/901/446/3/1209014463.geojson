@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.18667,11.31333,-15.14667,11.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2373702
     },
     "wof:country":"GW",
-    "wof:geomhash":"3a28a3351db8fe083bf3e132a046288c",
+    "wof:geomhash":"99d049feb40d9259dabca4f0bb9a5a15",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209014463,
-    "wof:lastmodified":1536300341,
+    "wof:lastmodified":1566644025,
     "wof:name":"Cantumane",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.166670000000002,
+    -15.16667,
     11.33333,
-    -15.166670000000002,
+    -15.16667,
     11.33333
 ],
   "geometry": {"coordinates":[-15.16667,11.33333],"type":"Point"}

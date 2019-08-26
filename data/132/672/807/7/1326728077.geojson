@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.23667,12.03278,-16.19667,12.07278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Batau"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326728077,
-    "wof:lastmodified":1564102160,
+    "wof:lastmodified":1566643804,
     "wof:name":"Batau",
     "wof:parent_id":1108758221,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.52,11.96333,-15.48,12.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cade"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1310115691,
-    "wof:lastmodified":1564102590,
+    "wof:lastmodified":1566644116,
     "wof:name":"Cade",
     "wof:parent_id":1108758251,
     "wof:placetype":"locality",

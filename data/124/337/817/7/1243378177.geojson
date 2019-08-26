@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.00333,11.91333,-15.96333,11.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0686\u0646\u062a\u0648"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243378177,
-    "wof:lastmodified":1564102668,
+    "wof:lastmodified":1566644177,
     "wof:name":"Chanto",
     "wof:parent_id":1108758225,
     "wof:placetype":"locality",

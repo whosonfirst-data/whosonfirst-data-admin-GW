@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.20278,12.27194,-15.16278,12.31194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mansab\u00e1"
     ],
@@ -50,9 +54,6 @@
         "Mansab\u00e1"
     ],
     "name:swe_x_preferred":[
-        "Mansab\u00e1"
-    ],
-    "name:und_x_variant":[
         "Mansab\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1326963283,
-    "wof:lastmodified":1564102211,
+    "wof:lastmodified":1566643843,
     "wof:name":"Mansaba",
     "wof:parent_id":1108758245,
     "wof:placetype":"locality",

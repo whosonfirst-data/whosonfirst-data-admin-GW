@@ -10,8 +10,12 @@
     "geom:latitude":11.88333,
     "geom:longitude":-15.85,
     "iso:country":"GW",
+    "lbl:bbox":"-15.87,11.86333,-15.83,11.90333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0646\u064a\u0647\u0627\u0645\u0644"
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043d\u044c\u044f\u043c\u0435\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quinhameli"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":2370358,
         "gp:id":1561795,
-        "qs:id":279549,
+        "qs_pg:id":279549,
         "wd:id":"Q616404"
     },
     "wof:country":"GW",
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":421178353,
-    "wof:lastmodified":1563297800,
+    "wof:lastmodified":1566644171,
     "wof:name":"Quinh\u00e1mel",
     "wof:parent_id":1108758201,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.07,11.91333,-15.03,11.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sate Cuta",
         "Ronc\u00f2"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293210521,
-    "wof:lastmodified":1537625414,
+    "wof:lastmodified":1566643971,
     "wof:name":"Ronco",
     "wof:parent_id":1108758257,
     "wof:placetype":"locality",

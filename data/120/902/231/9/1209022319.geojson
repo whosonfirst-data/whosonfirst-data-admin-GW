@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-14.68667,11.88,-14.64667,11.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2369389
     },
     "wof:country":"GW",
-    "wof:geomhash":"b61e3a44309865817dc3492fbf6a1320",
+    "wof:geomhash":"2b1bb90ffee18a9bf894855c817ae898",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209022319,
-    "wof:lastmodified":1536300109,
+    "wof:lastmodified":1566644050,
     "wof:name":"Sincha Ninha",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.666670000000002,
+    -14.66667,
     11.9,
-    -14.666670000000002,
+    -14.66667,
     11.9
 ],
   "geometry": {"coordinates":[-14.66667,11.9],"type":"Point"}

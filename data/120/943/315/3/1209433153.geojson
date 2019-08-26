@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-13.83667,12.56333,-13.79667,12.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2371623
     },
     "wof:country":"GW",
-    "wof:geomhash":"c532e144f14899409303498ee3decac7",
+    "wof:geomhash":"ccd6b3307682c3a68df98580f46e5119",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209433153,
-    "wof:lastmodified":1536287179,
+    "wof:lastmodified":1566644061,
     "wof:name":"Madina Uoloto",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.816670000000002,
+    -13.81667,
     12.58333,
-    -13.816670000000002,
+    -13.81667,
     12.58333
 ],
   "geometry": {"coordinates":[-13.81667,12.58333],"type":"Point"}

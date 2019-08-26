@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.68667,11.86333,-15.64667,11.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2370704
     },
     "wof:country":"GW",
-    "wof:geomhash":"7396cf261a75832b8e85d485b2d2d437",
+    "wof:geomhash":"2d9cda3c2276a44e7280b90aed35e845",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209124171,
-    "wof:lastmodified":1536297007,
+    "wof:lastmodified":1566644035,
     "wof:name":"Ponta Alfredo Neves",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.666670000000002,
+    -15.66667,
     11.88333,
-    -15.666670000000002,
+    -15.66667,
     11.88333
 ],
   "geometry": {"coordinates":[-15.66667,11.88333],"type":"Point"}

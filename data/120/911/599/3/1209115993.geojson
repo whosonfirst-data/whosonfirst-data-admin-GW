@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.20333,11.46333,-15.16333,11.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2374395
     },
     "wof:country":"GW",
-    "wof:geomhash":"03d4a5d4466d553f147230868eace6e4",
+    "wof:geomhash":"1fe838335d7d88dd4b2ad50b78254c8c",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209115993,
-    "wof:lastmodified":1536297252,
+    "wof:lastmodified":1566644053,
     "wof:name":"Ca Beafada",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.183329999999998,
+    -15.18333,
     11.48333,
-    -15.183329999999998,
+    -15.18333,
     11.48333
 ],
   "geometry": {"coordinates":[-15.18333,11.48333],"type":"Point"}

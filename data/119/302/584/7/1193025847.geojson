@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.75333,11.44667,-15.71333,11.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambacanan",
         "Ambacan\u00e3"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1193025847,
-    "wof:lastmodified":1537625472,
+    "wof:lastmodified":1566644077,
     "wof:name":"Ambacana",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

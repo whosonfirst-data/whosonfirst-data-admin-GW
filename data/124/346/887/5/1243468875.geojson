@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.77,12.03,-15.73,12.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ponta Augusto Hopffer",
         "Ponta Augusto Hopfer"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243468875,
-    "wof:lastmodified":1537625421,
+    "wof:lastmodified":1566644198,
     "wof:name":"Ponta Augusto Hopfer",
     "wof:parent_id":1108758219,
     "wof:placetype":"locality",

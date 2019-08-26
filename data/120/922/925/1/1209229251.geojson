@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.60333,11.88,-15.56333,11.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2371898
     },
     "wof:country":"GW",
-    "wof:geomhash":"f3211a0744687475de1af1e75ae79b50",
+    "wof:geomhash":"ae3e65453869aa4eecc760e25e7ecd16",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209229251,
-    "wof:lastmodified":1536293691,
+    "wof:lastmodified":1566644041,
     "wof:name":"Jogro",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.583329999999998,
+    -15.58333,
     11.9,
-    -15.583329999999998,
+    -15.58333,
     11.9
 ],
   "geometry": {"coordinates":[-15.58333,11.9],"type":"Point"}
