@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.02,12.64667,-14.98,12.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Diabugu"
     ],
@@ -36,8 +40,7 @@
         "Diabugu"
     ],
     "name:und_x_variant":[
-        "Diabuco",
-        "Diabugu"
+        "Diabuco"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259889857,
-    "wof:lastmodified":1564102783,
+    "wof:lastmodified":1566644267,
     "wof:name":"Diabugu",
     "wof:parent_id":1108758243,
     "wof:placetype":"locality",

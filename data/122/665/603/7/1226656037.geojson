@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.72,11.78,-15.68,11.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Oco"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1226656037,
-    "wof:lastmodified":1564102848,
+    "wof:lastmodified":1566644309,
     "wof:name":"Oco",
     "wof:parent_id":1108758199,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.38667,12.34667,-15.34667,12.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suntuncuia",
         "Suntucui\u00e1"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343680223,
-    "wof:lastmodified":1537625397,
+    "wof:lastmodified":1566643883,
     "wof:name":"Suntucuia",
     "wof:parent_id":1108758245,
     "wof:placetype":"locality",

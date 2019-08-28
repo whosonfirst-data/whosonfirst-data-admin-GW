@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.12806,12.02833,-16.08806,12.06833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Majancal",
         "Mijancal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243385677,
-    "wof:lastmodified":1537625428,
+    "wof:lastmodified":1566644173,
     "wof:name":"Mijancal",
     "wof:parent_id":1108758225,
     "wof:placetype":"locality",

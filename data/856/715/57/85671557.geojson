@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.179834,
     "lbl:longitude":-14.736082,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.181339,
     "mps:longitude":-14.719579,
     "mz:hierarchy_label":1,
@@ -154,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0444\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Regi\u00e3o de Bafat\u00e1"
     ],
     "name:urd_x_preferred":[
@@ -237,9 +238,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-03-15",
+    "src:population_date":"2009-03-15",
     "statoids:area_km":"5,981",
     "statoids:area_mi":"2,309",
     "statoids:as_of_date":"2009-03-15",
@@ -264,7 +265,7 @@
         "gp:id":2346603,
         "hasc:id":"GW.BA",
         "iso:id":"GW-BA",
-        "qs:id":318636,
+        "qs_pg:id":318636,
         "unlc:id":"GW-BA",
         "wd:id":"Q799791",
         "wk:page":"Bafat\u00e1 Region"
@@ -285,11 +286,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565713619,
+    "wof:lastmodified":1566643914,
     "wof:name":"Bafat\u00e1",
     "wof:parent_id":85632757,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":200884,
     "wof:population_rank":10,

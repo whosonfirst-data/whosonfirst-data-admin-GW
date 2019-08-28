@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.13833,12.55556,-15.09833,12.59556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2369885
     },
     "wof:country":"GW",
-    "wof:geomhash":"cc1c90a926a1acb346913bcff6b913d2",
+    "wof:geomhash":"0b7841efd807390dfd81bc2811073949",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209439129,
-    "wof:lastmodified":1536287010,
+    "wof:lastmodified":1566644061,
     "wof:name":"Sare Lamine",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -15.118329999999998,
+    -15.11833,
     12.57556,
-    -15.118329999999998,
+    -15.11833,
     12.57556
 ],
   "geometry": {"coordinates":[-15.11833,12.57556],"type":"Point"}

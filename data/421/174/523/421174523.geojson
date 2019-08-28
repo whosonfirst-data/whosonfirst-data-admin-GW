@@ -10,6 +10,9 @@
     "geom:latitude":12.28333,
     "geom:longitude":-14.21667,
     "iso:country":"GW",
+    "lbl:bbox":"-14.23667,12.26333,-14.19667,12.30333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0431\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nova Lamego"
     ],
     "name:urd_x_preferred":[
@@ -220,7 +223,7 @@
     "wof:concordances":{
         "gn:id":2372532,
         "gp:id":1560843,
-        "qs:id":884275,
+        "qs_pg:id":884275,
         "wd:id":"Q1015891"
     },
     "wof:country":"GW",
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421174523,
-    "wof:lastmodified":1563297795,
+    "wof:lastmodified":1566644170,
     "wof:name":"Gab\u00fa",
     "wof:parent_id":1108758233,
     "wof:placetype":"locality",

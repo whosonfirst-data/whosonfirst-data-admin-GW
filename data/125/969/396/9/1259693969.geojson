@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.70333,12.36333,-15.66333,12.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Serifo",
         "Sedifo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259693969,
-    "wof:lastmodified":1537625406,
+    "wof:lastmodified":1566644256,
     "wof:name":"Sedifo",
     "wof:parent_id":1108758217,
     "wof:placetype":"locality",

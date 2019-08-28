@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-14.03667,12.59667,-13.99667,12.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mansacunda Grande",
         "Mansacunda Maund\u00e8"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310219983,
-    "wof:lastmodified":1537625429,
+    "wof:lastmodified":1566644118,
     "wof:name":"Mansacunda Maunde",
     "wof:parent_id":1108758235,
     "wof:placetype":"locality",

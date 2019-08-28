@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.07583,12.575,-15.03583,12.615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sare Samba Iof\u00e1",
         "Sare Sambalafa",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209010555,
-    "wof:lastmodified":1537625407,
+    "wof:lastmodified":1566644025,
     "wof:name":"Sare Samba Iafa",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",

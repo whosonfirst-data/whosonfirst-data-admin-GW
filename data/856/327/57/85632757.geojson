@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":12.157338,
     "lbl:longitude":-14.513869,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":12.157338,
     "mps:longitude":-14.513869,
     "mz:hierarchy_label":1,
@@ -816,10 +818,7 @@
         "\u0413\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0441\u0430\u0443",
         "\u0490\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0430\u0443"
     ],
-    "name:und_x_preferred":[
-        "Gvineja Bissau"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Portuguese Guinea"
     ],
     "name:urd_x_preferred":[
@@ -973,7 +972,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"245",
     "statoids:ds":"GW",
@@ -1017,7 +1016,7 @@
         "mzb:id":"guinea-bissau",
         "ne:adm0_a3":"GNB",
         "nyt:id":"N35356517505200054611",
-        "qs:id":573798,
+        "qs_pg:id":573798,
         "uncrt:id":"GW",
         "wd:id":"Q1007",
         "wk:page":"Guinea-Bissau",
@@ -1039,7 +1038,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565713620,
+    "wof:lastmodified":1566643917,
     "wof:name":"Guinea Bissau",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -10,8 +10,12 @@
     "geom:latitude":12.06722,
     "geom:longitude":-16.03333,
     "iso:country":"GW",
+    "lbl:bbox":"-16.05333,12.04722,-16.01333,12.08722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u06a9\u0646\u0627\u0686\u0646\u0642\u0648"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Canchungo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pinto"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2373951,
         "gp:id":1562812,
-        "qs:id":969997,
+        "qs_pg:id":969997,
         "wd:id":"Q1318022",
         "wk:page":"Canchungo"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421175483,
-    "wof:lastmodified":1563297797,
+    "wof:lastmodified":1566644170,
     "wof:name":"Canchungo",
     "wof:parent_id":1108758225,
     "wof:placetype":"locality",

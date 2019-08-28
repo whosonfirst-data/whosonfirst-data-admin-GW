@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.48778,12.29611,-15.44778,12.33611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jabel"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1310112015,
-    "wof:lastmodified":1564102592,
+    "wof:lastmodified":1566644117,
     "wof:name":"Jabel",
     "wof:parent_id":1108758241,
     "wof:placetype":"locality",

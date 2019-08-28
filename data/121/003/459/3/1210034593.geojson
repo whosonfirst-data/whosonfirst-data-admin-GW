@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-14.65333,12.34667,-14.61333,12.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210034593,
-    "wof:lastmodified":1536387061,
+    "wof:lastmodified":1566644066,
     "wof:name":"Sare Iero",
     "wof:parent_id":1108758189,
     "wof:placetype":"locality",

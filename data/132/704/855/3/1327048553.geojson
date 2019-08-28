@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-14.92,12.41333,-14.88,12.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Curdi\u00e1",
         "Garcia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327048553,
-    "wof:lastmodified":1537625438,
+    "wof:lastmodified":1566643834,
     "wof:name":"Garcia",
     "wof:parent_id":1108758193,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-15.80333,11.88,-15.76333,11.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ponta Brancozinho",
         "Pene",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310423809,
-    "wof:lastmodified":1537625420,
+    "wof:lastmodified":1566644115,
     "wof:name":"Ponta Corrente",
     "wof:parent_id":1108758201,
     "wof:placetype":"locality",

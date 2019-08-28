@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.32417,12.32028,-16.28417,12.36028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2373486
     },
     "wof:country":"GW",
-    "wof:geomhash":"6591288abdd02207c72d6dcce7590ef5",
+    "wof:geomhash":"42998b0264e334974a007e95c04e67d6",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209637427,
-    "wof:lastmodified":1536280997,
+    "wof:lastmodified":1566644029,
     "wof:name":"Causso",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.304170000000006,
+    -16.30417000000001,
     12.34028,
-    -16.304170000000006,
+    -16.30417000000001,
     12.34028
 ],
   "geometry": {"coordinates":[-16.30417000000001,12.34028],"type":"Point"}

@@ -10,6 +10,9 @@
     "geom:latitude":12.48389,
     "geom:longitude":-15.22167,
     "iso:country":"GW",
+    "lbl:bbox":"-15.24167,12.46389,-15.20167,12.50389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":2372647,
         "gp:id":1560760,
-        "qs:id":884276,
+        "qs_pg:id":884276,
         "wd:id":"Q1022984",
         "wk:page":"Farim"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421174525,
-    "wof:lastmodified":1563297795,
+    "wof:lastmodified":1566644170,
     "wof:name":"Farim",
     "wof:parent_id":1108758243,
     "wof:placetype":"locality",

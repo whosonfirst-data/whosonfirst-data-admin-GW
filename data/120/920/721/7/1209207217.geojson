@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.06667,12.14472,-16.02667,12.18472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2375137
     },
     "wof:country":"GW",
-    "wof:geomhash":"ee95c21dc944895e479e4ed811de21a3",
+    "wof:geomhash":"125391214a6a3abda8b4cabec1ed5ab8",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209207217,
-    "wof:lastmodified":1536294414,
+    "wof:lastmodified":1566644055,
     "wof:name":"Banhute",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.046670000000002,
+    -16.04667,
     12.16472,
-    -16.046670000000002,
+    -16.04667,
     12.16472
 ],
   "geometry": {"coordinates":[-16.04667,12.16472],"type":"Point"}

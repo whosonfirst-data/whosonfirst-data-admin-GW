@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-16.23667,12.19667,-16.19667,12.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bote"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1310711807,
-    "wof:lastmodified":1564102576,
+    "wof:lastmodified":1566644105,
     "wof:name":"Bote",
     "wof:parent_id":1108758221,
     "wof:placetype":"locality",

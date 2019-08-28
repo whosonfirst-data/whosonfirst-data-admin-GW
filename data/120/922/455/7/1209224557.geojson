@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bissau",
     "iso:country":"GW",
+    "lbl:bbox":"-14.10333,12.24667,-14.06333,12.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632757
@@ -34,7 +38,7 @@
         "gn:id":2369635
     },
     "wof:country":"GW",
-    "wof:geomhash":"45eb0550eedb11210dc8fae4ac1bb92e",
+    "wof:geomhash":"776cdcc2857d6c1b0a29828e619e2eb2",
     "wof:hierarchy":[
         {
             "country_id":85632757,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209224557,
-    "wof:lastmodified":1536293843,
+    "wof:lastmodified":1566644040,
     "wof:name":"Sincha Bulima",
     "wof:parent_id":85632757,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.083329999999998,
+    -14.08333,
     12.26667,
-    -14.083329999999998,
+    -14.08333,
     12.26667
 ],
   "geometry": {"coordinates":[-14.08333,12.26667],"type":"Point"}
