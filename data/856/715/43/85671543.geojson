@@ -287,6 +287,9 @@
         "wk:page":"Bolama Region"
     },
     "wof:country":"GW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"441957a235274ba4b62f996a0ad3ce0f",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566643915,
+    "wof:lastmodified":1582312235,
     "wof:name":"Bolama",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

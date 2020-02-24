@@ -271,6 +271,9 @@
         "wk:page":"Biombo Region"
     },
     "wof:country":"GW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e05f6ba0c18fcfe998edd78b4f2defd2",
     "wof:hierarchy":[
         {
@@ -286,7 +289,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566643914,
+    "wof:lastmodified":1582312234,
     "wof:name":"Biombo",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

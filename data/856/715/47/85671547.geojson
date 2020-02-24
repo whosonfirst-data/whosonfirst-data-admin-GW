@@ -258,6 +258,9 @@
         "wk:page":"Cacheu Region"
     },
     "wof:country":"GW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8dc42dcc60dbfaa52dc450a8409a4f41",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566643916,
+    "wof:lastmodified":1582312235,
     "wof:name":"Cacheu",
     "wof:parent_id":85632757,
     "wof:placetype":"region",
