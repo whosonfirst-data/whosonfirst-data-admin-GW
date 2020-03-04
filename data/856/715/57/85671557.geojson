@@ -271,6 +271,9 @@
         "wk:page":"Bafat\u00e1 Region"
     },
     "wof:country":"GW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ba203f78146e74bf3390a9796ef09318",
     "wof:hierarchy":[
         {
@@ -286,7 +289,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566643914,
+    "wof:lastmodified":1582312234,
     "wof:name":"Bafat\u00e1",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

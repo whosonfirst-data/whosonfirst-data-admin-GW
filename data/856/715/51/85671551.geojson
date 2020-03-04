@@ -287,6 +287,9 @@
         "wk:page":"Oio Region"
     },
     "wof:country":"GW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc2ccc3116027b404a4168c1e50c1ada",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566643915,
+    "wof:lastmodified":1582312234,
     "wof:name":"Oio",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

@@ -277,6 +277,9 @@
         "wk:page":"Gab\u00fa Region"
     },
     "wof:country":"GW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24d58d6a17cbf3a51df23ced27a12bb3",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566643914,
+    "wof:lastmodified":1582312234,
     "wof:name":"Gab\u00fa",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

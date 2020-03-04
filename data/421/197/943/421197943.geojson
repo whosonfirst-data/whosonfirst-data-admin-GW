@@ -563,6 +563,9 @@
     ],
     "wof:country":"GW",
     "wof:created":1459009930,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb150b9abe2db4fa819176ec62fc5fa9",
     "wof:hierarchy":[
         {
@@ -574,7 +577,7 @@
         }
     ],
     "wof:id":421197943,
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1582312240,
     "wof:name":"Bissau",
     "wof:parent_id":1108758205,
     "wof:placetype":"locality",

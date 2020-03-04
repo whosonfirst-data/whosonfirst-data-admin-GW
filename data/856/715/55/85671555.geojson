@@ -277,6 +277,9 @@
         "wk:page":"Quinara Region"
     },
     "wof:country":"GW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed359ca4b15553835bf8214fd97d2cdf",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566643916,
+    "wof:lastmodified":1582312235,
     "wof:name":"Quinara",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

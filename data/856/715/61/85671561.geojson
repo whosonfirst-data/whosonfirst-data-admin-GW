@@ -274,6 +274,9 @@
         "wk:page":"Tombali Region"
     },
     "wof:country":"GW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a5642627d5248ecdfd2ad2d7ddca97a",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566643913,
+    "wof:lastmodified":1582312234,
     "wof:name":"Tombali",
     "wof:parent_id":85632757,
     "wof:placetype":"region",
