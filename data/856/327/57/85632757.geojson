@@ -1001,9 +1001,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Guinea-Bissau",
-        "digitalenvoy:country_code":[
-            624
-        ],
+        "digitalenvoy:country_code":624,
         "fb:id":"en.guinea-bissau",
         "fifa:id":"GNB",
         "fips:code":"PU",
@@ -1046,7 +1044,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1583529136,
+    "wof:lastmodified":1583797342,
     "wof:name":"Guinea Bissau",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
