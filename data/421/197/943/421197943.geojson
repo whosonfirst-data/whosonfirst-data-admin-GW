@@ -561,7 +561,8 @@
         "wk:page":"Bissau"
     },
     "wof:coterminous":[
-        85671539
+        85671539,
+        1108758205
     ],
     "wof:country":"GW",
     "wof:created":1459009930,
@@ -579,7 +580,7 @@
         }
     ],
     "wof:id":421197943,
-    "wof:lastmodified":1607390896,
+    "wof:lastmodified":1607722107,
     "wof:name":"Bissau",
     "wof:parent_id":1108758205,
     "wof:placetype":"locality",
