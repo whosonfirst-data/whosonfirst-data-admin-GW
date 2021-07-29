@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Bissau"
     ],
+    "name:fra_x_preferred":[
+        "Secteur autonome de Bissau"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108758205,
-    "wof:lastmodified":1607722107,
+    "wof:lastmodified":1627522162,
     "wof:name":"Sector Autonomo de Bissau",
     "wof:parent_id":85671539,
     "wof:placetype":"county",
