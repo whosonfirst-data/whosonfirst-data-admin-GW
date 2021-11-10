@@ -32,6 +32,9 @@
     "name:deu_x_preferred":[
         "Ambeno"
     ],
+    "name:hun_x_preferred":[
+        "Ambeno"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1225854659,
-    "wof:lastmodified":1566644315,
+    "wof:lastmodified":1636494427,
     "wof:name":"Ambeno",
     "wof:parent_id":1108758209,
     "wof:placetype":"locality",

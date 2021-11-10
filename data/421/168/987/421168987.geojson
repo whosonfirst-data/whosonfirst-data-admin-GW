@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0627\u0645\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09b2\u09be\u09ae\u09be"
+    ],
     "name:cat_x_preferred":[
         "Bolama"
     ],
@@ -29,8 +32,14 @@
     "name:deu_x_preferred":[
         "Bolama"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03bb\u03ac\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Bolama"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Bolama"
@@ -46,6 +55,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05dc\u05d0\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0932\u093e\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Bolama"
+    ],
+    "name:ind_x_preferred":[
+        "Bolama"
     ],
     "name:ita_x_preferred":[
         "Bolama"
@@ -89,11 +107,20 @@
     "name:swe_x_preferred":[
         "Bolama"
     ],
+    "name:tur_x_preferred":[
+        "Bolama"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u0430\u043c\u0430"
     ],
     "name:und_x_variant":[
         "Port Beaver"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0644\u0627\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Bolama"
     ],
     "name:zho_x_preferred":[
         "\u535a\u62c9\u9a6c"
@@ -234,7 +261,7 @@
         }
     ],
     "wof:id":421168987,
-    "wof:lastmodified":1566644169,
+    "wof:lastmodified":1636494425,
     "wof:name":"Bolama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

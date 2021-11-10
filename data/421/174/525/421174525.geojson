@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0631\u064a\u0645"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09be\u09b0\u09bf\u09ae"
+    ],
     "name:cat_x_preferred":[
         "Farim"
     ],
@@ -32,6 +38,9 @@
     "name:eng_x_preferred":[
         "Farim"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0631\u06cc\u0645"
+    ],
     "name:fin_x_preferred":[
         "Farim"
     ],
@@ -41,7 +50,16 @@
     "name:frr_x_preferred":[
         "Farim"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u0930\u0940\u092e"
+    ],
     "name:hun_x_preferred":[
+        "Farim"
+    ],
+    "name:ind_x_preferred":[
         "Farim"
     ],
     "name:ita_x_preferred":[
@@ -77,11 +95,20 @@
     "name:sco_x_preferred":[
         "Farim"
     ],
+    "name:spa_x_preferred":[
+        "Farim"
+    ],
     "name:swe_x_preferred":[
+        "Farim"
+    ],
+    "name:tur_x_preferred":[
         "Farim"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0631\u06cc\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Farim"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u6797"
@@ -228,7 +255,7 @@
         }
     ],
     "wof:id":421174525,
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1636494425,
     "wof:name":"Farim",
     "wof:parent_id":1108758243,
     "wof:placetype":"locality",
