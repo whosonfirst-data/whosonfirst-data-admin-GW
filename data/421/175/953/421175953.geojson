@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0633\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0646\u0633\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Mans\u00f4a"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09b8\u09cb\u09af\u09bc\u09be"
     ],
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":421175953,
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1690930130,
     "wof:name":"Mans\u00f4a",
     "wof:parent_id":1108758247,
     "wof:placetype":"locality",

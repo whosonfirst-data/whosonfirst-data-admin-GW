@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gab\u00fa"
+    ],
     "name:cat_x_preferred":[
         "Gab\u00fa"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:nob_x_preferred":[
         "Gab\u00fa"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07dc\u07ed\u07ca\u07ec\u07d3\u07ce\u07eb"
     ],
     "name:pol_x_preferred":[
         "Gabu"
@@ -239,7 +245,7 @@
         }
     ],
     "wof:id":421174523,
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1690930130,
     "wof:name":"Gab\u00fa",
     "wof:parent_id":1108758233,
     "wof:placetype":"locality",

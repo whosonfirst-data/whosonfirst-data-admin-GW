@@ -96,6 +96,9 @@
     "name:kor_x_preferred":[
         "\uce74\uc170\uc6b0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\uc170\uc6b0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Ka\u0161eu re\u0123ions"
     ],
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636494420,
+    "wof:lastmodified":1690930124,
     "wof:name":"Cacheu",
     "wof:parent_id":85632757,
     "wof:placetype":"region",
