@@ -116,6 +116,9 @@
     "name:kor_x_preferred":[
         "\uc624\uc774\uc6b0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\uc774\uc6b0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Oio re\u0123ions"
     ],
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636494419,
+    "wof:lastmodified":1690930123,
     "wof:name":"Oio",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

@@ -65,6 +65,9 @@
     "name:epo_x_preferred":[
         "Regiono Bafat\u00e1"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0627\u0641\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bafat\u00e1n alue"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\ud30c\ud0c0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\ud30c\ud0c0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Bafatas re\u0123ions"
@@ -289,7 +295,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1614894112,
+    "wof:lastmodified":1690930122,
     "wof:name":"Bafat\u00e1",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

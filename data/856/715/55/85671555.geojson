@@ -68,6 +68,9 @@
     "name:epo_x_preferred":[
         "Regiono Quinara"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u06cc\u0646\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Quinaran alue"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0a4\ub098\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0a4\ub098\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kinaras re\u0123ions"
@@ -301,7 +307,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636494420,
+    "wof:lastmodified":1690930124,
     "wof:name":"Quinara",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

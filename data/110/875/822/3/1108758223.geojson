@@ -57,10 +57,16 @@
     "name:fra_x_preferred":[
         "Caio"
     ],
+    "name:fra_x_variant":[
+        "Cai\u00f3"
+    ],
     "name:ita_x_preferred":[
         "Cai\u00f3"
     ],
     "name:nld_x_preferred":[
+        "Caio"
+    ],
+    "name:pol_x_preferred":[
         "Caio"
     ],
     "name:por_x_preferred":[
@@ -68,6 +74,9 @@
     ],
     "name:swe_x_preferred":[
         "Caio Sector"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7ea6"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1108758223,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1690930128,
     "wof:name":"Caio",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

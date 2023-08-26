@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Buba"
+    ],
     "name:cat_x_preferred":[
         "Buba"
     ],
@@ -71,8 +74,17 @@
     "name:ron_x_preferred":[
         "Buba"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Buba"
+    ],
     "name:swe_x_preferred":[
         "Buba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0628\u0627"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5df4"
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":421183547,
-    "wof:lastmodified":1566644171,
+    "wof:lastmodified":1690930131,
     "wof:name":"Buba",
     "wof:parent_id":1108758253,
     "wof:placetype":"locality",

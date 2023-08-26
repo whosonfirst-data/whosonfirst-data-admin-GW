@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0627\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u0627\u0645\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bolama"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043c\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09b2\u09be\u09ae\u09be"
     ],
@@ -261,7 +270,7 @@
         }
     ],
     "wof:id":421168987,
-    "wof:lastmodified":1636494425,
+    "wof:lastmodified":1690930129,
     "wof:name":"Bolama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

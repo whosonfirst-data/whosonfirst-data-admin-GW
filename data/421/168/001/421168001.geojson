@@ -59,6 +59,9 @@
     "name:por_x_preferred":[
         "Bubaque"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0431\u0430\u043a\u0435"
+    ],
     "name:spa_x_preferred":[
         "Bubaque"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421168001,
-    "wof:lastmodified":1566644169,
+    "wof:lastmodified":1690930129,
     "wof:name":"Bubaque",
     "wof:parent_id":1108758209,
     "wof:placetype":"locality",

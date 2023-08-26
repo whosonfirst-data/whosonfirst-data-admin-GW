@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0627\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0641\u0627\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bafat\u00e1"
+    ],
     "name:aze_x_preferred":[
         "Bafata"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:eus_x_preferred":[
         "Bafat\u00e1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0641\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Bafat\u00e1"
@@ -108,6 +117,9 @@
         "Bafat\u00e1"
     ],
     "name:swe_x_preferred":[
+        "Bafat\u00e1"
+    ],
+    "name:tur_x_preferred":[
         "Bafat\u00e1"
     ],
     "name:ukr_x_preferred":[
@@ -260,7 +272,7 @@
         }
     ],
     "wof:id":421174345,
-    "wof:lastmodified":1566644170,
+    "wof:lastmodified":1690930129,
     "wof:name":"Bafat\u00e1",
     "wof:parent_id":1108758185,
     "wof:placetype":"locality",
