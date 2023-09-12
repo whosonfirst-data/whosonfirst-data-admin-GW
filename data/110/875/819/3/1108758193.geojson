@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075701,
-    "geom:area_square_m":914590349.754913,
+    "geom:area_square_m":914590169.025294,
     "geom:bbox":"-14.976576,12.105132,-14.662403,12.453582",
     "geom:latitude":12.293666,
     "geom:longitude":-14.823796,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Gamamudo Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":12.295466,
     "lbl:longitude":-14.820813,
     "lbl:max_zoom":10.0,
@@ -30,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Gamamudo"
+    ],
     "name:fra_x_preferred":[
         "Gamamundo"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"GW",
     "wof:created":1481309804,
-    "wof:geomhash":"931882696ed305b0045a544a62e46ba2",
+    "wof:geomhash":"5e1dea2c047157142dfb96d2de5fd6fc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108758193,
-    "wof:lastmodified":1628266649,
+    "wof:lastmodified":1694498072,
     "wof:name":"Gamamudo",
     "wof:parent_id":85671557,
     "wof:placetype":"county",

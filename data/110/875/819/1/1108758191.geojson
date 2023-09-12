@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046265,
-    "geom:area_square_m":559661541.905291,
+    "geom:area_square_m":559661627.384866,
     "geom:bbox":"-14.736351,11.813121,-14.468728,12.116277",
     "geom:latitude":11.958904,
     "geom:longitude":-14.585321,
     "iso:country":"GW",
+    "label:eng_x_preferred_longname":[
+        "Galomaro Sector"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "sector"
+    ],
     "lbl:latitude":11.962843,
     "lbl:longitude":-14.587345,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "Galomaro Sector"
     ],
     "name:deu_x_preferred":[
+        "Galomaro"
+    ],
+    "name:eng_x_preferred":[
         "Galomaro"
     ],
     "name:fin_x_preferred":[
@@ -70,7 +79,7 @@
     },
     "wof:country":"GW",
     "wof:created":1481309803,
-    "wof:geomhash":"e45c09fe15e401cbe7202ba4f6e9f364",
+    "wof:geomhash":"8b231ca3d08666483b9ad3e6bfc296e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108758191,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1694498048,
     "wof:name":"Galomaro",
     "wof:parent_id":85671557,
     "wof:placetype":"county",
