@@ -1139,7 +1139,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"245",
     "statoids:ds":"GW",
     "statoids:fifa":"GNB",
@@ -1211,7 +1211,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1694492040,
+    "wof:lastmodified":1694639495,
     "wof:name":"Guinea Bissau",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
