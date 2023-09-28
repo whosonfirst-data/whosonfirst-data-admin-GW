@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484719,
-    "geom:area_square_m":5859005677.7181,
+    "geom:area_square_m":5859006220.191324,
     "geom:bbox":"-15.071044,11.593462,-14.340579,12.681944",
     "geom:latitude":12.163872,
     "geom:longitude":-14.706643,
@@ -270,17 +270,19 @@
         "gn:id":2375255,
         "gp:id":2346603,
         "hasc:id":"GW.BA",
+        "iso:code":"GW-BA",
         "iso:id":"GW-BA",
         "qs_pg:id":318636,
         "unlc:id":"GW-BA",
         "wd:id":"Q799791",
         "wk:page":"Bafat\u00e1 Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b62cb2ab5d15fbd4144ea1358aad06b",
+    "wof:geomhash":"88bbf94c0e4eb4228325b8e420be65e1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -295,7 +297,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690930122,
+    "wof:lastmodified":1695884505,
     "wof:name":"Bafat\u00e1",
     "wof:parent_id":85632757,
     "wof:placetype":"region",
