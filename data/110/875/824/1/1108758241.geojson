@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099633,
-    "geom:area_square_m":1204122208.292558,
+    "geom:area_square_m":1204121962.320777,
     "geom:bbox":"-15.755686,11.99112,-15.282973,12.409184",
     "geom:latitude":12.208734,
     "geom:longitude":-15.535322,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GW.OI.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309833,
-    "wof:geomhash":"daf57fa51dd8eb607df9db0d30ac1167",
+    "wof:geomhash":"873a6462911eafd91444a4fb88eae4ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108758241,
-    "wof:lastmodified":1627522161,
+    "wof:lastmodified":1695886629,
     "wof:name":"Bissora",
     "wof:parent_id":85671551,
     "wof:placetype":"county",

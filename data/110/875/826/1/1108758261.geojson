@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087306,
-    "geom:area_square_m":1058759143.517202,
+    "geom:area_square_m":1058759321.356455,
     "geom:bbox":"-15.272972,10.994583,-14.787421,11.441889",
     "geom:latitude":11.262569,
     "geom:longitude":-15.044961,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"GW.TO.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309843,
-    "wof:geomhash":"2ccadc2eda4d2a93d665b5432e92f25f",
+    "wof:geomhash":"4399ae25ebcc8fa087d300b060850dae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108758261,
-    "wof:lastmodified":1627522161,
+    "wof:lastmodified":1695886629,
     "wof:name":"Bedanda",
     "wof:parent_id":85671561,
     "wof:placetype":"county",

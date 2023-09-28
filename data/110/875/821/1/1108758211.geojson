@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035241,
-    "geom:area_square_m":427005068.42056,
+    "geom:area_square_m":427005068.420573,
     "geom:bbox":"-16.420473099,11.424528122,-15.89541626,11.610361099",
     "geom:latitude":11.507189,
     "geom:longitude":-16.126833,
@@ -110,9 +110,10 @@
     "wof:concordances":{
         "hasc:id":"GW.BL.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309813,
-    "wof:geomhash":"962b6baaa132ee4310ab15e30cd0bcd0",
+    "wof:geomhash":"31ef8c6f713fc2fbb6e5531ed2ec8c57",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108758211,
-    "wof:lastmodified":1566644094,
+    "wof:lastmodified":1695886349,
     "wof:name":"Caravela",
     "wof:parent_id":85671543,
     "wof:placetype":"county",

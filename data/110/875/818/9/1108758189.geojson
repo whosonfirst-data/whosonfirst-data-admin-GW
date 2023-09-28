@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129942,
-    "geom:area_square_m":1568440604.001428,
+    "geom:area_square_m":1568440604.001383,
     "geom:bbox":"-14.9063244976,12.2847109877,-14.3405790311,12.681944",
     "geom:latitude":12.537174,
     "geom:longitude":-14.636614,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"GW.BA.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309802,
-    "wof:geomhash":"3f62352faa7b71de502f7591c878f313",
+    "wof:geomhash":"8bc4b0c2d23575be396ff72f02477b72",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108758189,
-    "wof:lastmodified":1566644092,
+    "wof:lastmodified":1695886348,
     "wof:name":"Contuboel",
     "wof:parent_id":85671557,
     "wof:placetype":"county",

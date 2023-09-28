@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054992,
-    "geom:area_square_m":664813194.949762,
+    "geom:area_square_m":664812852.882839,
     "geom:bbox":"-15.944613,11.983755,-15.620853,12.305588",
     "geom:latitude":12.127956,
     "geom:longitude":-15.788625,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GW.CA.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309816,
-    "wof:geomhash":"70f399c8f0c4c620323be982b4718453",
+    "wof:geomhash":"5cf42576b82fb955b62e87ab4d721dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108758219,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886630,
     "wof:name":"Bula",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

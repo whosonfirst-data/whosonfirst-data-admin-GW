@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101361,
-    "geom:area_square_m":1224481999.829347,
+    "geom:area_square_m":1224481955.484694,
     "geom:bbox":"-15.458984,12.174566,-14.936617,12.477876",
     "geom:latitude":12.319875,
     "geom:longitude":-15.166345,
@@ -102,9 +102,10 @@
         "hasc:id":"GW.OI.MB",
         "wd:id":"Q1771615"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309835,
-    "wof:geomhash":"36916c4f19803f75c8159b5cd2e2aa3f",
+    "wof:geomhash":"ca14f7f6d1de9dc79c194945e3950cae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108758245,
-    "wof:lastmodified":1690930127,
+    "wof:lastmodified":1695886350,
     "wof:name":"Mansaba",
     "wof:parent_id":85671551,
     "wof:placetype":"county",

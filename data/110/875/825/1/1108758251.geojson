@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022657,
-    "geom:area_square_m":274062863.362616,
+    "geom:area_square_m":274062863.362599,
     "geom:bbox":"-15.6315531417,11.8875908951,-15.3917635223,12.0565745421",
     "geom:latitude":11.977575,
     "geom:longitude":-15.513571,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"GW.OI.NH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309837,
-    "wof:geomhash":"47eed8f5fcd64e40e79e11f52859aac7",
+    "wof:geomhash":"b95a5cd8d7e655f3ef622a86e1a6ff2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108758251,
-    "wof:lastmodified":1566644098,
+    "wof:lastmodified":1695886350,
     "wof:name":"Nhacra",
     "wof:parent_id":85671551,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096574,
-    "geom:area_square_m":1167787773.244631,
+    "geom:area_square_m":1167787497.433054,
     "geom:bbox":"-15.453551,11.908722,-14.948758,12.206787",
     "geom:latitude":12.063806,
     "geom:longitude":-15.219871,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"GW.OI.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309836,
-    "wof:geomhash":"7b5d73ffbe887e81cca29a85586fb6af",
+    "wof:geomhash":"34817495103d74e0c724963ccd8e7fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108758247,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886630,
     "wof:name":"Mansoa",
     "wof:parent_id":85671551,
     "wof:placetype":"county",

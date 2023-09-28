@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054272,
-    "geom:area_square_m":657612513.275931,
+    "geom:area_square_m":657612916.48555,
     "geom:bbox":"-15.505445,11.324583,-15.074583,11.641222",
     "geom:latitude":11.498771,
     "geom:longitude":-15.283501,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GW.QU.EM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309839,
-    "wof:geomhash":"ae4aa45ffb4fac54bc47c49b4f34560d",
+    "wof:geomhash":"53402397bf2b82e3cd71de746d448d86",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108758255,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886631,
     "wof:name":"Empada",
     "wof:parent_id":85671555,
     "wof:placetype":"county",

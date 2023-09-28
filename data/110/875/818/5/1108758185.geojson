@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064929,
-    "geom:area_square_m":784798368.556406,
+    "geom:area_square_m":784798537.122351,
     "geom:bbox":"-14.845018,12.028838,-14.448037,12.35055",
     "geom:latitude":12.176454,
     "geom:longitude":-14.622019,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GW.BA.BF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309799,
-    "wof:geomhash":"c1d03280b1f1f7c51a16b715eb43c4e9",
+    "wof:geomhash":"cc23c99f2dbdb4defb78e8db9937a703",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108758185,
-    "wof:lastmodified":1627522161,
+    "wof:lastmodified":1695886629,
     "wof:name":"Bafata",
     "wof:parent_id":85671557,
     "wof:placetype":"county",

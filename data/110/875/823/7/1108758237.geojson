@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162174,
-    "geom:area_square_m":1958452982.812226,
+    "geom:area_square_m":1958452867.126243,
     "geom:bbox":"-14.180978,12.12652,-13.626523,12.675373",
     "geom:latitude":12.410255,
     "geom:longitude":-13.879435,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GW.GA.PT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309831,
-    "wof:geomhash":"e8e4f03dca4a73a7f0ee48bbf593b5e2",
+    "wof:geomhash":"70163d3d19ef6ed63ecc034e547f45b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108758237,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886630,
     "wof:name":"Pitche",
     "wof:parent_id":85671559,
     "wof:placetype":"county",

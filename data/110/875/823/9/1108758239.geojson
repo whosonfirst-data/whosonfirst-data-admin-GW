@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066324,
-    "geom:area_square_m":800913740.167522,
+    "geom:area_square_m":800913740.167623,
     "geom:bbox":"-14.5591410425,12.1395239279,-14.2372317866,12.6388329626",
     "geom:latitude":12.419106,
     "geom:longitude":-14.400374,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"GW.GA.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309832,
-    "wof:geomhash":"e83a58d83faac56ad7dd6608147b389c",
+    "wof:geomhash":"0505be037f80816ce2763959004394b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108758239,
-    "wof:lastmodified":1566644096,
+    "wof:lastmodified":1695886349,
     "wof:name":"Sonaco",
     "wof:parent_id":85671559,
     "wof:placetype":"county",

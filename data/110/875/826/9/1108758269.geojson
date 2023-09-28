@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017781,
-    "geom:area_square_m":215685221.64721,
+    "geom:area_square_m":215685221.647231,
     "geom:bbox":"-15.411277771,11.113750458,-15.2152494413,11.2731685732",
     "geom:latitude":11.191165,
     "geom:longitude":-15.314458,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"GW.TO.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309846,
-    "wof:geomhash":"737435dcc6a65bfab73430677a434842",
+    "wof:geomhash":"c3f7a2bfe2f61e80f90c32333fcf57e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108758269,
-    "wof:lastmodified":1566644095,
+    "wof:lastmodified":1695886349,
     "wof:name":"Komo",
     "wof:parent_id":85671561,
     "wof:placetype":"county",

@@ -77,6 +77,7 @@
     "wof:concordances":{
         "hasc:id":"GW.BA.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309803,
     "wof:geomhash":"8b231ca3d08666483b9ad3e6bfc296e6",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108758191,
-    "wof:lastmodified":1694498048,
+    "wof:lastmodified":1695886630,
     "wof:name":"Galomaro",
     "wof:parent_id":85671557,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067594,
-    "geom:area_square_m":818708286.814531,
+    "geom:area_square_m":818708749.375027,
     "geom:bbox":"-15.124832,11.409385,-14.837076,11.835614",
     "geom:latitude":11.612535,
     "geom:longitude":-14.984588,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"GW.QU.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309838,
-    "wof:geomhash":"f286cfae797d6ad610bf2c593774b52a",
+    "wof:geomhash":"ded233cff8c7b4ec3564e5865381a67d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108758253,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886630,
     "wof:name":"Buba",
     "wof:parent_id":85671555,
     "wof:placetype":"county",
