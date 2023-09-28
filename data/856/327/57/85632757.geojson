@@ -1177,6 +1177,7 @@
         "hasc:id":"GW",
         "icao:code":"J5",
         "ioc:id":"GBS",
+        "iso:code":"GW",
         "itu:id":"GNB",
         "m49:code":"624",
         "marc:id":"pg",
@@ -1190,6 +1191,7 @@
         "wk:page":"Guinea-Bissau",
         "wmo:id":"GW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GW",
     "wof:country_alpha3":"GNB",
     "wof:geom_alt":[
@@ -1211,7 +1213,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1694639495,
+    "wof:lastmodified":1695881148,
     "wof:name":"Guinea Bissau",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
