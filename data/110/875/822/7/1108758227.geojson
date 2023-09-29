@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085165,
-    "geom:area_square_m":1028788089.941683,
+    "geom:area_square_m":1028788238.107284,
     "geom:bbox":"-16.711828,12.181222,-16.023622,12.472778",
     "geom:latitude":12.33096,
     "geom:longitude":-16.324258,
@@ -99,9 +99,10 @@
         "hasc:id":"GW.CA.SD",
         "wd:id":"Q771106"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309821,
-    "wof:geomhash":"2eff78ef103381f77f0d1a1b5032dc9e",
+    "wof:geomhash":"4e2e7e7e7d0bb7633478d51e10d192bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108758227,
-    "wof:lastmodified":1690930128,
+    "wof:lastmodified":1695886350,
     "wof:name":"Sao Domingos",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042136,
-    "geom:area_square_m":509827090.527164,
+    "geom:area_square_m":509827063.995349,
     "geom:bbox":"-16.333778,11.756222,-15.978723,12.035402",
     "geom:latitude":11.899413,
     "geom:longitude":-16.157321,
@@ -102,9 +102,10 @@
         "hasc:id":"GW.CA.CI",
         "wd:id":"Q3649970"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309819,
-    "wof:geomhash":"b836abd7973cc5a62a063baef8560d76",
+    "wof:geomhash":"295df45485a58a34906b9ed9b133a2d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108758223,
-    "wof:lastmodified":1690930128,
+    "wof:lastmodified":1695886630,
     "wof:name":"Caio",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

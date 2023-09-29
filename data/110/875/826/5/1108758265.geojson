@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051951,
-    "geom:area_square_m":629837148.911018,
+    "geom:area_square_m":629837384.535147,
     "geom:bbox":"-15.421306,11.213864,-15.095295,11.479446",
     "geom:latitude":11.344095,
     "geom:longitude":-15.250848,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GW.TO.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309845,
-    "wof:geomhash":"f4662bde8ba9a3be34c12546c67cc801",
+    "wof:geomhash":"7cf156b88c1eed687030251e51a7e7a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108758265,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886631,
     "wof:name":"Catio",
     "wof:parent_id":85671561,
     "wof:placetype":"county",

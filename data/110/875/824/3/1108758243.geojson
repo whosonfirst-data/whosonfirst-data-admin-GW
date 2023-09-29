@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134912,
-    "geom:area_square_m":1628414043.164181,
+    "geom:area_square_m":1628413927.309597,
     "geom:bbox":"-15.487259,12.371317,-14.84694,12.684722",
     "geom:latitude":12.541031,
     "geom:longitude":-15.152345,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"GW.OI.FM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309834,
-    "wof:geomhash":"672d85345d2832516b250ed88c79c0a4",
+    "wof:geomhash":"0360df819956815d82da4ea8e9de572a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108758243,
-    "wof:lastmodified":1636494423,
+    "wof:lastmodified":1695886541,
     "wof:name":"Farim",
     "wof:parent_id":85671551,
     "wof:placetype":"county",

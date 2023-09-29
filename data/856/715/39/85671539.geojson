@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007536,
-    "geom:area_square_m":91187981.764987,
+    "geom:area_square_m":91187981.764997,
     "geom:bbox":"-15.662189,11.797055,-15.550796,11.938732",
     "geom:latitude":11.872096,
     "geom:longitude":-15.610759,
@@ -593,11 +593,13 @@
         "gn:id":2374776,
         "gp:id":2346610,
         "hasc:id":"GW.BS",
+        "iso:code":"GW-BS",
         "iso:id":"GW-BS",
         "qs_pg:id":318644,
         "wd:id":"Q3739",
         "wk:page":"Bissau"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421197943,
         1108758205
@@ -606,7 +608,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8e4d1c7e7b857c8f8d6dec3419890234",
+    "wof:geomhash":"b3cab57c83dc670f8461a5bf6e53c677",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -621,7 +623,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690930124,
+    "wof:lastmodified":1695884464,
     "wof:name":"Bissau",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

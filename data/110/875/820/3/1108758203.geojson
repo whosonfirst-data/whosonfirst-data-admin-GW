@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014091,
-    "geom:area_square_m":170464634.337943,
+    "geom:area_square_m":170464634.337934,
     "geom:bbox":"-15.729132272,11.8540742693,-15.6107520157,12.0280474567",
     "geom:latitude":11.936798,
     "geom:longitude":-15.673073,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"GW.BM.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309808,
-    "wof:geomhash":"b4904c83702b057acaeff8b6aa6c4ad6",
+    "wof:geomhash":"be75922817fee015c800cccf11c81f5f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108758203,
-    "wof:lastmodified":1566644093,
+    "wof:lastmodified":1695886348,
     "wof:name":"Safim",
     "wof:parent_id":85671535,
     "wof:placetype":"county",

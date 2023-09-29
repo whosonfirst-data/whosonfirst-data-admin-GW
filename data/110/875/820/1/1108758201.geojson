@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036484,
-    "geom:area_square_m":441457417.694678,
+    "geom:area_square_m":441457650.415425,
     "geom:bbox":"-15.968778,11.734555,-15.704035,12.009958",
     "geom:latitude":11.884698,
     "geom:longitude":-15.837924,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"GW.BM.QN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309807,
-    "wof:geomhash":"d34a795ef622a9797a8a608b298f175c",
+    "wof:geomhash":"b7e72dae8a704f956c9b5ad8f61e2691",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108758201,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886630,
     "wof:name":"Quinhamel",
     "wof:parent_id":85671535,
     "wof:placetype":"county",

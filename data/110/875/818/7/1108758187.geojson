@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066395,
-    "geom:area_square_m":802976845.487345,
+    "geom:area_square_m":802976845.487319,
     "geom:bbox":"-15.0710443643,11.8352162489,-14.7177652859,12.2041647446",
     "geom:latitude":12.024065,
     "geom:longitude":-14.899643,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"GW.BA.BM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309801,
-    "wof:geomhash":"8a6bdf24184d4d71be1d022d93d32b0a",
+    "wof:geomhash":"a0b75aa2f1326c811283f391817d6ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108758187,
-    "wof:lastmodified":1566644092,
+    "wof:lastmodified":1695886348,
     "wof:name":"Bambadinca",
     "wof:parent_id":85671557,
     "wof:placetype":"county",

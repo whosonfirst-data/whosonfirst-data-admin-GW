@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234592,
-    "geom:area_square_m":2840845797.80286,
+    "geom:area_square_m":2840846327.508258,
     "geom:bbox":"-15.621278,11.324583,-14.837076,11.955389",
     "geom:latitude":11.66618,
     "geom:longitude":-15.174852,
@@ -282,17 +282,19 @@
         "gn:id":2370360,
         "gp:id":2346604,
         "hasc:id":"GW.QU",
+        "iso:code":"GW-QU",
         "iso:id":"GW-QU",
         "qs_pg:id":496859,
         "unlc:id":"GW-QU",
         "wd:id":"Q862617",
         "wk:page":"Quinara Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"59e9194e66ddc270fc43e06399d523c8",
+    "wof:geomhash":"ed07218a0bd6db336251e3534bafa6f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690930124,
+    "wof:lastmodified":1695884763,
     "wof:name":"Quinara",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

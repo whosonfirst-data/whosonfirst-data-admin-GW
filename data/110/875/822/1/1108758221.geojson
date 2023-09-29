@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076893,
-    "geom:area_square_m":929405402.849753,
+    "geom:area_square_m":929405259.339102,
     "geom:bbox":"-16.352083,11.994555,-15.92271,12.337201",
     "geom:latitude":12.176126,
     "geom:longitude":-16.136536,
@@ -155,9 +155,10 @@
     "wof:concordances":{
         "hasc:id":"GW.CA.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309817,
-    "wof:geomhash":"ade615db9097197a50e2f868e169f961",
+    "wof:geomhash":"c1ce0e6932cec8dc0cea9b7eaebb16eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":1108758221,
-    "wof:lastmodified":1636494424,
+    "wof:lastmodified":1695886541,
     "wof:name":"Cacheu",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007536,
-    "geom:area_square_m":91187981.764985,
+    "geom:area_square_m":91187981.764991,
     "geom:bbox":"-15.662189,11.797055,-15.550796,11.938732",
     "geom:latitude":11.872096,
     "geom:longitude":-15.610759,
@@ -65,13 +65,14 @@
     "wof:concordances":{
         "hasc:id":"GW.BS.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671539,
         421197943
     ],
     "wof:country":"GW",
     "wof:created":1481309810,
-    "wof:geomhash":"1c49a82c8a8f8de315bbb2cfdb1ad1aa",
+    "wof:geomhash":"bc521c3987afab437b94fcc85886caf8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108758205,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886630,
     "wof:name":"Sector Autonomo de Bissau",
     "wof:parent_id":85671539,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.265296,
-    "geom:area_square_m":3210719325.990977,
+    "geom:area_square_m":3210719404.279843,
     "geom:bbox":"-14.512558,11.559308,-13.696547,12.162373",
     "geom:latitude":11.83321,
     "geom:longitude":-14.068262,
@@ -104,9 +104,10 @@
     "wof:concordances":{
         "hasc:id":"GW.GA.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309822,
-    "wof:geomhash":"c03917d4fa0c078a84d1a6625632a3ec",
+    "wof:geomhash":"d21340efd121fc3c8e6282ba2a5f4589",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108758229,
-    "wof:lastmodified":1636494424,
+    "wof:lastmodified":1695886542,
     "wof:name":"Boe",
     "wof:parent_id":85671559,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.455138,
-    "geom:area_square_m":5498868887.893333,
+    "geom:area_square_m":5498868418.146829,
     "geom:bbox":"-15.755686,11.887591,-14.84694,12.684722",
     "geom:latitude":12.289726,
     "geom:longitude":-15.27161,
@@ -292,17 +292,19 @@
         "gn:id":2371071,
         "gp:id":2346605,
         "hasc:id":"GW.OI",
+        "iso:code":"GW-OI",
         "iso:id":"GW-OI",
         "qs_pg:id":496860,
         "unlc:id":"GW-OI",
         "wd:id":"Q853991",
         "wk:page":"Oio Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf96dadad5dd40c50d823ba6cf5d94d6",
+    "wof:geomhash":"9ea0124dff3579389677dadcef5dab6b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -317,7 +319,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690930123,
+    "wof:lastmodified":1695884762,
     "wof:name":"Oio",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053221,
-    "geom:area_square_m":643611403.431112,
+    "geom:area_square_m":643611403.431153,
     "geom:bbox":"-16.1970108283,11.89541626,-15.8620280598,12.2167724131",
     "geom:latitude":12.041824,
     "geom:longitude":-16.006859,
@@ -104,9 +104,10 @@
     "wof:concordances":{
         "hasc:id":"GW.CA.CN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309820,
-    "wof:geomhash":"d089a1272acbabe598e8fc8c9ca87aea",
+    "wof:geomhash":"8be5ffffabc6e4349af47d7901810605",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108758225,
-    "wof:lastmodified":1566644099,
+    "wof:lastmodified":1695886350,
     "wof:name":"Canchungo",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082456,
-    "geom:area_square_m":995901420.14845,
+    "geom:area_square_m":995901420.148452,
     "geom:bbox":"-16.1088668382,12.213830482,-15.4797719471,12.522155852",
     "geom:latitude":12.373783,
     "geom:longitude":-15.784079,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"GW.CA.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309815,
-    "wof:geomhash":"506b0b39f7deb31dffc8569674b42adf",
+    "wof:geomhash":"a9581380c3657647f2e8a24e32c48412",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108758217,
-    "wof:lastmodified":1566644093,
+    "wof:lastmodified":1695886348,
     "wof:name":"Bigene",
     "wof:parent_id":85671547,
     "wof:placetype":"county",

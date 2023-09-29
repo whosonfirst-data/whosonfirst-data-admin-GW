@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292476,
-    "geom:area_square_m":3546074056.585186,
+    "geom:area_square_m":3546074514.269459,
     "geom:bbox":"-15.421306,10.918722,-14.406732,11.69897",
     "geom:latitude":11.326096,
     "geom:longitude":-14.989494,
@@ -282,17 +282,19 @@
         "gn:id":2368955,
         "gp:id":2346608,
         "hasc:id":"GW.TO",
+        "iso:code":"GW-TO",
         "iso:id":"GW-TO",
         "qs_pg:id":894974,
         "unlc:id":"GW-TO",
         "wd:id":"Q1047255",
         "wk:page":"Tombali Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3bf1c228426b0a0c70c3c1e00b8c00e",
+    "wof:geomhash":"b2f3da21013db7ae39b815cacbee1513",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690930121,
+    "wof:lastmodified":1695884762,
     "wof:name":"Tombali",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

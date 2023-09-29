@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"GW.BA.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309804,
     "wof:geomhash":"5e1dea2c047157142dfb96d2de5fd6fc",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108758193,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886292,
     "wof:name":"Gamamudo",
     "wof:parent_id":85671557,
     "wof:placetype":"county",

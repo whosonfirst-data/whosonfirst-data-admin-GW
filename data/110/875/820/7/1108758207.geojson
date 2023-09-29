@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022479,
-    "geom:area_square_m":272295923.8862,
+    "geom:area_square_m":272295319.976021,
     "geom:bbox":"-15.737917,11.432889,-15.322083,11.686016",
     "geom:latitude":11.580535,
     "geom:longitude":-15.488815,
@@ -152,9 +152,10 @@
     "wof:concordances":{
         "hasc:id":"GW.BL.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309811,
-    "wof:geomhash":"406920bec442d6cb66e66963ede0c991",
+    "wof:geomhash":"488fd6d53ee9534bc969ec8f4d418008",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1108758207,
-    "wof:lastmodified":1636494423,
+    "wof:lastmodified":1695886541,
     "wof:name":"Bolama",
     "wof:parent_id":85671543,
     "wof:placetype":"county",

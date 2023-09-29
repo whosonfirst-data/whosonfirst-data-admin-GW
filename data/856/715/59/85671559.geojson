@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.759926,
-    "geom:area_square_m":9185650825.883781,
+    "geom:area_square_m":9185650513.37929,
     "geom:bbox":"-14.559141,11.559308,-13.626523,12.678889",
     "geom:latitude":12.160732,
     "geom:longitude":-14.107149,
@@ -282,17 +282,19 @@
         "gn:id":2372533,
         "gp:id":2346609,
         "hasc:id":"GW.GA",
+        "iso:code":"GW-GA",
         "iso:id":"GW-GA",
         "qs_pg:id":1004451,
         "unlc:id":"GW-GA",
         "wd:id":"Q872212",
         "wk:page":"Gab\u00fa Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"681a6a953babcc6881372d82a6c37e27",
+    "wof:geomhash":"09fa39716d3e1ee864383561d9d14a02",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690930121,
+    "wof:lastmodified":1695884330,
     "wof:name":"Gab\u00fa",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

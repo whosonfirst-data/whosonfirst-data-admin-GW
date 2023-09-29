@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048592,
-    "geom:area_square_m":589604082.414611,
+    "geom:area_square_m":589604548.43911,
     "geom:bbox":"-15.11125,10.918722,-14.812496,11.283607",
     "geom:latitude":11.104581,
     "geom:longitude":-14.969925,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"GW.TO.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309844,
-    "wof:geomhash":"23cd0e6f757110ef0ad239a39111e320",
+    "wof:geomhash":"fa59062b0654f1820ea2e5e37b5f30e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108758263,
-    "wof:lastmodified":1627522162,
+    "wof:lastmodified":1695886631,
     "wof:name":"Cacine",
     "wof:parent_id":85671561,
     "wof:placetype":"county",

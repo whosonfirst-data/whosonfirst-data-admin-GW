@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064001,
-    "geom:area_square_m":774430103.704618,
+    "geom:area_square_m":774430364.85623,
     "geom:bbox":"-15.968778,11.734555,-15.610752,12.028047",
     "geom:latitude":11.88204,
     "geom:longitude":-15.783502,
@@ -279,17 +279,19 @@
         "gn:id":2374820,
         "gp:id":2346611,
         "hasc:id":"GW.BM",
+        "iso:code":"GW-BM",
         "iso:id":"GW-BM",
         "qs_pg:id":988723,
         "unlc:id":"GW-BM",
         "wd:id":"Q872228",
         "wk:page":"Biombo Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"573471a6d33eb51a126d7d05c305f629",
+    "wof:geomhash":"ad61670f030e2981671467ebf6b97099",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -304,7 +306,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690930123,
+    "wof:lastmodified":1695884762,
     "wof:name":"Biombo",
     "wof:parent_id":85632757,
     "wof:placetype":"region",

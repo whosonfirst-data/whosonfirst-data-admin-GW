@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183287,
-    "geom:area_square_m":2215738426.847084,
+    "geom:area_square_m":2215738426.847096,
     "geom:bbox":"-14.5449885983,11.8930432233,-13.9841095087,12.4530238996",
     "geom:latitude":12.134549,
     "geom:longitude":-14.253013,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"GW.GA.GB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309823,
-    "wof:geomhash":"108329aa7776c7a14d07bb71fe67a30a",
+    "wof:geomhash":"6446d39e8ea4678ff535548a33e80689",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108758233,
-    "wof:lastmodified":1566644096,
+    "wof:lastmodified":1695886349,
     "wof:name":"Gabu",
     "wof:parent_id":85671559,
     "wof:placetype":"county",

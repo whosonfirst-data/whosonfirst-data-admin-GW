@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067718,
-    "geom:area_square_m":819681428.325981,
+    "geom:area_square_m":819681085.421292,
     "geom:bbox":"-15.307944,11.632028,-14.935968,11.955389",
     "geom:latitude":11.789705,
     "geom:longitude":-15.1316,
@@ -134,9 +134,10 @@
     "wof:concordances":{
         "hasc:id":"GW.QU.FC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309840,
-    "wof:geomhash":"a531d8ffadb2d526322055cb824164b5",
+    "wof:geomhash":"eb8199b7460e12dc69db80c1d2af0207",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108758257,
-    "wof:lastmodified":1636494424,
+    "wof:lastmodified":1695886542,
     "wof:name":"Fulacunda",
     "wof:parent_id":85671555,
     "wof:placetype":"county",

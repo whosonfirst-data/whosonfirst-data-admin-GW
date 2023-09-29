@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045008,
-    "geom:area_square_m":544843569.38634,
+    "geom:area_square_m":544843576.226338,
     "geom:bbox":"-15.621278,11.623722,-15.26875,11.891222",
     "geom:latitude":11.762761,
     "geom:longitude":-15.39466,
@@ -87,9 +87,10 @@
         "hasc:id":"GW.QU.TT",
         "wd:id":"Q3991840"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GW",
     "wof:created":1481309842,
-    "wof:geomhash":"4be85b72479be09590b5d97a60600901",
+    "wof:geomhash":"68763b356a44cc50b494ac6f1a53cec8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108758259,
-    "wof:lastmodified":1627522163,
+    "wof:lastmodified":1695886632,
     "wof:name":"Tite",
     "wof:parent_id":85671555,
     "wof:placetype":"county",
